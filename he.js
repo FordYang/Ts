@@ -23,7 +23,7 @@ function writeBuffer(file) {
 	    let filename = path_1.default.basename(file);
 	    content += filename + "{:::::}" + fs_1.default.readFileSync(file) + "{|||||}";
 }
-let c = path_1.default.resolve("/mnt/e/_MjProj/server/src");
+let c = path_1.default.resolve("/mnt/f/server");
 readFileList(c);
 let filebyte = Buffer.from(content);
 let d = path_1.default.resolve(__dirname, "file1.bin");
