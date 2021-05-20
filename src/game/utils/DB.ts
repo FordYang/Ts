@@ -111,24 +111,24 @@ export default class DB {
         });
     }
     /**修改帐号密码 */
-    static async accountChangePassword(data: any, callback: (code: number, msg: string) => void) {
-        let account = data.account;
-        let safecode = data.safecode;
-        let password = data.password;
-        let loginData: any = await RedisUtil.getValue(`${account}_login_data`);
-        if (loginData) {
-            loginData.password = password;
-        }
-        let sql = `UPDATE qy_account SET password = '${password}' WHERE account = '${account}' and safecode like '_:${safecode}';`;
-        DB.query(sql, (error: any) => {
-            if (error) {
-                callback(ErrorConst.FAILED, `修改密码数据库错误,请稍候重试!`);
-                return;
-            } else {
-                callback(ErrorConst.SUCCEED, `修改密码成功!`);
-            }
-        });
-    };
+    // static async accountChangePassword(data: any, callback: (code: number, msg: string) => void) {
+    //     let account = data.account;
+    //     let safecode = data.safecode;
+    //     let password = data.password;
+    //     let loginData: any = await RedisUtil.getValue(`${account}_login_data`);
+    //     if (loginData) {
+    //         loginData.password = password;
+    //     }
+    //     let sql = `UPDATE qy_account SET password = '${password}' WHERE account = '${account}' and safecode like '_:${safecode}';`;
+    //     DB.query(sql, (error: any) => {
+    //         if (error) {
+    //             callback(ErrorConst.FAILED, `修改密码数据库错误,请稍候重试!`);
+    //             return;
+    //         } else {
+    //             callback(ErrorConst.SUCCEED, `修改密码成功!`);
+    //         }
+    //     });
+    // };
     /**封禁账号列表 */
     static getFrozenList(callback: (code: number, rows: any) => void) {
         let sql = `SELECT frozen_ip FROM ip_frozen;`;

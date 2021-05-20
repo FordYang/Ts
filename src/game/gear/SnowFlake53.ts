@@ -1,4 +1,3 @@
-import moment, { months } from "moment";
 import Logger from "./Logger";
 
 /**
@@ -117,13 +116,6 @@ export default class SnowFlack53 {
      */
     private timeGen(): bigint {
         let result = BigInt(Math.floor(new Date().valueOf() / 1000));
-        return result;
-    }
-    // 获得分步式自增ID日期
-    public getDate(id: bigint): string {
-        let timestamp = ((id >> this.timestampLeftShift) + this.twepoch) * 1000n;
-        let temp = parseInt(timestamp.toString())
-        let result = moment(temp).format("YYYY-MM-DD hh:mm:ss");
         return result;
     }
     // 获得分步式自增ID机器ID

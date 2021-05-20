@@ -14,14 +14,11 @@ import FrozenMacMgr from "./FrozenMacMgr";
 import Server from "./Server";
 import MailRecord from "../dbrecord/MailRecord";
 import GateDB from "./GateDB";
-import urlencode from 'urlencode';
 import DBForm from "../utils/DBForm";
 import mysql from "mysql";
 import OperateMgr from "./OperateMgr";
 import { EServerState } from "../consts/EServerState";
 import DateUtil from "../gear/DateUtil";
-import Md5Sign from "./Sign";
-import { ItemConfig } from "../config/ItemConfig";
 
 export default class HttpGate {
     /**引用自身  */
@@ -403,7 +400,6 @@ export default class HttpGate {
         let account_id = req.query.account_id;
         let server_id = req.query.server_id;
         let role_name = req.query.role_name;
-        role_name = urlencode.decode(role_name, 'UTF-8');
         let profession = req.query.profession;
         let namelimit = ['江湖', '如来', '第一人'];
         if (role_name.length < 1) {
@@ -1618,8 +1614,6 @@ export default class HttpGate {
             id_number: query.id_number,
             notify_url: query.notify_url,
         }
-
-        Md5Sign.onSignMd5(parma);
 
         Http.sendPost("dev-sdk.jingyougz.com", '/api/v2/fcm/open_commit', parma, (data: any) => {
             console.log("author_player", data);

@@ -1,4 +1,3 @@
-import Md5Sign from "../gate/Sign";
 import DB from "../utils/DB";
 import Http from "../utils/Http";
 
@@ -58,8 +57,6 @@ export default class AuthorMgr {
     public playerAuthor(parmas: any, account: number) {
         /**加入缓存 */
         this.addAuthorID(account);
-
-        Md5Sign.onSignMd5(parmas);
 
         let sql = `update cy_account SET realname = '${parmas['name']}', realid = '${parmas['id_number']}' where account = ${account};`;
         DB.query(sql);

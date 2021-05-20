@@ -1,5 +1,3 @@
-import moment from "moment";
-
 /**
  * Twitter_Snowflake
  *
@@ -122,13 +120,6 @@ export default class SnowFlack {
      */
     timeGen(): bigint {
         return BigInt(new Date().valueOf());
-    }
-    // 获得分步式自增ID日期
-    public getDate(id: bigint): string {
-        let timestamp = ((id >> this.timestampLeftShift) + this.twepoch);
-        let temp = parseInt(timestamp.toString())
-        let result = moment(temp).format("YYYY-MM-DD hh:mm:ss");
-        return result;
     }
     // 获得分步式自增ID机器ID
     public getWorkerId(id: bigint): number {

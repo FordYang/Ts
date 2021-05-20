@@ -1,12 +1,7 @@
 
-import log4js from 'log4js';
-
 export default class Logger {
     /**是否开启调试 */
     static isDebug: boolean = true;
-
-    /**日志输出 */
-    static logger4js = log4js.getLogger();
 
     /**输出 */
     public static log(message?: any, ...optionalParams: any[]): void 
