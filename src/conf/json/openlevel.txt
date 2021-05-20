@@ -1,0 +1,90 @@
+{
+  "1": {
+    "id": "jingmai",
+    "intValue": 30,
+    "describe": "30级开放经脉"
+  },
+  "2": {
+    "id": "rank",
+    "intValue": 30,
+    "describe": "30级开放排行榜"
+  },
+  "3": {
+    "id": "mobai",
+    "intValue": 30,
+    "describe": "30级开放膜拜"
+  },
+  "4": {
+    "id": "shenqi",
+    "intValue": 25,
+    "describe": "25级开启神器-狂风项链"
+  },
+  "5": {
+    "id": "kuangdong",
+    "intValue": 18,
+    "describe": "18级开启激情矿洞"
+  },
+  "6": {
+    "id": "mhp",
+    "arrayValue": [
+      1,
+      4,
+      10,
+      18,
+      18,
+      18,
+      18
+    ],
+    "describe": "各品质怪物血量倍数"
+  },
+  "7": {
+    "id": "matk",
+    "arrayValue": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "describe": "各品质怪物攻击倍数"
+  },
+  "8": {
+    "id": "mfixeddamage",
+    "arrayValue": [
+      1,
+      1.05,
+      1.1,
+      1.15,
+      1.15,
+      1.15
+    ],
+    "describe": "各品质怪物固伤倍数"
+  },
+  "9": {
+    "id": "mexp",
+    "arrayValue": [
+      1,
+      2,
+      6,
+      11,
+      11,
+      11
+    ],
+    "describe": "各品质怪物经验倍数"
+  },
+  "10": {
+    "id": "kuangkeng",
+    "arrayValue": [
+      300,
+      90,
+      45,
+      9,
+      9,
+      9
+    ],
+    "describe": "矿洞各层数的坑位数量"
+  }
+}

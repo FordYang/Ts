@@ -1,0 +1,1044 @@
+{
+  "1": {
+    "id": 1001,
+    "order": 1,
+    "name": "穿戴任意两件装备",
+    "type": 1,
+    "exp": 100,
+    "gold": 500,
+    "reward1": [
+      100010,
+      20
+    ],
+    "guide": true,
+    "type2": 16,
+    "parameter1": 2,
+    "describe": "打开背包，穿戴新手装备"
+  },
+  "2": {
+    "id": 1002,
+    "order": 2,
+    "name": "前往<color=#FF9900>【银杏村外】</c>",
+    "type": 1,
+    "exp": 150,
+    "gold": 600,
+    "reward1": [
+      100020,
+      20
+    ],
+    "guide": true,
+    "type2": 15,
+    "parameter1": 1002,
+    "describe": "点击地图上的【新手村外】踏入赤炎血途，开启冒险之旅"
+  },
+  "3": {
+    "id": 1003,
+    "order": 3,
+    "name": "消灭村外怪物",
+    "type": 1,
+    "exp": 600,
+    "gold": 700,
+    "reward_zs": [
+      124001,
+      1,
+      3
+    ],
+    "reward_fs": [
+      124002,
+      1,
+      3
+    ],
+    "reward_ds": [
+      124003,
+      1,
+      3
+    ],
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1002,
+    "parameter3": [
+      1001,
+      1002
+    ],
+    "parameter2": 5,
+    "describe": "银杏村外的家禽受到魔物的影响变得焦躁不安，快去消灭他们，一展身手"
+  },
+  "4": {
+    "id": 1004,
+    "order": 4,
+    "name": "【强化】任意部位5次",
+    "type": 1,
+    "exp": 500,
+    "gold": 1000,
+    "guide": true,
+    "type2": 7,
+    "parameter1": 5,
+    "describe": "强化装备可以大大提高角色属性，提高杀怪效率。点击[角色]-[强化]"
+  },
+  "5": {
+    "id": 1005,
+    "order": 5,
+    "name": "初入<color=#FF9900>【比奇城】</c>",
+    "type": 1,
+    "exp": 600,
+    "gold": 900,
+    "guide": true,
+    "type2": 15,
+    "parameter1": 1004,
+    "describe": "一路向北，进入比奇城南，再向北走即可进入[比奇城]，若战力不足，可穿戴更高级的装备或强化装备提升战力"
+  },
+  "6": {
+    "id": 1006,
+    "order": 6,
+    "name": "前往<color=#FF9900>【沃玛森林】</c>",
+    "type": 1,
+    "exp": 1350,
+    "gold": 1200,
+    "reward2": [
+      115002,
+      1,
+      3
+    ],
+    "guide": true,
+    "type2": 15,
+    "parameter1": 1008,
+    "describe": "路线：[比奇城]-[比奇城西]-[沃玛森林]，若战力不足，可穿戴更高级的装备或强化装备提升战力"
+  },
+  "7": {
+    "id": 1007,
+    "order": 7,
+    "name": "消灭半兽人",
+    "type": 1,
+    "exp": 1500,
+    "gold": 1000,
+    "reward2": [
+      162001,
+      1,
+      3
+    ],
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1008,
+    "parameter3": [
+      1006,
+      1008
+    ],
+    "parameter2": 15,
+    "describe": "前往沃玛森林，消灭半兽人，阻止事态发展"
+  },
+  "8": {
+    "id": 1008,
+    "order": 8,
+    "name": "击杀[boss]：<color=#FF6600>半兽人勇士</c>",
+    "type": 1,
+    "exp": 1650,
+    "gold": 1400,
+    "reward1": [
+      103036,
+      2
+    ],
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1058,
+    "parameter3": [
+      2004
+    ],
+    "parameter2": 1,
+    "describe": "前往[森林深处]击杀半兽人勇士，用你的实力击败他，每个boss都会掉落非常丰厚的战利品"
+  },
+  "9": {
+    "id": 1009,
+    "order": 9,
+    "name": "使用【传送卷】回城",
+    "type": 1,
+    "exp": 1800,
+    "gold": 1500,
+    "reward1": [
+      100010,
+      30
+    ],
+    "guide": true,
+    "type2": 19,
+    "parameter1": 103036,
+    "parameter2": 1,
+    "describe": "在【战斗】界面，点击快捷物品栏的【传送卷】回到附近的城镇"
+  },
+  "10": {
+    "id": 1010,
+    "order": 10,
+    "name": "回收一次装备",
+    "type": 1,
+    "exp": 1200,
+    "gold": 1100,
+    "reward1": [
+      100020,
+      30
+    ],
+    "guide": true,
+    "type2": 17,
+    "parameter1": 1,
+    "describe": "进入【角色】，点击下方的商人，回收掉不需要的装备，可以获得大量的金币哦"
+  },
+  "11": {
+    "id": 1011,
+    "order": 11,
+    "name": "前往<color=#FF9900>【骷髅洞1层】</c>",
+    "type": 1,
+    "exp": 1950,
+    "gold": 1600,
+    "guide": true,
+    "type2": 15,
+    "parameter1": 1009,
+    "describe": "路线：[比奇城]-[比奇城北]-[骷髅洞1层]，若战力不足，可穿戴更高级的装备或强化装备提升战力"
+  },
+  "12": {
+    "id": 1012,
+    "order": 12,
+    "name": "清理骷髅洞1层",
+    "type": 1,
+    "exp": 1500,
+    "gold": 1000,
+    "reward2": [
+      164001,
+      1,
+      3
+    ],
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1009,
+    "parameter3": [
+      1012,
+      1013,
+      1014
+    ],
+    "parameter2": 20,
+    "describe": "路线：从【比奇城】往北，前往【骷髅洞1层】消灭骷髅洞1层的怪物"
+  },
+  "13": {
+    "id": 1013,
+    "order": 13,
+    "name": "调整游戏【设置】",
+    "type": 1,
+    "exp": 2100,
+    "gold": 1700,
+    "reward1": [
+      100010,
+      30
+    ],
+    "guide": true,
+    "type2": 18,
+    "parameter1": 1,
+    "describe": "前往设置界面，进行游戏相关设置"
+  },
+  "14": {
+    "id": 1014,
+    "order": 14,
+    "name": "击杀[boss]：<color=#FF6600>骷髅精灵",
+    "type": 1,
+    "exp": 2550,
+    "gold": 2000,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1011,
+    "parameter3": [
+      2001
+    ],
+    "parameter2": 1,
+    "describe": "前往[骷髅洞3层]击杀半兽人勇士，用你的实力击败他，每个boss都会掉落非常丰厚的战利品"
+  },
+  "15": {
+    "id": 1015,
+    "order": 15,
+    "name": "等级达到18级",
+    "type": 1,
+    "exp": 4500,
+    "gold": 3000,
+    "type2": 1,
+    "parameter1": 18,
+    "describe": "通过击杀怪物，离线经验，离线托管获得经验，将等级升至18级，推荐地图【骷髅洞】"
+  },
+  "16": {
+    "id": 1016,
+    "order": 16,
+    "name": "参加一次【挖矿】",
+    "type": 1,
+    "exp": 3000,
+    "gold": 2300,
+    "guide": true,
+    "type2": 18,
+    "parameter1": 6,
+    "describe": "等级达到18级，进入【玩法】，进入【挖矿】，寻找一个矿坑，点击【占领】开始湾矿"
+  },
+  "17": {
+    "id": 1017,
+    "order": 17,
+    "name": "前往<color=#FF9900>【毒蛇矿区】</c>",
+    "type": 1,
+    "exp": 2700,
+    "gold": 2100,
+    "guide": true,
+    "type2": 15,
+    "parameter1": 1013,
+    "describe": "路线：[比奇城]-[比奇城东]-[毒蛇矿区]，若战力不足，可穿戴更高级的装备或强化装备提升战力"
+  },
+  "18": {
+    "id": 1018,
+    "order": 18,
+    "name": "清理<color=#FF9900>【毒蛇矿区】</c>",
+    "type": 1,
+    "exp": 2850,
+    "gold": 2200,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1013,
+    "parameter3": [
+      1022,
+      1023,
+      1024
+    ],
+    "parameter2": 15,
+    "describe": "杀10只僵尸"
+  },
+  "19": {
+    "id": 1019,
+    "order": 19,
+    "name": "击杀boss：<color=#FF6600>电僵尸</c>",
+    "type": 1,
+    "exp": 3150,
+    "gold": 2400,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1018,
+    "parameter3": [
+      2002
+    ],
+    "parameter2": 1,
+    "describe": "前往【采矿所2层】击杀：电僵尸boss，可以点击战斗界面【boss】，打开boss列表，通过【传送】直接到达boss地图"
+  },
+  "20": {
+    "id": 1020,
+    "order": 20,
+    "name": "击杀boss：<color=#FF6600>尸王</c>",
+    "type": 1,
+    "exp": 3450,
+    "gold": 2600,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1019,
+    "parameter3": [
+      2003
+    ],
+    "parameter2": 1,
+    "describe": "前往尸王殿击杀BOSS：尸王，可以点击战斗界面【boss】，打开boss列表，通过【传送】直接到达boss地图"
+  },
+  "21": {
+    "id": 1021,
+    "order": 21,
+    "name": "洗练一次装备",
+    "type": 1,
+    "exp": 2250,
+    "gold": 1800,
+    "guide": true,
+    "type2": 11,
+    "parameter1": 1,
+    "describe": "选中一件带颜色的装备，点击[洗练]，洗练出极品属性"
+  },
+  "22": {
+    "id": 1022,
+    "order": 22,
+    "name": "击杀boss：<color=#FF6600>巨型多角虫</c>",
+    "type": 1,
+    "exp": 3450,
+    "gold": 2600,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1021,
+    "parameter3": [
+      2005
+    ],
+    "parameter2": 1,
+    "describe": "击杀BOSS：巨型多角虫，可以点击战斗界面【boss】，打开boss列表，通过【传送】直接到达boss地图"
+  },
+  "23": {
+    "id": 1023,
+    "order": 23,
+    "name": "前往盟重",
+    "type": 1,
+    "exp": 3750,
+    "gold": 2800,
+    "guide": true,
+    "type2": 15,
+    "parameter1": 1022,
+    "describe": "前往[盟重]"
+  },
+  "24": {
+    "id": 1024,
+    "order": 24,
+    "name": "等级达到30级",
+    "type": 1,
+    "exp": 3900,
+    "gold": 2900,
+    "guide": true,
+    "type2": 1,
+    "parameter1": 30,
+    "describe": "通过击杀怪物，离线经验，离线托管获得经验，将等级升至30级"
+  },
+  "25": {
+    "id": 1025,
+    "order": 25,
+    "name": "进行一次【经脉】提升",
+    "type": 1,
+    "exp": 2100,
+    "gold": 1700,
+    "reward1": [
+      103039,
+      2
+    ],
+    "guide": true,
+    "type2": 18,
+    "parameter1": 4,
+    "describe": "前往【角色】-【经脉】界面，进行一次经脉提升"
+  },
+  "26": {
+    "id": 1026,
+    "order": 26,
+    "name": "击杀boss：<color=#FF6600>邪恶钳虫</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1027,
+    "parameter3": [
+      2006
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "27": {
+    "id": 1027,
+    "order": 27,
+    "name": "战力提升到：8000",
+    "type": 1,
+    "exp": 4200,
+    "gold": 3000,
+    "guide": true,
+    "type2": 5,
+    "parameter1": 8000,
+    "describe": "提升战力：8000，通过强化、神兵、洗练、图签、经脉、穿戴高级装备均可快速提升战力"
+  },
+  "28": {
+    "id": 1028,
+    "order": 28,
+    "name": "击杀boss：<color=#FF6600>触龙神</c>",
+    "type": 1,
+    "exp": 4350,
+    "gold": 3000,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1031,
+    "parameter3": [
+      2007
+    ],
+    "parameter2": 1,
+    "describe": "前往[死亡棺材]击杀BOSS：触龙神"
+  },
+  "29": {
+    "id": 1029,
+    "order": 29,
+    "name": "等级达到40级",
+    "type": 1,
+    "exp": 4500,
+    "gold": 3000,
+    "type2": 1,
+    "parameter1": 40,
+    "describe": "通过击杀怪物，离线经验，离线托管获得经验，将等级升至30级"
+  },
+  "30": {
+    "id": 1030,
+    "order": 30,
+    "name": "前往沃玛寺庙",
+    "type": 1,
+    "exp": 3750,
+    "gold": 2800,
+    "type2": 15,
+    "parameter1": 1032,
+    "describe": "前往[沃玛寺庙]"
+  },
+  "31": {
+    "id": 1031,
+    "order": 31,
+    "name": "击杀boss：<color=#FF6600>沃玛教主</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "type2": 2,
+    "parameter1": 1034,
+    "parameter3": [
+      2008
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "32": {
+    "id": 1032,
+    "order": 32,
+    "name": "击杀boss：<color=#FF6600>白野猪</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "type2": 2,
+    "parameter1": 1038,
+    "parameter3": [
+      2009
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "33": {
+    "id": 1033,
+    "order": 33,
+    "name": "前往祖玛寺庙",
+    "type": 1,
+    "exp": 3750,
+    "gold": 2800,
+    "type2": 15,
+    "parameter1": 1043,
+    "describe": "前往[盟重]"
+  },
+  "34": {
+    "id": 1034,
+    "order": 34,
+    "name": "击杀boss：<color=#FF6600>祖玛教主</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "type2": 2,
+    "parameter1": 1051,
+    "parameter3": [
+      2011
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "35": {
+    "id": 1035,
+    "order": 35,
+    "name": "前往白日门",
+    "type": 1,
+    "exp": 3750,
+    "gold": 2800,
+    "type2": 15,
+    "parameter1": 1052,
+    "describe": "前往[盟重]"
+  },
+  "36": {
+    "id": 1036,
+    "order": 36,
+    "name": "击杀boss：<color=#FF6600>双头金刚</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "type2": 2,
+    "parameter1": 1056,
+    "parameter3": [
+      2012
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "37": {
+    "id": 1037,
+    "order": 37,
+    "name": "击杀boss：<color=#FF6600>双头血魔</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "type2": 2,
+    "parameter1": 1061,
+    "parameter3": [
+      2013
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "38": {
+    "id": 1038,
+    "order": 38,
+    "name": "击杀boss：<color=#FF6600>赤月恶魔</c>",
+    "type": 1,
+    "exp": 4050,
+    "gold": 3000,
+    "type2": 2,
+    "parameter1": 1062,
+    "parameter3": [
+      2014
+    ],
+    "parameter2": 1,
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫"
+  },
+  "39": {
+    "id": 1039,
+    "order": 39,
+    "name": "备战<color=#FF9900>【封魔谷】</c>",
+    "type": 1,
+    "exp": 3750,
+    "gold": 2800,
+    "type2": 15,
+    "parameter1": 1057,
+    "describe": "前往[封魔谷]，封魔谷及其凶险，请英雄准备好了再来"
+  },
+  "40": {
+    "id": 1040,
+    "name": "击杀30-39级怪物",
+    "type": 3,
+    "lvl": 30,
+    "exp": 1000000,
+    "gold": 50000,
+    "type2": 2,
+    "parameter3": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "parameter2": 1000,
+    "describe": "击杀30-39级怪物，推荐地图："
+  },
+  "41": {
+    "id": 1041,
+    "name": "击杀40-49级怪物",
+    "type": 3,
+    "lvl": 40,
+    "exp": 2000000,
+    "gold": 100000,
+    "type2": 2,
+    "parameter3": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "parameter2": 1000,
+    "describe": "击杀30-39级怪物，推荐地图："
+  },
+  "42": {
+    "id": 1042,
+    "name": "击杀50-59级怪物",
+    "type": 3,
+    "lvl": 50,
+    "exp": 3000000,
+    "gold": 150000,
+    "type2": 2,
+    "parameter3": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "parameter2": 1000,
+    "describe": "击杀30-39级怪物，推荐地图："
+  },
+  "43": {
+    "id": 1043,
+    "name": "击杀60-69级怪物",
+    "type": 3,
+    "lvl": 60,
+    "exp": 4000000,
+    "gold": 200000,
+    "type2": 2,
+    "parameter3": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "parameter2": 1000,
+    "describe": "击杀30-39级怪物，推荐地图："
+  },
+  "44": {
+    "id": 1044,
+    "name": "击杀70-79级怪物",
+    "type": 3,
+    "lvl": 70,
+    "exp": 5000000,
+    "gold": 250000,
+    "type2": 2,
+    "parameter3": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "parameter2": 1000,
+    "describe": "击杀30-39级怪物，推荐地图："
+  },
+  "45": {
+    "id": 1045,
+    "name": "击杀80-89级怪物",
+    "type": 3,
+    "lvl": 80,
+    "exp": 6000000,
+    "gold": 300000,
+    "type2": 2,
+    "parameter3": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "parameter2": 1000,
+    "describe": "击杀30-39级怪物，推荐地图："
+  },
+  "46": {
+    "id": 1046,
+    "name": "获得一件紫色装备",
+    "type": 1,
+    "exp": 5250,
+    "gold": 3800,
+    "guide": true,
+    "type2": 4,
+    "parameter1": 5,
+    "parameter2": 10,
+    "describe": "获得10件橙色装备"
+  },
+  "47": {
+    "id": 1047,
+    "name": "沃玛卫士",
+    "type": 1,
+    "exp": 5400,
+    "gold": 3900,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1050,
+    "parameter2": 3000,
+    "describe": "击杀3000只沃玛贴身卫士"
+  },
+  "48": {
+    "id": 1048,
+    "name": "击杀沃玛教主",
+    "type": 1,
+    "exp": 5550,
+    "gold": 4000,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 2008,
+    "parameter2": 15,
+    "describe": "击杀BOSS：沃玛教主15次"
+  },
+  "49": {
+    "id": 1049,
+    "name": "完成所有任务",
+    "type": 1,
+    "exp": 5700,
+    "gold": 4100,
+    "guide": true,
+    "type2": 10,
+    "parameter1": 5,
+    "describe": "完成第五章所有任务"
+  },
+  "50": {
+    "id": 1050,
+    "name": "提升等级",
+    "type": 1,
+    "exp": 5850,
+    "gold": 4200,
+    "guide": true,
+    "type2": 1,
+    "parameter1": 60,
+    "describe": "等级提升到60级"
+  },
+  "51": {
+    "id": 1051,
+    "name": "提升战力",
+    "type": 1,
+    "exp": 6000,
+    "gold": 4300,
+    "guide": true,
+    "type2": 5,
+    "parameter1": 11000,
+    "describe": "战力提升到11000"
+  },
+  "52": {
+    "id": 1052,
+    "name": "强化装备",
+    "type": 1,
+    "exp": 6150,
+    "gold": 4400,
+    "guide": true,
+    "type2": 7,
+    "parameter1": 50,
+    "describe": "全身装备强化+50"
+  },
+  "53": {
+    "id": 1053,
+    "name": "进行1000次洗练",
+    "type": 1,
+    "exp": 6300,
+    "gold": 4500,
+    "guide": true,
+    "type2": 11,
+    "parameter1": 1000,
+    "describe": "进行1000次洗练"
+  },
+  "54": {
+    "id": 1054,
+    "name": "击杀黑野猪",
+    "type": 1,
+    "exp": 6450,
+    "gold": 4600,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1055,
+    "parameter2": 5000,
+    "describe": "前往[石墓2层]击杀5000只黑野猪"
+  },
+  "55": {
+    "id": 1055,
+    "name": "击杀白野猪",
+    "type": 1,
+    "exp": 6600,
+    "gold": 4700,
+    "guide": true
+  },
+  "56": {
+    "id": 1056,
+    "name": "击杀石墓尸王",
+    "type": 1,
+    "exp": 6750,
+    "gold": 4800,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 2010,
+    "parameter2": 50,
+    "describe": "前往[石墓7层]击杀BOSS：石墓尸王50次"
+  },
+  "57": {
+    "id": 1057,
+    "name": "击杀祖玛勇士",
+    "type": 1,
+    "exp": 6900,
+    "gold": 4900,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1076,
+    "parameter2": 5000,
+    "describe": "前往[祖玛5层]击杀5000只祖玛勇士"
+  },
+  "58": {
+    "id": 1058,
+    "name": "击杀祖玛教主",
+    "type": 1,
+    "exp": 7050,
+    "gold": 5000,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 2011,
+    "parameter2": 50,
+    "describe": "前往[祖玛大殿]击杀BOSS：祖玛教主50次"
+  },
+  "59": {
+    "id": 1059,
+    "name": "绝品洗练",
+    "type": 1,
+    "exp": 7200,
+    "gold": 5100,
+    "guide": true,
+    "describe": "穿戴3件 三橙色词条橙装"
+  },
+  "60": {
+    "id": 1060,
+    "name": "经脉突破一阶",
+    "type": 1,
+    "exp": 7350,
+    "gold": 5200,
+    "guide": true
+  },
+  "61": {
+    "id": 1061,
+    "name": "完成所有任务",
+    "type": 1,
+    "exp": 7500,
+    "gold": 5300,
+    "guide": true,
+    "type2": 10,
+    "parameter1": 6,
+    "describe": "完成第六章所有任务"
+  },
+  "62": {
+    "id": 1062,
+    "name": "提升等级",
+    "type": 1,
+    "exp": 7650,
+    "gold": 5400,
+    "guide": true,
+    "type2": 1,
+    "parameter1": 70,
+    "describe": "等级提升到70级"
+  },
+  "63": {
+    "id": 1063,
+    "name": "提升战力",
+    "type": 1,
+    "exp": 7800,
+    "gold": 5500,
+    "guide": true,
+    "type2": 5,
+    "parameter1": 15000,
+    "describe": "战力提升到15000"
+  },
+  "64": {
+    "id": 1064,
+    "name": "强化装备",
+    "type": 1,
+    "exp": 7950,
+    "gold": 5600,
+    "guide": true,
+    "type2": 7,
+    "parameter1": 65,
+    "describe": "全身装备强化+65"
+  },
+  "65": {
+    "id": 1065,
+    "name": "进行2000次洗练",
+    "type": 1,
+    "exp": 8100,
+    "gold": 5700,
+    "guide": true,
+    "type2": 11,
+    "parameter1": 2000,
+    "describe": "进行2000次洗练"
+  },
+  "66": {
+    "id": 1066,
+    "name": "击杀幻影蜘蛛",
+    "type": 1,
+    "exp": 8250,
+    "gold": 5800,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1115,
+    "parameter2": 10000,
+    "describe": "前往[丛林迷宫]击杀10000只幻影蜘蛛"
+  },
+  "67": {
+    "id": 1067,
+    "name": "击杀双头血魔",
+    "type": 1,
+    "exp": 8400,
+    "gold": 5900,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 2012,
+    "parameter2": 100,
+    "describe": "前往[峡谷广场]击杀BOSS：双头恶魔100次"
+  },
+  "68": {
+    "id": 1068,
+    "name": "击杀血僵尸",
+    "type": 1,
+    "exp": 8550,
+    "gold": 6000,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 1121,
+    "parameter2": 10000,
+    "describe": "前往[山谷密道]击杀10000只血僵尸"
+  },
+  "69": {
+    "id": 1069,
+    "name": "击杀双头金刚",
+    "type": 1,
+    "exp": 8700,
+    "gold": 6100,
+    "guide": true
+  },
+  "70": {
+    "id": 1070,
+    "name": "击杀赤月恶魔",
+    "type": 1,
+    "exp": 8850,
+    "gold": 6200,
+    "guide": true,
+    "type2": 2,
+    "parameter1": 2014,
+    "parameter2": 100,
+    "describe": "前往[赤月巢穴]击杀BOSS：赤月恶魔100次"
+  },
+  "71": {
+    "id": 1071,
+    "name": "绝品洗练",
+    "type": 1,
+    "exp": 9000,
+    "gold": 6300,
+    "guide": true,
+    "describe": "穿戴7件 三橙色词条橙装"
+  },
+  "72": {
+    "id": 1072,
+    "name": "经脉突破一阶",
+    "type": 1,
+    "exp": 9150,
+    "gold": 6400,
+    "guide": true
+  },
+  "73": {
+    "id": 1073,
+    "name": "完成所有任务",
+    "type": 1,
+    "exp": 9300,
+    "gold": 6500,
+    "guide": true,
+    "type2": 10,
+    "parameter1": 7,
+    "describe": "完成第七章所有任务"
+  }
+}
