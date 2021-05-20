@@ -1,9 +1,5 @@
 import mysql from "mysql";
-import { createServer } from "node:http";
-import EventEmitter from "events";
-import { networkInterfaces } from "os";
 import GameConf from "./conf/GameConf";
-
 
 let pool = mysql.createPool({
    host:"sh-cdb-qh83ks2s.sql.tencentcdb.com",
