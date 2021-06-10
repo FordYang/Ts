@@ -1,0 +1,9530 @@
+{
+  "1": {
+    "id": 10001,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1001,
+    "name": "鸡",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      500
+    ],
+    "hp": 2
+  },
+  "2": {
+    "id": 10002,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1001,
+    "name": "鸡",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 3
+  },
+  "3": {
+    "id": 10003,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1001,
+    "name": "鸡",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 5
+  },
+  "4": {
+    "id": 10004,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1001,
+    "name": "鸡",
+    "lvl": 4,
+    "killnum": 350,
+    "integral": 40,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 8
+  },
+  "5": {
+    "id": 10005,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1001,
+    "name": "鸡",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 11
+  },
+  "6": {
+    "id": 10006,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1001,
+    "name": "鸡",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 15
+  },
+  "7": {
+    "id": 10007,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1002,
+    "name": "鹿",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minac": 0,
+    "maxac": 1
+  },
+  "8": {
+    "id": 10008,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1002,
+    "name": "鹿",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 1,
+    "maxac": 1
+  },
+  "9": {
+    "id": 10009,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1002,
+    "name": "鹿",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "10": {
+    "id": 10010,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1002,
+    "name": "鹿",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      4
+    ],
+    "minac": 2,
+    "maxac": 2
+  },
+  "11": {
+    "id": 10011,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1002,
+    "name": "鹿",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "12": {
+    "id": 10012,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1002,
+    "name": "鹿",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 3,
+    "maxac": 3
+  },
+  "13": {
+    "id": 10013,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1003,
+    "name": "多钩猫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      500
+    ],
+    "minzs": 0,
+    "maxzs": 1
+  },
+  "14": {
+    "id": 10014,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1003,
+    "name": "多钩猫",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minzs": 1,
+    "maxzs": 1
+  },
+  "15": {
+    "id": 10015,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1003,
+    "name": "多钩猫",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minzs": 1,
+    "maxzs": 2
+  },
+  "16": {
+    "id": 10016,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1003,
+    "name": "多钩猫",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minzs": 2,
+    "maxzs": 2
+  },
+  "17": {
+    "id": 10017,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1003,
+    "name": "多钩猫",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "18": {
+    "id": 10018,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1003,
+    "name": "多钩猫",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minzs": 3,
+    "maxzs": 3
+  },
+  "19": {
+    "id": 10019,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1004,
+    "name": "钉耙猫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minfs": 0,
+    "maxfs": 1
+  },
+  "20": {
+    "id": 10020,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1004,
+    "name": "钉耙猫",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 1,
+    "maxfs": 1
+  },
+  "21": {
+    "id": 10021,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1004,
+    "name": "钉耙猫",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 1,
+    "maxfs": 2
+  },
+  "22": {
+    "id": 10022,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1004,
+    "name": "钉耙猫",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      4
+    ],
+    "minfs": 2,
+    "maxfs": 2
+  },
+  "23": {
+    "id": 10023,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1004,
+    "name": "钉耙猫",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "24": {
+    "id": 10024,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1004,
+    "name": "钉耙猫",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 3,
+    "maxfs": 3
+  },
+  "25": {
+    "id": 10025,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1005,
+    "name": "稻草人",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      500
+    ],
+    "minds": 0,
+    "maxds": 1
+  },
+  "26": {
+    "id": 10026,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1005,
+    "name": "稻草人",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minds": 1,
+    "maxds": 1
+  },
+  "27": {
+    "id": 10027,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1005,
+    "name": "稻草人",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minds": 1,
+    "maxds": 2
+  },
+  "28": {
+    "id": 10028,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1005,
+    "name": "稻草人",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minds": 2,
+    "maxds": 2
+  },
+  "29": {
+    "id": 10029,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1005,
+    "name": "稻草人",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "30": {
+    "id": 10030,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1005,
+    "name": "稻草人",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minds": 3,
+    "maxds": 3
+  },
+  "31": {
+    "id": 10031,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1006,
+    "name": "半兽人",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "hp": 2
+  },
+  "32": {
+    "id": 10032,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1006,
+    "name": "半兽人",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 3
+  },
+  "33": {
+    "id": 10033,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1006,
+    "name": "半兽人",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 5
+  },
+  "34": {
+    "id": 10034,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1006,
+    "name": "半兽人",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      4
+    ],
+    "hp": 8
+  },
+  "35": {
+    "id": 10035,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1006,
+    "name": "半兽人",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 11
+  },
+  "36": {
+    "id": 10036,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1006,
+    "name": "半兽人",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 15
+  },
+  "37": {
+    "id": 10037,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      500
+    ],
+    "mp": 2
+  },
+  "38": {
+    "id": 10038,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      1000
+    ],
+    "mp": 3
+  },
+  "39": {
+    "id": 10039,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      2000
+    ],
+    "mp": 5
+  },
+  "40": {
+    "id": 10040,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      3000
+    ],
+    "mp": 8
+  },
+  "41": {
+    "id": 10041,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      5000
+    ],
+    "mp": 11
+  },
+  "42": {
+    "id": 10042,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      8000
+    ],
+    "mp": 15
+  },
+  "43": {
+    "id": 10043,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1010,
+    "name": "蛤蟆",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minzs": 0,
+    "maxzs": 1
+  },
+  "44": {
+    "id": 10044,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1010,
+    "name": "蛤蟆",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 1,
+    "maxzs": 1
+  },
+  "45": {
+    "id": 10045,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1010,
+    "name": "蛤蟆",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 1,
+    "maxzs": 2
+  },
+  "46": {
+    "id": 10046,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1010,
+    "name": "蛤蟆",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      4
+    ],
+    "minzs": 2,
+    "maxzs": 2
+  },
+  "47": {
+    "id": 10047,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1010,
+    "name": "蛤蟆",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "48": {
+    "id": 10048,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1010,
+    "name": "蛤蟆",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 3,
+    "maxzs": 3
+  },
+  "49": {
+    "id": 10049,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1011,
+    "name": "食人花",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      500
+    ],
+    "minfs": 0,
+    "maxfs": 1
+  },
+  "50": {
+    "id": 10050,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1011,
+    "name": "食人花",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 1,
+    "maxfs": 1
+  },
+  "51": {
+    "id": 10051,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1011,
+    "name": "食人花",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 1,
+    "maxfs": 2
+  },
+  "52": {
+    "id": 10052,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1011,
+    "name": "食人花",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 2,
+    "maxfs": 2
+  },
+  "53": {
+    "id": 10053,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1011,
+    "name": "食人花",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "54": {
+    "id": 10054,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1011,
+    "name": "食人花",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 3,
+    "maxfs": 3
+  },
+  "55": {
+    "id": 10055,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1007,
+    "name": "森林雪人",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minds": 0,
+    "maxds": 1
+  },
+  "56": {
+    "id": 10056,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1007,
+    "name": "森林雪人",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 1,
+    "maxds": 1
+  },
+  "57": {
+    "id": 10057,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1007,
+    "name": "森林雪人",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 1,
+    "maxds": 2
+  },
+  "58": {
+    "id": 10058,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1007,
+    "name": "森林雪人",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      4
+    ],
+    "minds": 2,
+    "maxds": 2
+  },
+  "59": {
+    "id": 10059,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1007,
+    "name": "森林雪人",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "60": {
+    "id": 10060,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1007,
+    "name": "森林雪人",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 3,
+    "maxds": 3
+  },
+  "61": {
+    "id": 10061,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1008,
+    "name": "半兽人战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      500
+    ],
+    "minac": 0,
+    "maxac": 1
+  },
+  "62": {
+    "id": 10062,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1008,
+    "name": "半兽人战士",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minac": 1,
+    "maxac": 1
+  },
+  "63": {
+    "id": 10063,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1008,
+    "name": "半兽人战士",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "64": {
+    "id": 10064,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1008,
+    "name": "半兽人战士",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minac": 2,
+    "maxac": 2
+  },
+  "65": {
+    "id": 10065,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1008,
+    "name": "半兽人战士",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "66": {
+    "id": 10066,
+    "mapid": 1001,
+    "mapname": "比奇城外",
+    "monster": 1008,
+    "name": "半兽人战士",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minac": 3,
+    "maxac": 3
+  },
+  "67": {
+    "id": 10067,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "hp": 3
+  },
+  "68": {
+    "id": 10068,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 5
+  },
+  "69": {
+    "id": 10069,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 8
+  },
+  "70": {
+    "id": 10070,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 10
+  },
+  "71": {
+    "id": 10071,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 15
+  },
+  "72": {
+    "id": 10072,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 20
+  },
+  "73": {
+    "id": 10073,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1013,
+    "name": "骷髅",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "mp": 3
+  },
+  "74": {
+    "id": 10074,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1013,
+    "name": "骷髅",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "mp": 5
+  },
+  "75": {
+    "id": 10075,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1013,
+    "name": "骷髅",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "mp": 8
+  },
+  "76": {
+    "id": 10076,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1013,
+    "name": "骷髅",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "mp": 10
+  },
+  "77": {
+    "id": 10077,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1013,
+    "name": "骷髅",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "mp": 15
+  },
+  "78": {
+    "id": 10078,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1013,
+    "name": "骷髅",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "mp": 20
+  },
+  "79": {
+    "id": 10079,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minac": 0,
+    "maxac": 2
+  },
+  "80": {
+    "id": 10080,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "81": {
+    "id": 10081,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 1,
+    "maxac": 3
+  },
+  "82": {
+    "id": 10082,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "83": {
+    "id": 10083,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 3,
+    "maxac": 3
+  },
+  "84": {
+    "id": 10084,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "85": {
+    "id": 10085,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 0,
+    "maxfs": 2
+  },
+  "86": {
+    "id": 10086,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 1,
+    "maxfs": 2
+  },
+  "87": {
+    "id": 10087,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 1,
+    "maxfs": 3
+  },
+  "88": {
+    "id": 10088,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "89": {
+    "id": 10089,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 3,
+    "maxfs": 3
+  },
+  "90": {
+    "id": 10090,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "91": {
+    "id": 10091,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1016,
+    "name": "骷髅战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minds": 0,
+    "maxds": 2
+  },
+  "92": {
+    "id": 10092,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1016,
+    "name": "骷髅战士",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 1,
+    "maxds": 2
+  },
+  "93": {
+    "id": 10093,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1016,
+    "name": "骷髅战士",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 1,
+    "maxds": 3
+  },
+  "94": {
+    "id": 10094,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1016,
+    "name": "骷髅战士",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "95": {
+    "id": 10095,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1016,
+    "name": "骷髅战士",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 3
+  },
+  "96": {
+    "id": 10096,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1016,
+    "name": "骷髅战士",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "97": {
+    "id": 10097,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1017,
+    "name": "骷髅勇士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 3
+  },
+  "98": {
+    "id": 10098,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1017,
+    "name": "骷髅勇士",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 5
+  },
+  "99": {
+    "id": 10099,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1017,
+    "name": "骷髅勇士",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 8
+  },
+  "100": {
+    "id": 10100,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1017,
+    "name": "骷髅勇士",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 10
+  },
+  "101": {
+    "id": 10101,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1017,
+    "name": "骷髅勇士",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 15
+  },
+  "102": {
+    "id": 10102,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1017,
+    "name": "骷髅勇士",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "hp": 20
+  },
+  "103": {
+    "id": 10103,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1018,
+    "name": "蝎子",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "mp": 3
+  },
+  "104": {
+    "id": 10104,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1018,
+    "name": "蝎子",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "mp": 5
+  },
+  "105": {
+    "id": 10105,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1018,
+    "name": "蝎子",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "mp": 8
+  },
+  "106": {
+    "id": 10106,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1018,
+    "name": "蝎子",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 10
+  },
+  "107": {
+    "id": 10107,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1018,
+    "name": "蝎子",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 15
+  },
+  "108": {
+    "id": 10108,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1018,
+    "name": "蝎子",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 20
+  },
+  "109": {
+    "id": 10109,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1019,
+    "name": "大斧骷髅",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minzs": 0,
+    "maxzs": 2
+  },
+  "110": {
+    "id": 10110,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1019,
+    "name": "大斧骷髅",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minzs": 1,
+    "maxzs": 2
+  },
+  "111": {
+    "id": 10111,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1019,
+    "name": "大斧骷髅",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minzs": 1,
+    "maxzs": 3
+  },
+  "112": {
+    "id": 10112,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1019,
+    "name": "大斧骷髅",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "113": {
+    "id": 10113,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1019,
+    "name": "大斧骷髅",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minzs": 3,
+    "maxzs": 3
+  },
+  "114": {
+    "id": 10114,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1019,
+    "name": "大斧骷髅",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "115": {
+    "id": 10115,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      1
+    ],
+    "minfs": 0,
+    "maxfs": 2
+  },
+  "116": {
+    "id": 10116,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 1,
+    "maxfs": 2
+  },
+  "117": {
+    "id": 10117,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 1,
+    "maxfs": 3
+  },
+  "118": {
+    "id": 10118,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "119": {
+    "id": 10119,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 3,
+    "maxfs": 3
+  },
+  "120": {
+    "id": 10120,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "121": {
+    "id": 10121,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1021,
+    "name": "骷髅战将",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minds": 0,
+    "maxds": 2
+  },
+  "122": {
+    "id": 10122,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1021,
+    "name": "骷髅战将",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minds": 1,
+    "maxds": 2
+  },
+  "123": {
+    "id": 10123,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1021,
+    "name": "骷髅战将",
+    "lvl": 3,
+    "killnum": 100,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minds": 1,
+    "maxds": 3
+  },
+  "124": {
+    "id": 10124,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1021,
+    "name": "骷髅战将",
+    "lvl": 4,
+    "killnum": 500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "125": {
+    "id": 10125,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1021,
+    "name": "骷髅战将",
+    "lvl": 5,
+    "killnum": 2000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minds": 3,
+    "maxds": 3
+  },
+  "126": {
+    "id": 10126,
+    "mapid": 1002,
+    "mapname": "兽人古墓",
+    "monster": 1021,
+    "name": "骷髅战将",
+    "lvl": 6,
+    "killnum": 5000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "127": {
+    "id": 10127,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1025,
+    "name": "红蛇",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 5
+  },
+  "128": {
+    "id": 10128,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1025,
+    "name": "红蛇",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 8
+  },
+  "129": {
+    "id": 10129,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1025,
+    "name": "红蛇",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 10
+  },
+  "130": {
+    "id": 10130,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1025,
+    "name": "红蛇",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "hp": 15
+  },
+  "131": {
+    "id": 10131,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1025,
+    "name": "红蛇",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 20
+  },
+  "132": {
+    "id": 10132,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1025,
+    "name": "红蛇",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 25
+  },
+  "133": {
+    "id": 10133,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1026,
+    "name": "虎蛇",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "mp": 5
+  },
+  "134": {
+    "id": 10134,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1026,
+    "name": "虎蛇",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "mp": 8
+  },
+  "135": {
+    "id": 10135,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1026,
+    "name": "虎蛇",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "mp": 10
+  },
+  "136": {
+    "id": 10136,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1026,
+    "name": "虎蛇",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "mp": 15
+  },
+  "137": {
+    "id": 10137,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1026,
+    "name": "虎蛇",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "mp": 20
+  },
+  "138": {
+    "id": 10138,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1026,
+    "name": "虎蛇",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "mp": 25
+  },
+  "139": {
+    "id": 10139,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1027,
+    "name": "猎鹰",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "140": {
+    "id": 10140,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1027,
+    "name": "猎鹰",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minac": 1,
+    "maxac": 3
+  },
+  "141": {
+    "id": 10141,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1027,
+    "name": "猎鹰",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "142": {
+    "id": 10142,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1027,
+    "name": "猎鹰",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "143": {
+    "id": 10143,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1027,
+    "name": "猎鹰",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "144": {
+    "id": 10144,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1027,
+    "name": "猎鹰",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "145": {
+    "id": 10145,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1022,
+    "name": "洞蛆",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "146": {
+    "id": 10146,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1022,
+    "name": "洞蛆",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 1,
+    "maxac": 3
+  },
+  "147": {
+    "id": 10147,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1022,
+    "name": "洞蛆",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "148": {
+    "id": 10148,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1022,
+    "name": "洞蛆",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "149": {
+    "id": 10149,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1022,
+    "name": "洞蛆",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "150": {
+    "id": 10150,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1022,
+    "name": "洞蛆",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "151": {
+    "id": 10151,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1023,
+    "name": "僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minzs": 1,
+    "maxzs": 2
+  },
+  "152": {
+    "id": 10152,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1023,
+    "name": "僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minzs": 1,
+    "maxzs": 3
+  },
+  "153": {
+    "id": 10153,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1023,
+    "name": "僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "154": {
+    "id": 10154,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1023,
+    "name": "僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "155": {
+    "id": 10155,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1023,
+    "name": "僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "156": {
+    "id": 10156,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1023,
+    "name": "僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "157": {
+    "id": 10157,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1024,
+    "name": "爬行僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 1,
+    "maxfs": 2
+  },
+  "158": {
+    "id": 10158,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1024,
+    "name": "爬行僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 1,
+    "maxfs": 3
+  },
+  "159": {
+    "id": 10159,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1024,
+    "name": "爬行僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "160": {
+    "id": 10160,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1024,
+    "name": "爬行僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "161": {
+    "id": 10161,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1024,
+    "name": "爬行僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "162": {
+    "id": 10162,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1024,
+    "name": "爬行僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "163": {
+    "id": 10163,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1028,
+    "name": "破碎的僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minds": 1,
+    "maxds": 2
+  },
+  "164": {
+    "id": 10164,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1028,
+    "name": "破碎的僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minds": 1,
+    "maxds": 3
+  },
+  "165": {
+    "id": 10165,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1028,
+    "name": "破碎的僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "166": {
+    "id": 10166,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1028,
+    "name": "破碎的僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "167": {
+    "id": 10167,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1028,
+    "name": "破碎的僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "168": {
+    "id": 10168,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1028,
+    "name": "破碎的僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "169": {
+    "id": 10169,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1029,
+    "name": "无脑僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 5
+  },
+  "170": {
+    "id": 10170,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1029,
+    "name": "无脑僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 8
+  },
+  "171": {
+    "id": 10171,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1029,
+    "name": "无脑僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 10
+  },
+  "172": {
+    "id": 10172,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1029,
+    "name": "无脑僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "hp": 15
+  },
+  "173": {
+    "id": 10173,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1029,
+    "name": "无脑僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 20
+  },
+  "174": {
+    "id": 10174,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1029,
+    "name": "无脑僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 25
+  },
+  "175": {
+    "id": 10175,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1030,
+    "name": "闪电僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minzs": 1,
+    "maxzs": 2
+  },
+  "176": {
+    "id": 10176,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1030,
+    "name": "闪电僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minzs": 1,
+    "maxzs": 3
+  },
+  "177": {
+    "id": 10177,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1030,
+    "name": "闪电僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "178": {
+    "id": 10178,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1030,
+    "name": "闪电僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "179": {
+    "id": 10179,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1030,
+    "name": "闪电僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "180": {
+    "id": 10180,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1030,
+    "name": "闪电僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "181": {
+    "id": 10181,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1031,
+    "name": "复活的僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 1,
+    "maxfs": 2
+  },
+  "182": {
+    "id": 10182,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1031,
+    "name": "复活的僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 1,
+    "maxfs": 3
+  },
+  "183": {
+    "id": 10183,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1031,
+    "name": "复活的僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "184": {
+    "id": 10184,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1031,
+    "name": "复活的僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "185": {
+    "id": 10185,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1031,
+    "name": "复活的僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "186": {
+    "id": 10186,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1031,
+    "name": "复活的僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "187": {
+    "id": 10187,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1032,
+    "name": "钻地僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minds": 1,
+    "maxds": 2
+  },
+  "188": {
+    "id": 10188,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1032,
+    "name": "钻地僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minds": 1,
+    "maxds": 3
+  },
+  "189": {
+    "id": 10189,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1032,
+    "name": "钻地僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "190": {
+    "id": 10190,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1032,
+    "name": "钻地僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "191": {
+    "id": 10191,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1032,
+    "name": "钻地僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "192": {
+    "id": 10192,
+    "mapid": 1003,
+    "mapname": "毒蛇矿区",
+    "monster": 1032,
+    "name": "钻地僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "193": {
+    "id": 10193,
+    "mapid": 1003,
+    "mapname": "盟重沙漠",
+    "monster": 1033,
+    "name": "电僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "194": {
+    "id": 10194,
+    "mapid": 1003,
+    "mapname": "盟重沙漠",
+    "monster": 1033,
+    "name": "电僵尸",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 1,
+    "maxac": 3
+  },
+  "195": {
+    "id": 10195,
+    "mapid": 1003,
+    "mapname": "盟重沙漠",
+    "monster": 1033,
+    "name": "电僵尸",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "196": {
+    "id": 10196,
+    "mapid": 1003,
+    "mapname": "盟重沙漠",
+    "monster": 1033,
+    "name": "电僵尸",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "197": {
+    "id": 10197,
+    "mapid": 1003,
+    "mapname": "盟重沙漠",
+    "monster": 1033,
+    "name": "电僵尸",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "198": {
+    "id": 10198,
+    "mapid": 1003,
+    "mapname": "盟重沙漠",
+    "monster": 1033,
+    "name": "电僵尸",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "199": {
+    "id": 10199,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1034,
+    "name": "神鹰",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "200": {
+    "id": 10200,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1034,
+    "name": "神鹰",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 1,
+    "maxac": 3
+  },
+  "201": {
+    "id": 10201,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1034,
+    "name": "神鹰",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "202": {
+    "id": 10202,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1034,
+    "name": "神鹰",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "203": {
+    "id": 10203,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1034,
+    "name": "神鹰",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "204": {
+    "id": 10204,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1034,
+    "name": "神鹰",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "205": {
+    "id": 10205,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1035,
+    "name": "盔甲虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "mp": 5
+  },
+  "206": {
+    "id": 10206,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1035,
+    "name": "盔甲虫",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "mp": 8
+  },
+  "207": {
+    "id": 10207,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1035,
+    "name": "盔甲虫",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 10
+  },
+  "208": {
+    "id": 10208,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1035,
+    "name": "盔甲虫",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "mp": 15
+  },
+  "209": {
+    "id": 10209,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1035,
+    "name": "盔甲虫",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 20
+  },
+  "210": {
+    "id": 10210,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1035,
+    "name": "盔甲虫",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "mp": 25
+  },
+  "211": {
+    "id": 10211,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1036,
+    "name": "狼",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 5
+  },
+  "212": {
+    "id": 10212,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1036,
+    "name": "狼",
+    "lvl": 2,
+    "killnum": 50,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 8
+  },
+  "213": {
+    "id": 10213,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1036,
+    "name": "狼",
+    "lvl": 3,
+    "killnum": 200,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 10
+  },
+  "214": {
+    "id": 10214,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1036,
+    "name": "狼",
+    "lvl": 4,
+    "killnum": 600,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "hp": 15
+  },
+  "215": {
+    "id": 10215,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1036,
+    "name": "狼",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 20
+  },
+  "216": {
+    "id": 10216,
+    "mapid": 1004,
+    "mapname": "盟重沙漠",
+    "monster": 1036,
+    "name": "狼",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 25
+  },
+  "217": {
+    "id": 10217,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1037,
+    "name": "蜈蚣",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 5
+  },
+  "218": {
+    "id": 10218,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1037,
+    "name": "蜈蚣",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 10
+  },
+  "219": {
+    "id": 10219,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1037,
+    "name": "蜈蚣",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 15
+  },
+  "220": {
+    "id": 10220,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1037,
+    "name": "蜈蚣",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 20
+  },
+  "221": {
+    "id": 10221,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1037,
+    "name": "蜈蚣",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 25
+  },
+  "222": {
+    "id": 10222,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1037,
+    "name": "蜈蚣",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "hp": 30
+  },
+  "223": {
+    "id": 10223,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1038,
+    "name": "钳虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "mp": 5
+  },
+  "224": {
+    "id": 10224,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1038,
+    "name": "钳虫",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "mp": 10
+  },
+  "225": {
+    "id": 10225,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1038,
+    "name": "钳虫",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 15
+  },
+  "226": {
+    "id": 10226,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1038,
+    "name": "钳虫",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "mp": 20
+  },
+  "227": {
+    "id": 10227,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1038,
+    "name": "钳虫",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 25
+  },
+  "228": {
+    "id": 10228,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1038,
+    "name": "钳虫",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "mp": 30
+  },
+  "229": {
+    "id": 10229,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1039,
+    "name": "跳跳蜂",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minac": 2,
+    "maxac": 2
+  },
+  "230": {
+    "id": 10230,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1039,
+    "name": "跳跳蜂",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "231": {
+    "id": 10231,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1039,
+    "name": "跳跳蜂",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "232": {
+    "id": 10232,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1039,
+    "name": "跳跳蜂",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "233": {
+    "id": 10233,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1039,
+    "name": "跳跳蜂",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "234": {
+    "id": 10234,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1039,
+    "name": "跳跳蜂",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minac": 4,
+    "maxac": 5
+  },
+  "235": {
+    "id": 10235,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 2,
+    "maxzs": 2
+  },
+  "236": {
+    "id": 10236,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "237": {
+    "id": 10237,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "238": {
+    "id": 10238,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "239": {
+    "id": 10239,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "240": {
+    "id": 10240,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "241": {
+    "id": 10241,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 2,
+    "maxfs": 2
+  },
+  "242": {
+    "id": 10242,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "243": {
+    "id": 10243,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "244": {
+    "id": 10244,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "245": {
+    "id": 10245,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "246": {
+    "id": 10246,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "247": {
+    "id": 10247,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1042,
+    "name": "杀人蜂",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 2,
+    "maxds": 2
+  },
+  "248": {
+    "id": 10248,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1042,
+    "name": "杀人蜂",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "249": {
+    "id": 10249,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1042,
+    "name": "杀人蜂",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "250": {
+    "id": 10250,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1042,
+    "name": "杀人蜂",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "251": {
+    "id": 10251,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1042,
+    "name": "杀人蜂",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "252": {
+    "id": 10252,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1042,
+    "name": "杀人蜂",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "253": {
+    "id": 10253,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1043,
+    "name": "恶蛆",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minzs": 2,
+    "maxzs": 2
+  },
+  "254": {
+    "id": 10254,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1043,
+    "name": "恶蛆",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "255": {
+    "id": 10255,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1043,
+    "name": "恶蛆",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "256": {
+    "id": 10256,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1043,
+    "name": "恶蛆",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "257": {
+    "id": 10257,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1043,
+    "name": "恶蛆",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "258": {
+    "id": 10258,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1043,
+    "name": "恶蛆",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "259": {
+    "id": 10259,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1044,
+    "name": "大型钳虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 2,
+    "maxfs": 2
+  },
+  "260": {
+    "id": 10260,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1044,
+    "name": "大型钳虫",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "261": {
+    "id": 10261,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1044,
+    "name": "大型钳虫",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "262": {
+    "id": 10262,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1044,
+    "name": "大型钳虫",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "263": {
+    "id": 10263,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1044,
+    "name": "大型钳虫",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "264": {
+    "id": 10264,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1044,
+    "name": "大型钳虫",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "265": {
+    "id": 10265,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minds": 2,
+    "maxds": 2
+  },
+  "266": {
+    "id": 10266,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 2,
+    "killnum": 80,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "267": {
+    "id": 10267,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 3,
+    "killnum": 300,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "268": {
+    "id": 10268,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 4,
+    "killnum": 800,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "269": {
+    "id": 10269,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 5,
+    "killnum": 3000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "270": {
+    "id": 10270,
+    "mapid": 1005,
+    "mapname": "蜈蚣洞",
+    "monster": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 6,
+    "killnum": 8000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "271": {
+    "id": 10271,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1046,
+    "name": "粪虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 10
+  },
+  "272": {
+    "id": 10272,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1046,
+    "name": "粪虫",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 15
+  },
+  "273": {
+    "id": 10273,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1046,
+    "name": "粪虫",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 20
+  },
+  "274": {
+    "id": 10274,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1046,
+    "name": "粪虫",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "hp": 25
+  },
+  "275": {
+    "id": 10275,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1046,
+    "name": "粪虫",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 30
+  },
+  "276": {
+    "id": 10276,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1046,
+    "name": "粪虫",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 35
+  },
+  "277": {
+    "id": 10277,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1047,
+    "name": "暗黑战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "mp": 10
+  },
+  "278": {
+    "id": 10278,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1047,
+    "name": "暗黑战士",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "mp": 15
+  },
+  "279": {
+    "id": 10279,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1047,
+    "name": "暗黑战士",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "mp": 20
+  },
+  "280": {
+    "id": 10280,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1047,
+    "name": "暗黑战士",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "mp": 25
+  },
+  "281": {
+    "id": 10281,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1047,
+    "name": "暗黑战士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "mp": 30
+  },
+  "282": {
+    "id": 10282,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1047,
+    "name": "暗黑战士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "mp": 35
+  },
+  "283": {
+    "id": 10283,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1048,
+    "name": "沃玛卫士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "284": {
+    "id": 10284,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1048,
+    "name": "沃玛卫士",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "285": {
+    "id": 10285,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1048,
+    "name": "沃玛卫士",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "286": {
+    "id": 10286,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1048,
+    "name": "沃玛卫士",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "287": {
+    "id": 10287,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1048,
+    "name": "沃玛卫士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 4,
+    "maxac": 5
+  },
+  "288": {
+    "id": 10288,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1048,
+    "name": "沃玛卫士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 4,
+    "maxac": 6
+  },
+  "289": {
+    "id": 10289,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1049,
+    "name": "黑暗战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "290": {
+    "id": 10290,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1049,
+    "name": "黑暗战士",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "291": {
+    "id": 10291,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1049,
+    "name": "黑暗战士",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "292": {
+    "id": 10292,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1049,
+    "name": "黑暗战士",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "293": {
+    "id": 10293,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1049,
+    "name": "黑暗战士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "294": {
+    "id": 10294,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1049,
+    "name": "黑暗战士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minzs": 4,
+    "maxzs": 6
+  },
+  "295": {
+    "id": 10295,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "296": {
+    "id": 10296,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "297": {
+    "id": 10297,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "298": {
+    "id": 10298,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "299": {
+    "id": 10299,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "300": {
+    "id": 10300,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minfs": 4,
+    "maxfs": 6
+  },
+  "301": {
+    "id": 10301,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1051,
+    "name": "沃玛勇士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "302": {
+    "id": 10302,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1051,
+    "name": "沃玛勇士",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "303": {
+    "id": 10303,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1051,
+    "name": "沃玛勇士",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "304": {
+    "id": 10304,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1051,
+    "name": "沃玛勇士",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "305": {
+    "id": 10305,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1051,
+    "name": "沃玛勇士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "306": {
+    "id": 10306,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1051,
+    "name": "沃玛勇士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minds": 4,
+    "maxds": 6
+  },
+  "307": {
+    "id": 10307,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1062,
+    "name": "火焰沃玛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "308": {
+    "id": 10308,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1062,
+    "name": "火焰沃玛",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "309": {
+    "id": 10309,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1062,
+    "name": "火焰沃玛",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "310": {
+    "id": 10310,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1062,
+    "name": "火焰沃玛",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "311": {
+    "id": 10311,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1062,
+    "name": "火焰沃玛",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "312": {
+    "id": 10312,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1062,
+    "name": "火焰沃玛",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 4,
+    "maxzs": 6
+  },
+  "313": {
+    "id": 10313,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1063,
+    "name": "沃玛护卫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "314": {
+    "id": 10314,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1063,
+    "name": "沃玛护卫",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "315": {
+    "id": 10315,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1063,
+    "name": "沃玛护卫",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "316": {
+    "id": 10316,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1063,
+    "name": "沃玛护卫",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "317": {
+    "id": 10317,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1063,
+    "name": "沃玛护卫",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "318": {
+    "id": 10318,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1063,
+    "name": "沃玛护卫",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 4,
+    "maxfs": 6
+  },
+  "319": {
+    "id": 10319,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1064,
+    "name": "沃玛战将",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "320": {
+    "id": 10320,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1064,
+    "name": "沃玛战将",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "321": {
+    "id": 10321,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1064,
+    "name": "沃玛战将",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "322": {
+    "id": 10322,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1064,
+    "name": "沃玛战将",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "323": {
+    "id": 10323,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1064,
+    "name": "沃玛战将",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "324": {
+    "id": 10324,
+    "mapid": 1006,
+    "mapname": "沃玛寺庙",
+    "monster": 1064,
+    "name": "沃玛战将",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 4,
+    "maxds": 6
+  },
+  "325": {
+    "id": 10325,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 10
+  },
+  "326": {
+    "id": 10326,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 15
+  },
+  "327": {
+    "id": 10327,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 20
+  },
+  "328": {
+    "id": 10328,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "hp": 25
+  },
+  "329": {
+    "id": 10329,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 30
+  },
+  "330": {
+    "id": 10330,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 35
+  },
+  "331": {
+    "id": 10331,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1054,
+    "name": "红野猪",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "mp": 10
+  },
+  "332": {
+    "id": 10332,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1054,
+    "name": "红野猪",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "mp": 15
+  },
+  "333": {
+    "id": 10333,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1054,
+    "name": "红野猪",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 20
+  },
+  "334": {
+    "id": 10334,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1054,
+    "name": "红野猪",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "mp": 25
+  },
+  "335": {
+    "id": 10335,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1054,
+    "name": "红野猪",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 30
+  },
+  "336": {
+    "id": 10336,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1054,
+    "name": "红野猪",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "mp": 35
+  },
+  "337": {
+    "id": 10337,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1055,
+    "name": "黑野猪",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "338": {
+    "id": 10338,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1055,
+    "name": "黑野猪",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "339": {
+    "id": 10339,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1055,
+    "name": "黑野猪",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "340": {
+    "id": 10340,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1055,
+    "name": "黑野猪",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "341": {
+    "id": 10341,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1055,
+    "name": "黑野猪",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 4,
+    "maxac": 5
+  },
+  "342": {
+    "id": 10342,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1055,
+    "name": "黑野猪",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 4,
+    "maxac": 6
+  },
+  "343": {
+    "id": 10343,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1056,
+    "name": "角蝇",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "344": {
+    "id": 10344,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1056,
+    "name": "角蝇",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "345": {
+    "id": 10345,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1056,
+    "name": "角蝇",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "346": {
+    "id": 10346,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1056,
+    "name": "角蝇",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "347": {
+    "id": 10347,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1056,
+    "name": "角蝇",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "348": {
+    "id": 10348,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1056,
+    "name": "角蝇",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 4,
+    "maxzs": 6
+  },
+  "349": {
+    "id": 10349,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "350": {
+    "id": 10350,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "351": {
+    "id": 10351,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "352": {
+    "id": 10352,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "353": {
+    "id": 10353,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "354": {
+    "id": 10354,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minfs": 4,
+    "maxfs": 6
+  },
+  "355": {
+    "id": 10355,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1058,
+    "name": "变异野猪",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "356": {
+    "id": 10356,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1058,
+    "name": "变异野猪",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "357": {
+    "id": 10357,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1058,
+    "name": "变异野猪",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "358": {
+    "id": 10358,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1058,
+    "name": "变异野猪",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "359": {
+    "id": 10359,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1058,
+    "name": "变异野猪",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "360": {
+    "id": 10360,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1058,
+    "name": "变异野猪",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 4,
+    "maxds": 6
+  },
+  "361": {
+    "id": 10361,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1059,
+    "name": "杂毛野猪",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 2,
+    "maxzs": 3
+  },
+  "362": {
+    "id": 10362,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1059,
+    "name": "杂毛野猪",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 2,
+    "maxzs": 4
+  },
+  "363": {
+    "id": 10363,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1059,
+    "name": "杂毛野猪",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "364": {
+    "id": 10364,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1059,
+    "name": "杂毛野猪",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "365": {
+    "id": 10365,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1059,
+    "name": "杂毛野猪",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "366": {
+    "id": 10366,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1059,
+    "name": "杂毛野猪",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 4,
+    "maxzs": 6
+  },
+  "367": {
+    "id": 10367,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1060,
+    "name": "蝎蛇",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minfs": 2,
+    "maxfs": 3
+  },
+  "368": {
+    "id": 10368,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1060,
+    "name": "蝎蛇",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minfs": 2,
+    "maxfs": 4
+  },
+  "369": {
+    "id": 10369,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1060,
+    "name": "蝎蛇",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "370": {
+    "id": 10370,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1060,
+    "name": "蝎蛇",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "371": {
+    "id": 10371,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1060,
+    "name": "蝎蛇",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "372": {
+    "id": 10372,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1060,
+    "name": "蝎蛇",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minfs": 4,
+    "maxfs": 6
+  },
+  "373": {
+    "id": 10373,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 2,
+    "maxds": 3
+  },
+  "374": {
+    "id": 10374,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 2,
+    "maxds": 4
+  },
+  "375": {
+    "id": 10375,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "376": {
+    "id": 10376,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "377": {
+    "id": 10377,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "378": {
+    "id": 10378,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 4,
+    "maxds": 6
+  },
+  "379": {
+    "id": 10379,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1072,
+    "name": "尖牙战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minac": 2,
+    "maxac": 3
+  },
+  "380": {
+    "id": 10380,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1072,
+    "name": "尖牙战士",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minac": 2,
+    "maxac": 4
+  },
+  "381": {
+    "id": 10381,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1072,
+    "name": "尖牙战士",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "382": {
+    "id": 10382,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1072,
+    "name": "尖牙战士",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "383": {
+    "id": 10383,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1072,
+    "name": "尖牙战士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 4,
+    "maxac": 5
+  },
+  "384": {
+    "id": 10384,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1072,
+    "name": "尖牙战士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 4,
+    "maxac": 6
+  },
+  "385": {
+    "id": 10385,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "hp": 10
+  },
+  "386": {
+    "id": 10386,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 2,
+    "killnum": 100,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "hp": 15
+  },
+  "387": {
+    "id": 10387,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 3,
+    "killnum": 500,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 20
+  },
+  "388": {
+    "id": 10388,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 4,
+    "killnum": 2000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "hp": 25
+  },
+  "389": {
+    "id": 10389,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 30
+  },
+  "390": {
+    "id": 10390,
+    "mapid": 1007,
+    "mapname": "石墓迷阵",
+    "monster": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 35
+  },
+  "391": {
+    "id": 10391,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1065,
+    "name": "大老鼠",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 15
+  },
+  "392": {
+    "id": 10392,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1065,
+    "name": "大老鼠",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 20
+  },
+  "393": {
+    "id": 10393,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1065,
+    "name": "大老鼠",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 25
+  },
+  "394": {
+    "id": 10394,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1065,
+    "name": "大老鼠",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 30
+  },
+  "395": {
+    "id": 10395,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1065,
+    "name": "大老鼠",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 35
+  },
+  "396": {
+    "id": 10396,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1065,
+    "name": "大老鼠",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "hp": 40
+  },
+  "397": {
+    "id": 10397,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1066,
+    "name": "楔蛾",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "mp": 15
+  },
+  "398": {
+    "id": 10398,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1066,
+    "name": "楔蛾",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "mp": 20
+  },
+  "399": {
+    "id": 10399,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1066,
+    "name": "楔蛾",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 25
+  },
+  "400": {
+    "id": 10400,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1066,
+    "name": "楔蛾",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "mp": 30
+  },
+  "401": {
+    "id": 10401,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1066,
+    "name": "楔蛾",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 35
+  },
+  "402": {
+    "id": 10402,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1066,
+    "name": "楔蛾",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "mp": 40
+  },
+  "403": {
+    "id": 10403,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1067,
+    "name": "祖玛射手",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minac": 3,
+    "maxac": 3
+  },
+  "404": {
+    "id": 10404,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1067,
+    "name": "祖玛射手",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minac": 3,
+    "maxac": 4
+  },
+  "405": {
+    "id": 10405,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1067,
+    "name": "祖玛射手",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minac": 3,
+    "maxac": 5
+  },
+  "406": {
+    "id": 10406,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1067,
+    "name": "祖玛射手",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minac": 4,
+    "maxac": 5
+  },
+  "407": {
+    "id": 10407,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1067,
+    "name": "祖玛射手",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minac": 4,
+    "maxac": 6
+  },
+  "408": {
+    "id": 10408,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1067,
+    "name": "祖玛射手",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minac": 4,
+    "maxac": 7
+  },
+  "409": {
+    "id": 10409,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1068,
+    "name": "祖玛战士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 3,
+    "maxzs": 3
+  },
+  "410": {
+    "id": 10410,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1068,
+    "name": "祖玛战士",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "411": {
+    "id": 10411,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1068,
+    "name": "祖玛战士",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "412": {
+    "id": 10412,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1068,
+    "name": "祖玛战士",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "413": {
+    "id": 10413,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1068,
+    "name": "祖玛战士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 6
+  },
+  "414": {
+    "id": 10414,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1068,
+    "name": "祖玛战士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 4,
+    "maxzs": 7
+  },
+  "415": {
+    "id": 10415,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 3,
+    "maxfs": 3
+  },
+  "416": {
+    "id": 10416,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "417": {
+    "id": 10417,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "418": {
+    "id": 10418,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "419": {
+    "id": 10419,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 4,
+    "maxfs": 6
+  },
+  "420": {
+    "id": 10420,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 4,
+    "maxfs": 7
+  },
+  "421": {
+    "id": 10421,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1075,
+    "name": "祖玛雕像",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 3,
+    "maxds": 3
+  },
+  "422": {
+    "id": 10422,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1075,
+    "name": "祖玛雕像",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "423": {
+    "id": 10423,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1075,
+    "name": "祖玛雕像",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "424": {
+    "id": 10424,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1075,
+    "name": "祖玛雕像",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "425": {
+    "id": 10425,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1075,
+    "name": "祖玛雕像",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 6
+  },
+  "426": {
+    "id": 10426,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1075,
+    "name": "祖玛雕像",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 4,
+    "maxds": 7
+  },
+  "427": {
+    "id": 10427,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1076,
+    "name": "祖玛勇士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 15
+  },
+  "428": {
+    "id": 10428,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1076,
+    "name": "祖玛勇士",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 20
+  },
+  "429": {
+    "id": 10429,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1076,
+    "name": "祖玛勇士",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 25
+  },
+  "430": {
+    "id": 10430,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1076,
+    "name": "祖玛勇士",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 30
+  },
+  "431": {
+    "id": 10431,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1076,
+    "name": "祖玛勇士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 35
+  },
+  "432": {
+    "id": 10432,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1076,
+    "name": "祖玛勇士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "hp": 40
+  },
+  "433": {
+    "id": 10433,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 3,
+    "maxzs": 3
+  },
+  "434": {
+    "id": 10434,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 3,
+    "maxzs": 4
+  },
+  "435": {
+    "id": 10435,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 5
+  },
+  "436": {
+    "id": 10436,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 4,
+    "maxzs": 5
+  },
+  "437": {
+    "id": 10437,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 6
+  },
+  "438": {
+    "id": 10438,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 4,
+    "maxzs": 7
+  },
+  "439": {
+    "id": 10439,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1078,
+    "name": "祖玛战将",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 3,
+    "maxfs": 3
+  },
+  "440": {
+    "id": 10440,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1078,
+    "name": "祖玛战将",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 3,
+    "maxfs": 4
+  },
+  "441": {
+    "id": 10441,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1078,
+    "name": "祖玛战将",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 3,
+    "maxfs": 5
+  },
+  "442": {
+    "id": 10442,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1078,
+    "name": "祖玛战将",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 4,
+    "maxfs": 5
+  },
+  "443": {
+    "id": 10443,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1078,
+    "name": "祖玛战将",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 4,
+    "maxfs": 6
+  },
+  "444": {
+    "id": 10444,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1078,
+    "name": "祖玛战将",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 4,
+    "maxfs": 7
+  },
+  "445": {
+    "id": 10445,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1079,
+    "name": "极品卫士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 3,
+    "maxds": 3
+  },
+  "446": {
+    "id": 10446,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1079,
+    "name": "极品卫士",
+    "lvl": 2,
+    "killnum": 200,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 3,
+    "maxds": 4
+  },
+  "447": {
+    "id": 10447,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1079,
+    "name": "极品卫士",
+    "lvl": 3,
+    "killnum": 800,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 5
+  },
+  "448": {
+    "id": 10448,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1079,
+    "name": "极品卫士",
+    "lvl": 4,
+    "killnum": 2500,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 4,
+    "maxds": 5
+  },
+  "449": {
+    "id": 10449,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1079,
+    "name": "极品卫士",
+    "lvl": 5,
+    "killnum": 8000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 6
+  },
+  "450": {
+    "id": 10450,
+    "mapid": 1008,
+    "mapname": "祖玛寺庙",
+    "monster": 1079,
+    "name": "极品卫士",
+    "lvl": 6,
+    "killnum": 20000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 4,
+    "maxds": 7
+  },
+  "451": {
+    "id": 10451,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 20
+  },
+  "452": {
+    "id": 10452,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 25
+  },
+  "453": {
+    "id": 10453,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 30
+  },
+  "454": {
+    "id": 10454,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 35
+  },
+  "455": {
+    "id": 10455,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 40
+  },
+  "456": {
+    "id": 10456,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "hp": 45
+  },
+  "457": {
+    "id": 10457,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "mp": 20
+  },
+  "458": {
+    "id": 10458,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "mp": 25
+  },
+  "459": {
+    "id": 10459,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 30
+  },
+  "460": {
+    "id": 10460,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "mp": 35
+  },
+  "461": {
+    "id": 10461,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 40
+  },
+  "462": {
+    "id": 10462,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "mp": 45
+  },
+  "463": {
+    "id": 10463,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minac": 2,
+    "maxac": 5
+  },
+  "464": {
+    "id": 10464,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minac": 2,
+    "maxac": 6
+  },
+  "465": {
+    "id": 10465,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minac": 3,
+    "maxac": 6
+  },
+  "466": {
+    "id": 10466,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minac": 3,
+    "maxac": 7
+  },
+  "467": {
+    "id": 10467,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minac": 4,
+    "maxac": 7
+  },
+  "468": {
+    "id": 10468,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minac": 5,
+    "maxac": 8
+  },
+  "469": {
+    "id": 10469,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 2,
+    "maxzs": 5
+  },
+  "470": {
+    "id": 10470,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 2,
+    "maxzs": 6
+  },
+  "471": {
+    "id": 10471,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 6
+  },
+  "472": {
+    "id": 10472,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 3,
+    "maxzs": 7
+  },
+  "473": {
+    "id": 10473,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 7
+  },
+  "474": {
+    "id": 10474,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 5,
+    "maxzs": 8
+  },
+  "475": {
+    "id": 10475,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 2,
+    "maxfs": 5
+  },
+  "476": {
+    "id": 10476,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 2,
+    "maxfs": 6
+  },
+  "477": {
+    "id": 10477,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 3,
+    "maxfs": 6
+  },
+  "478": {
+    "id": 10478,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 3,
+    "maxfs": 7
+  },
+  "479": {
+    "id": 10479,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 4,
+    "maxfs": 7
+  },
+  "480": {
+    "id": 10480,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 5,
+    "maxfs": 8
+  },
+  "481": {
+    "id": 10481,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 2,
+    "maxds": 5
+  },
+  "482": {
+    "id": 10482,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 2,
+    "maxds": 6
+  },
+  "483": {
+    "id": 10483,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 6
+  },
+  "484": {
+    "id": 10484,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 3,
+    "maxds": 7
+  },
+  "485": {
+    "id": 10485,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 7
+  },
+  "486": {
+    "id": 10486,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 5,
+    "maxds": 8
+  },
+  "487": {
+    "id": 10487,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1118,
+    "name": "龅牙蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "hp": 20
+  },
+  "488": {
+    "id": 10488,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1118,
+    "name": "龅牙蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "hp": 25
+  },
+  "489": {
+    "id": 10489,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1118,
+    "name": "龅牙蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "hp": 30
+  },
+  "490": {
+    "id": 10490,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1118,
+    "name": "龅牙蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "hp": 35
+  },
+  "491": {
+    "id": 10491,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1118,
+    "name": "龅牙蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "hp": 40
+  },
+  "492": {
+    "id": 10492,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1118,
+    "name": "龅牙蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "hp": 45
+  },
+  "493": {
+    "id": 10493,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minzs": 2,
+    "maxzs": 5
+  },
+  "494": {
+    "id": 10494,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minzs": 2,
+    "maxzs": 6
+  },
+  "495": {
+    "id": 10495,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 3,
+    "maxzs": 6
+  },
+  "496": {
+    "id": 10496,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minzs": 3,
+    "maxzs": 7
+  },
+  "497": {
+    "id": 10497,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 4,
+    "maxzs": 7
+  },
+  "498": {
+    "id": 10498,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 5,
+    "maxzs": 8
+  },
+  "499": {
+    "id": 10499,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1120,
+    "name": "血巨人",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103035,
+      1000
+    ],
+    "minfs": 2,
+    "maxfs": 5
+  },
+  "500": {
+    "id": 10500,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1120,
+    "name": "血巨人",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103035,
+      2000
+    ],
+    "minfs": 2,
+    "maxfs": 6
+  },
+  "501": {
+    "id": 10501,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1120,
+    "name": "血巨人",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103035,
+      3000
+    ],
+    "minfs": 3,
+    "maxfs": 6
+  },
+  "502": {
+    "id": 10502,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1120,
+    "name": "血巨人",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103035,
+      5000
+    ],
+    "minfs": 3,
+    "maxfs": 7
+  },
+  "503": {
+    "id": 10503,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1120,
+    "name": "血巨人",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103035,
+      8000
+    ],
+    "minfs": 4,
+    "maxfs": 7
+  },
+  "504": {
+    "id": 10504,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1120,
+    "name": "血巨人",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103035,
+      10000
+    ],
+    "minfs": 5,
+    "maxfs": 8
+  },
+  "505": {
+    "id": 10505,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1121,
+    "name": "血僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      2
+    ],
+    "minds": 2,
+    "maxds": 5
+  },
+  "506": {
+    "id": 10506,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1121,
+    "name": "血僵尸",
+    "lvl": 2,
+    "killnum": 300,
+    "integral": 20,
+    "reward": [
+      103037,
+      3
+    ],
+    "minds": 2,
+    "maxds": 6
+  },
+  "507": {
+    "id": 10507,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1121,
+    "name": "血僵尸",
+    "lvl": 3,
+    "killnum": 1000,
+    "integral": 30,
+    "reward": [
+      103037,
+      5
+    ],
+    "minds": 3,
+    "maxds": 6
+  },
+  "508": {
+    "id": 10508,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1121,
+    "name": "血僵尸",
+    "lvl": 4,
+    "killnum": 5000,
+    "integral": 40,
+    "reward": [
+      103037,
+      8
+    ],
+    "minds": 3,
+    "maxds": 7
+  },
+  "509": {
+    "id": 10509,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1121,
+    "name": "血僵尸",
+    "lvl": 5,
+    "killnum": 10000,
+    "integral": 50,
+    "reward": [
+      103037,
+      10
+    ],
+    "minds": 4,
+    "maxds": 7
+  },
+  "510": {
+    "id": 10510,
+    "mapid": 1009,
+    "mapname": "赤月峡谷",
+    "monster": 1121,
+    "name": "血僵尸",
+    "lvl": 6,
+    "killnum": 30000,
+    "integral": 60,
+    "reward": [
+      103037,
+      15
+    ],
+    "minds": 5,
+    "maxds": 8
+  },
+  "511": {
+    "id": 10511,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2004,
+    "name": "半兽人勇士",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 1,
+    "maxac": 2,
+    "fixeddamage": 1
+  },
+  "512": {
+    "id": 10512,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2004,
+    "name": "半兽人勇士",
+    "lvl": 2,
+    "killnum": 5,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 1,
+    "maxac": 3,
+    "fixeddamage": 2
+  },
+  "513": {
+    "id": 10513,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2004,
+    "name": "半兽人勇士",
+    "lvl": 3,
+    "killnum": 20,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 1,
+    "maxac": 4,
+    "fixeddamage": 3
+  },
+  "514": {
+    "id": 10514,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2004,
+    "name": "半兽人勇士",
+    "lvl": 4,
+    "killnum": 50,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minac": 1,
+    "maxac": 5,
+    "fixeddamage": 4
+  },
+  "515": {
+    "id": 10515,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2004,
+    "name": "半兽人勇士",
+    "lvl": 5,
+    "killnum": 150,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minac": 1,
+    "maxac": 6,
+    "fixeddamage": 5
+  },
+  "516": {
+    "id": 10516,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2004,
+    "name": "半兽人勇士",
+    "lvl": 6,
+    "killnum": 300,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minac": 2,
+    "maxac": 6,
+    "fixeddamage": 6
+  },
+  "517": {
+    "id": 10517,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2001,
+    "name": "骷髅精灵",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 20,
+    "fixedac": 1
+  },
+  "518": {
+    "id": 10518,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2001,
+    "name": "骷髅精灵",
+    "lvl": 2,
+    "killnum": 8,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 25,
+    "fixedac": 2
+  },
+  "519": {
+    "id": 10519,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2001,
+    "name": "骷髅精灵",
+    "lvl": 3,
+    "killnum": 23,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 30,
+    "fixedac": 3
+  },
+  "520": {
+    "id": 10520,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2001,
+    "name": "骷髅精灵",
+    "lvl": 4,
+    "killnum": 60,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "hp": 35,
+    "fixedac": 4
+  },
+  "521": {
+    "id": 10521,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2001,
+    "name": "骷髅精灵",
+    "lvl": 5,
+    "killnum": 180,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "hp": 40,
+    "fixedac": 5
+  },
+  "522": {
+    "id": 10522,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2001,
+    "name": "骷髅精灵",
+    "lvl": 6,
+    "killnum": 350,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "hp": 45,
+    "fixedac": 6
+  },
+  "523": {
+    "id": 10523,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2002,
+    "name": "电僵尸",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 1,
+    "maxzs": 2,
+    "minfs": 1,
+    "maxfs": 2,
+    "minds": 1,
+    "maxds": 2
+  },
+  "524": {
+    "id": 10524,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2002,
+    "name": "电僵尸",
+    "lvl": 2,
+    "killnum": 10,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 1,
+    "maxzs": 3,
+    "minfs": 1,
+    "maxfs": 3,
+    "minds": 1,
+    "maxds": 3
+  },
+  "525": {
+    "id": 10525,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2002,
+    "name": "电僵尸",
+    "lvl": 3,
+    "killnum": 26,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 1,
+    "maxzs": 4,
+    "minfs": 1,
+    "maxfs": 4,
+    "minds": 1,
+    "maxds": 4
+  },
+  "526": {
+    "id": 10526,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2002,
+    "name": "电僵尸",
+    "lvl": 4,
+    "killnum": 70,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minzs": 1,
+    "maxzs": 5,
+    "minfs": 1,
+    "maxfs": 5,
+    "minds": 1,
+    "maxds": 5
+  },
+  "527": {
+    "id": 10527,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2002,
+    "name": "电僵尸",
+    "lvl": 5,
+    "killnum": 210,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minzs": 1,
+    "maxzs": 6,
+    "minfs": 1,
+    "maxfs": 6,
+    "minds": 1,
+    "maxds": 6
+  },
+  "528": {
+    "id": 10528,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2002,
+    "name": "电僵尸",
+    "lvl": 6,
+    "killnum": 400,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minzs": 2,
+    "maxzs": 6,
+    "minfs": 2,
+    "maxfs": 6,
+    "minds": 2,
+    "maxds": 6
+  },
+  "529": {
+    "id": 10529,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2003,
+    "name": "尸王",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 1,
+    "maxac": 2
+  },
+  "530": {
+    "id": 10530,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2003,
+    "name": "尸王",
+    "lvl": 2,
+    "killnum": 12,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 1,
+    "maxac": 3
+  },
+  "531": {
+    "id": 10531,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2003,
+    "name": "尸王",
+    "lvl": 3,
+    "killnum": 29,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 1,
+    "maxac": 4
+  },
+  "532": {
+    "id": 10532,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2003,
+    "name": "尸王",
+    "lvl": 4,
+    "killnum": 80,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minac": 1,
+    "maxac": 5
+  },
+  "533": {
+    "id": 10533,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2003,
+    "name": "尸王",
+    "lvl": 5,
+    "killnum": 240,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minac": 1,
+    "maxac": 6
+  },
+  "534": {
+    "id": 10534,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2003,
+    "name": "尸王",
+    "lvl": 6,
+    "killnum": 450,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minac": 2,
+    "maxac": 6
+  },
+  "535": {
+    "id": 10535,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2005,
+    "name": "巨型多角虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 1,
+    "maxzs": 2,
+    "minfs": 1,
+    "maxfs": 2,
+    "minds": 1,
+    "maxds": 2
+  },
+  "536": {
+    "id": 10536,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2005,
+    "name": "巨型多角虫",
+    "lvl": 2,
+    "killnum": 15,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 1,
+    "maxzs": 3,
+    "minfs": 1,
+    "maxfs": 3,
+    "minds": 1,
+    "maxds": 3
+  },
+  "537": {
+    "id": 10537,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2005,
+    "name": "巨型多角虫",
+    "lvl": 3,
+    "killnum": 32,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 1,
+    "maxzs": 4,
+    "minfs": 1,
+    "maxfs": 4,
+    "minds": 1,
+    "maxds": 4
+  },
+  "538": {
+    "id": 10538,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2005,
+    "name": "巨型多角虫",
+    "lvl": 4,
+    "killnum": 90,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minzs": 1,
+    "maxzs": 5,
+    "minfs": 1,
+    "maxfs": 5,
+    "minds": 1,
+    "maxds": 5
+  },
+  "539": {
+    "id": 10539,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2005,
+    "name": "巨型多角虫",
+    "lvl": 5,
+    "killnum": 270,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minzs": 1,
+    "maxzs": 6,
+    "minfs": 1,
+    "maxfs": 6,
+    "minds": 1,
+    "maxds": 6
+  },
+  "540": {
+    "id": 10540,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2005,
+    "name": "巨型多角虫",
+    "lvl": 6,
+    "killnum": 500,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minzs": 2,
+    "maxzs": 6,
+    "minfs": 2,
+    "maxfs": 6,
+    "minds": 2,
+    "maxds": 6
+  },
+  "541": {
+    "id": 10541,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2006,
+    "name": "邪恶钳虫",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 1,
+    "maxzs": 2,
+    "minfs": 1,
+    "maxfs": 2,
+    "minds": 1,
+    "maxds": 2
+  },
+  "542": {
+    "id": 10542,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2006,
+    "name": "邪恶钳虫",
+    "lvl": 2,
+    "killnum": 18,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 1,
+    "maxzs": 3,
+    "minfs": 1,
+    "maxfs": 3,
+    "minds": 1,
+    "maxds": 3
+  },
+  "543": {
+    "id": 10543,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2006,
+    "name": "邪恶钳虫",
+    "lvl": 3,
+    "killnum": 35,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 1,
+    "maxzs": 4,
+    "minfs": 1,
+    "maxfs": 4,
+    "minds": 1,
+    "maxds": 4
+  },
+  "544": {
+    "id": 10544,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2006,
+    "name": "邪恶钳虫",
+    "lvl": 4,
+    "killnum": 100,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minzs": 1,
+    "maxzs": 5,
+    "minfs": 1,
+    "maxfs": 5,
+    "minds": 1,
+    "maxds": 5
+  },
+  "545": {
+    "id": 10545,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2006,
+    "name": "邪恶钳虫",
+    "lvl": 5,
+    "killnum": 300,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minzs": 1,
+    "maxzs": 6,
+    "minfs": 1,
+    "maxfs": 6,
+    "minds": 1,
+    "maxds": 6
+  },
+  "546": {
+    "id": 10546,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2006,
+    "name": "邪恶钳虫",
+    "lvl": 6,
+    "killnum": 550,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minzs": 2,
+    "maxzs": 6,
+    "minfs": 2,
+    "maxfs": 6,
+    "minds": 2,
+    "maxds": 6
+  },
+  "547": {
+    "id": 10547,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2007,
+    "name": "触龙神",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 20,
+    "mp": 20
+  },
+  "548": {
+    "id": 10548,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2007,
+    "name": "触龙神",
+    "lvl": 2,
+    "killnum": 20,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 25,
+    "mp": 25
+  },
+  "549": {
+    "id": 10549,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2007,
+    "name": "触龙神",
+    "lvl": 3,
+    "killnum": 38,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 30,
+    "mp": 30
+  },
+  "550": {
+    "id": 10550,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2007,
+    "name": "触龙神",
+    "lvl": 4,
+    "killnum": 110,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "hp": 35,
+    "mp": 35
+  },
+  "551": {
+    "id": 10551,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2007,
+    "name": "触龙神",
+    "lvl": 5,
+    "killnum": 330,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "hp": 40,
+    "mp": 40
+  },
+  "552": {
+    "id": 10552,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2007,
+    "name": "触龙神",
+    "lvl": 6,
+    "killnum": 600,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "hp": 45,
+    "mp": 45
+  },
+  "553": {
+    "id": 10553,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2008,
+    "name": "沃玛教主",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "fixeddamage": 1,
+    "fixedac": 1
+  },
+  "554": {
+    "id": 10554,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2008,
+    "name": "沃玛教主",
+    "lvl": 2,
+    "killnum": 22,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "fixeddamage": 2,
+    "fixedac": 2
+  },
+  "555": {
+    "id": 10555,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2008,
+    "name": "沃玛教主",
+    "lvl": 3,
+    "killnum": 41,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "fixeddamage": 3,
+    "fixedac": 3
+  },
+  "556": {
+    "id": 10556,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2008,
+    "name": "沃玛教主",
+    "lvl": 4,
+    "killnum": 120,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "fixeddamage": 4,
+    "fixedac": 4
+  },
+  "557": {
+    "id": 10557,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2008,
+    "name": "沃玛教主",
+    "lvl": 5,
+    "killnum": 360,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "fixeddamage": 5,
+    "fixedac": 5
+  },
+  "558": {
+    "id": 10558,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2008,
+    "name": "沃玛教主",
+    "lvl": 6,
+    "killnum": 650,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "fixeddamage": 6,
+    "fixedac": 6
+  },
+  "559": {
+    "id": 10559,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2009,
+    "name": "白野猪",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3,
+    "fixeddamage": 1
+  },
+  "560": {
+    "id": 10560,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2009,
+    "name": "白野猪",
+    "lvl": 2,
+    "killnum": 25,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 2,
+    "maxac": 4,
+    "fixeddamage": 2
+  },
+  "561": {
+    "id": 10561,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2009,
+    "name": "白野猪",
+    "lvl": 3,
+    "killnum": 44,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 2,
+    "maxac": 5,
+    "fixeddamage": 3
+  },
+  "562": {
+    "id": 10562,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2009,
+    "name": "白野猪",
+    "lvl": 4,
+    "killnum": 130,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minac": 3,
+    "maxac": 5,
+    "fixeddamage": 4
+  },
+  "563": {
+    "id": 10563,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2009,
+    "name": "白野猪",
+    "lvl": 5,
+    "killnum": 390,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minac": 3,
+    "maxac": 6,
+    "fixeddamage": 5
+  },
+  "564": {
+    "id": 10564,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2009,
+    "name": "白野猪",
+    "lvl": 6,
+    "killnum": 700,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minac": 3,
+    "maxac": 7,
+    "fixeddamage": 6
+  },
+  "565": {
+    "id": 10565,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2010,
+    "name": "石墓尸王",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 2,
+    "maxzs": 3,
+    "minfs": 2,
+    "maxfs": 3,
+    "minds": 2,
+    "maxds": 3
+  },
+  "566": {
+    "id": 10566,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2010,
+    "name": "石墓尸王",
+    "lvl": 2,
+    "killnum": 27,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 2,
+    "maxzs": 4,
+    "minfs": 2,
+    "maxfs": 4,
+    "minds": 2,
+    "maxds": 4
+  },
+  "567": {
+    "id": 10567,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2010,
+    "name": "石墓尸王",
+    "lvl": 3,
+    "killnum": 47,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 2,
+    "maxzs": 5,
+    "minfs": 2,
+    "maxfs": 5,
+    "minds": 2,
+    "maxds": 5
+  },
+  "568": {
+    "id": 10568,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2010,
+    "name": "石墓尸王",
+    "lvl": 4,
+    "killnum": 140,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minzs": 3,
+    "maxzs": 5,
+    "minfs": 3,
+    "maxfs": 5,
+    "minds": 3,
+    "maxds": 5
+  },
+  "569": {
+    "id": 10569,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2010,
+    "name": "石墓尸王",
+    "lvl": 5,
+    "killnum": 420,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minzs": 3,
+    "maxzs": 6,
+    "minfs": 3,
+    "maxfs": 6,
+    "minds": 3,
+    "maxds": 6
+  },
+  "570": {
+    "id": 10570,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2010,
+    "name": "石墓尸王",
+    "lvl": 6,
+    "killnum": 750,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minzs": 3,
+    "maxzs": 7,
+    "minfs": 3,
+    "maxfs": 7,
+    "minds": 3,
+    "maxds": 7
+  },
+  "571": {
+    "id": 10571,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2011,
+    "name": "祖玛教主",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "hp": 20,
+    "fixedac": 1
+  },
+  "572": {
+    "id": 10572,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2011,
+    "name": "祖玛教主",
+    "lvl": 2,
+    "killnum": 30,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "hp": 25,
+    "fixedac": 2
+  },
+  "573": {
+    "id": 10573,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2011,
+    "name": "祖玛教主",
+    "lvl": 3,
+    "killnum": 50,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "hp": 30,
+    "fixedac": 3
+  },
+  "574": {
+    "id": 10574,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2011,
+    "name": "祖玛教主",
+    "lvl": 4,
+    "killnum": 150,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "hp": 35,
+    "fixedac": 4
+  },
+  "575": {
+    "id": 10575,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2011,
+    "name": "祖玛教主",
+    "lvl": 5,
+    "killnum": 450,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "hp": 40,
+    "fixedac": 5
+  },
+  "576": {
+    "id": 10576,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2011,
+    "name": "祖玛教主",
+    "lvl": 6,
+    "killnum": 800,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "hp": 45,
+    "fixedac": 6
+  },
+  "577": {
+    "id": 10577,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2012,
+    "name": "双头血魔",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "mp": 20,
+    "minzs": 2,
+    "maxzs": 3,
+    "minfs": 2,
+    "maxfs": 3,
+    "minds": 2,
+    "maxds": 3
+  },
+  "578": {
+    "id": 10578,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2012,
+    "name": "双头血魔",
+    "lvl": 2,
+    "killnum": 32,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "mp": 25,
+    "minzs": 2,
+    "maxzs": 4,
+    "minfs": 2,
+    "maxfs": 4,
+    "minds": 2,
+    "maxds": 4
+  },
+  "579": {
+    "id": 10579,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2012,
+    "name": "双头血魔",
+    "lvl": 3,
+    "killnum": 53,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "mp": 30,
+    "minzs": 2,
+    "maxzs": 5,
+    "minfs": 2,
+    "maxfs": 5,
+    "minds": 2,
+    "maxds": 5
+  },
+  "580": {
+    "id": 10580,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2012,
+    "name": "双头血魔",
+    "lvl": 4,
+    "killnum": 160,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "mp": 35,
+    "minzs": 3,
+    "maxzs": 5,
+    "minfs": 3,
+    "maxfs": 5,
+    "minds": 3,
+    "maxds": 5
+  },
+  "581": {
+    "id": 10581,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2012,
+    "name": "双头血魔",
+    "lvl": 5,
+    "killnum": 480,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "mp": 40,
+    "minzs": 3,
+    "maxzs": 6,
+    "minfs": 3,
+    "maxfs": 6,
+    "minds": 3,
+    "maxds": 6
+  },
+  "582": {
+    "id": 10582,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2012,
+    "name": "双头血魔",
+    "lvl": 6,
+    "killnum": 850,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "mp": 45,
+    "minzs": 3,
+    "maxzs": 7,
+    "minfs": 3,
+    "maxfs": 7,
+    "minds": 3,
+    "maxds": 7
+  },
+  "583": {
+    "id": 10583,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2013,
+    "name": "双头金刚",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minac": 2,
+    "maxac": 3,
+    "fixeddamage": 2
+  },
+  "584": {
+    "id": 10584,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2013,
+    "name": "双头金刚",
+    "lvl": 2,
+    "killnum": 35,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minac": 2,
+    "maxac": 4,
+    "fixeddamage": 3
+  },
+  "585": {
+    "id": 10585,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2013,
+    "name": "双头金刚",
+    "lvl": 3,
+    "killnum": 56,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minac": 2,
+    "maxac": 5,
+    "fixeddamage": 4
+  },
+  "586": {
+    "id": 10586,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2013,
+    "name": "双头金刚",
+    "lvl": 4,
+    "killnum": 170,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minac": 3,
+    "maxac": 5,
+    "fixeddamage": 5
+  },
+  "587": {
+    "id": 10587,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2013,
+    "name": "双头金刚",
+    "lvl": 5,
+    "killnum": 510,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minac": 3,
+    "maxac": 6,
+    "fixeddamage": 6
+  },
+  "588": {
+    "id": 10588,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2013,
+    "name": "双头金刚",
+    "lvl": 6,
+    "killnum": 900,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minac": 3,
+    "maxac": 7,
+    "fixeddamage": 7
+  },
+  "589": {
+    "id": 10589,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2014,
+    "name": "赤月恶魔",
+    "lvl": 1,
+    "killnum": 1,
+    "integral": 10,
+    "reward": [
+      103037,
+      5
+    ],
+    "minzs": 2,
+    "maxzs": 3,
+    "minfs": 2,
+    "maxfs": 3,
+    "minds": 2,
+    "maxds": 3,
+    "fixeddamage": 2
+  },
+  "590": {
+    "id": 10590,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2014,
+    "name": "赤月恶魔",
+    "lvl": 2,
+    "killnum": 40,
+    "integral": 20,
+    "reward": [
+      103037,
+      10
+    ],
+    "minzs": 2,
+    "maxzs": 4,
+    "minfs": 2,
+    "maxfs": 4,
+    "minds": 2,
+    "maxds": 4,
+    "fixeddamage": 3
+  },
+  "591": {
+    "id": 10591,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2014,
+    "name": "赤月恶魔",
+    "lvl": 3,
+    "killnum": 59,
+    "integral": 30,
+    "reward": [
+      103037,
+      15
+    ],
+    "minzs": 2,
+    "maxzs": 5,
+    "minfs": 2,
+    "maxfs": 5,
+    "minds": 2,
+    "maxds": 5,
+    "fixeddamage": 4
+  },
+  "592": {
+    "id": 10592,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2014,
+    "name": "赤月恶魔",
+    "lvl": 4,
+    "killnum": 180,
+    "integral": 40,
+    "reward": [
+      103037,
+      20
+    ],
+    "minzs": 3,
+    "maxzs": 5,
+    "minfs": 3,
+    "maxfs": 5,
+    "minds": 3,
+    "maxds": 5,
+    "fixeddamage": 5
+  },
+  "593": {
+    "id": 10593,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2014,
+    "name": "赤月恶魔",
+    "lvl": 5,
+    "killnum": 540,
+    "integral": 50,
+    "reward": [
+      103037,
+      25
+    ],
+    "minzs": 3,
+    "maxzs": 6,
+    "minfs": 3,
+    "maxfs": 6,
+    "minds": 3,
+    "maxds": 6,
+    "fixeddamage": 6
+  },
+  "594": {
+    "id": 10594,
+    "mapid": 2001,
+    "mapname": "boss之家",
+    "monster": 2014,
+    "name": "赤月恶魔",
+    "lvl": 6,
+    "killnum": 950,
+    "integral": 60,
+    "reward": [
+      103037,
+      30
+    ],
+    "minzs": 3,
+    "maxzs": 7,
+    "minfs": 3,
+    "maxfs": 7,
+    "minds": 3,
+    "maxds": 7,
+    "fixeddamage": 7
+  }
+}

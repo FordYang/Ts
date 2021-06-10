@@ -1,0 +1,632 @@
+{
+  "1": {
+    "id": 1,
+    "exp": 50,
+    "addexp": 500,
+    "addgold": 5357,
+    "costyuanbao": 100
+  },
+  "2": {
+    "id": 2,
+    "exp": 88,
+    "addexp": 819,
+    "addgold": 5587,
+    "costyuanbao": 100
+  },
+  "3": {
+    "id": 3,
+    "exp": 199,
+    "addexp": 1712,
+    "addgold": 5817,
+    "costyuanbao": 100
+  },
+  "4": {
+    "id": 4,
+    "exp": 403,
+    "addexp": 3184,
+    "addgold": 6047,
+    "costyuanbao": 100
+  },
+  "5": {
+    "id": 5,
+    "exp": 549,
+    "addexp": 3953,
+    "addgold": 6277,
+    "costyuanbao": 100
+  },
+  "6": {
+    "id": 6,
+    "exp": 853,
+    "addexp": 5545,
+    "addgold": 6507,
+    "costyuanbao": 100
+  },
+  "7": {
+    "id": 7,
+    "exp": 1204,
+    "addexp": 6984,
+    "addgold": 6737,
+    "costyuanbao": 100
+  },
+  "8": {
+    "id": 8,
+    "exp": 1502,
+    "addexp": 7661,
+    "addgold": 6967,
+    "costyuanbao": 100
+  },
+  "9": {
+    "id": 9,
+    "exp": 1750,
+    "addexp": 8750,
+    "addgold": 7197,
+    "costyuanbao": 100
+  },
+  "10": {
+    "id": 10,
+    "exp": 2149,
+    "addexp": 9671,
+    "addgold": 7427,
+    "costyuanbao": 100
+  },
+  "11": {
+    "id": 11,
+    "exp": 5416,
+    "addexp": 21664,
+    "addgold": 7657,
+    "costyuanbao": 100
+  },
+  "12": {
+    "id": 12,
+    "exp": 6386,
+    "addexp": 22351,
+    "addgold": 7887,
+    "costyuanbao": 100
+  },
+  "13": {
+    "id": 13,
+    "exp": 7512,
+    "addexp": 22536,
+    "addgold": 8117,
+    "costyuanbao": 100
+  },
+  "14": {
+    "id": 14,
+    "exp": 8918,
+    "addexp": 22295,
+    "addgold": 8347,
+    "costyuanbao": 100
+  },
+  "15": {
+    "id": 15,
+    "exp": 10663,
+    "addexp": 21326,
+    "addgold": 8577,
+    "costyuanbao": 100
+  },
+  "16": {
+    "id": 16,
+    "exp": 12819,
+    "addexp": 23075,
+    "addgold": 8807,
+    "costyuanbao": 100
+  },
+  "17": {
+    "id": 17,
+    "exp": 15300,
+    "addexp": 24480,
+    "addgold": 9037,
+    "costyuanbao": 100
+  },
+  "18": {
+    "id": 18,
+    "exp": 17838,
+    "addexp": 24974,
+    "addgold": 9267,
+    "costyuanbao": 100
+  },
+  "19": {
+    "id": 19,
+    "exp": 20096,
+    "addexp": 24116,
+    "addgold": 9497,
+    "costyuanbao": 100
+  },
+  "20": {
+    "id": 20,
+    "exp": 23093,
+    "addexp": 23093,
+    "addgold": 9727,
+    "costyuanbao": 100
+  },
+  "21": {
+    "id": 21,
+    "exp": 29825,
+    "addexp": 28334,
+    "addgold": 9957,
+    "costyuanbao": 100
+  },
+  "22": {
+    "id": 22,
+    "exp": 32921,
+    "addexp": 29629,
+    "addgold": 10187,
+    "costyuanbao": 100
+  },
+  "23": {
+    "id": 23,
+    "exp": 35186,
+    "addexp": 29909,
+    "addgold": 10417,
+    "costyuanbao": 100
+  },
+  "24": {
+    "id": 24,
+    "exp": 41334,
+    "addexp": 33068,
+    "addgold": 10647,
+    "costyuanbao": 100
+  },
+  "25": {
+    "id": 25,
+    "exp": 43843,
+    "addexp": 32883,
+    "addgold": 10877,
+    "costyuanbao": 100
+  },
+  "26": {
+    "id": 26,
+    "exp": 48108,
+    "addexp": 33676,
+    "addgold": 11107,
+    "costyuanbao": 100
+  },
+  "27": {
+    "id": 27,
+    "exp": 54326,
+    "addexp": 35312,
+    "addgold": 11337,
+    "costyuanbao": 100
+  },
+  "28": {
+    "id": 28,
+    "exp": 59737,
+    "addexp": 35843,
+    "addgold": 11567,
+    "costyuanbao": 100
+  },
+  "29": {
+    "id": 29,
+    "exp": 64876,
+    "addexp": 35682,
+    "addgold": 11797,
+    "costyuanbao": 100
+  },
+  "30": {
+    "id": 30,
+    "exp": 258233,
+    "addexp": 129117,
+    "addgold": 12027,
+    "costyuanbao": 100
+  },
+  "31": {
+    "id": 31,
+    "exp": 843576,
+    "addexp": 151844,
+    "addgold": 12257,
+    "costyuanbao": 100
+  },
+  "32": {
+    "id": 32,
+    "exp": 1514035,
+    "addexp": 264957,
+    "addgold": 12487,
+    "costyuanbao": 100
+  },
+  "33": {
+    "id": 33,
+    "exp": 2578358,
+    "addexp": 438321,
+    "addgold": 12717,
+    "costyuanbao": 100
+  },
+  "34": {
+    "id": 34,
+    "exp": 4069414,
+    "addexp": 671454,
+    "addgold": 12947,
+    "costyuanbao": 100
+  },
+  "35": {
+    "id": 35,
+    "exp": 6823440,
+    "addexp": 1091751,
+    "addgold": 13177,
+    "costyuanbao": 100
+  },
+  "36": {
+    "id": 36,
+    "exp": 10581235,
+    "addexp": 1640092,
+    "addgold": 13407,
+    "costyuanbao": 100
+  },
+  "37": {
+    "id": 37,
+    "exp": 16416920,
+    "addexp": 2462538,
+    "addgold": 13637,
+    "costyuanbao": 100
+  },
+  "38": {
+    "id": 38,
+    "exp": 18643940,
+    "addexp": 2703372,
+    "addgold": 13867,
+    "costyuanbao": 100
+  },
+  "39": {
+    "id": 39,
+    "exp": 21136342,
+    "addexp": 2959088,
+    "addgold": 14097,
+    "costyuanbao": 100
+  },
+  "40": {
+    "id": 40,
+    "exp": 23889122,
+    "addexp": 2388913,
+    "addgold": 14327,
+    "costyuanbao": 100
+  },
+  "41": {
+    "id": 41,
+    "exp": 32168489,
+    "addexp": 2251795,
+    "addgold": 14557,
+    "costyuanbao": 100
+  },
+  "42": {
+    "id": 42,
+    "exp": 38482952,
+    "addexp": 2501392,
+    "addgold": 14787,
+    "costyuanbao": 100
+  },
+  "43": {
+    "id": 43,
+    "exp": 44609704,
+    "addexp": 2676583,
+    "addgold": 15017,
+    "costyuanbao": 100
+  },
+  "44": {
+    "id": 44,
+    "exp": 51816626,
+    "addexp": 2849915,
+    "addgold": 15247,
+    "costyuanbao": 100
+  },
+  "45": {
+    "id": 45,
+    "exp": 59362415,
+    "addexp": 2968121,
+    "addgold": 15477,
+    "costyuanbao": 100
+  },
+  "46": {
+    "id": 46,
+    "exp": 68265044,
+    "addexp": 3071927,
+    "addgold": 15707,
+    "costyuanbao": 100
+  },
+  "47": {
+    "id": 47,
+    "exp": 78817464,
+    "addexp": 3152699,
+    "addgold": 15937,
+    "costyuanbao": 100
+  },
+  "48": {
+    "id": 48,
+    "exp": 90365325,
+    "addexp": 3162787,
+    "addgold": 16167,
+    "costyuanbao": 100
+  },
+  "49": {
+    "id": 49,
+    "exp": 102123597,
+    "addexp": 3063708,
+    "addgold": 16397,
+    "costyuanbao": 100
+  },
+  "50": {
+    "id": 50,
+    "exp": 117311124,
+    "addexp": 3378561,
+    "addgold": 16627,
+    "costyuanbao": 100
+  },
+  "51": {
+    "id": 51,
+    "exp": 142648076,
+    "addexp": 4065471,
+    "addgold": 16857,
+    "costyuanbao": 100
+  },
+  "52": {
+    "id": 52,
+    "exp": 161444279,
+    "addexp": 4552729,
+    "addgold": 17087,
+    "costyuanbao": 100
+  },
+  "53": {
+    "id": 53,
+    "exp": 182936530,
+    "addexp": 5103930,
+    "addgold": 17317,
+    "costyuanbao": 100
+  },
+  "54": {
+    "id": 54,
+    "exp": 208573861,
+    "addexp": 5756639,
+    "addgold": 17547,
+    "costyuanbao": 100
+  },
+  "55": {
+    "id": 55,
+    "exp": 235109151,
+    "addexp": 6418480,
+    "addgold": 17777,
+    "costyuanbao": 100
+  },
+  "56": {
+    "id": 56,
+    "exp": 267044973,
+    "addexp": 7210215,
+    "addgold": 18007,
+    "costyuanbao": 100
+  },
+  "57": {
+    "id": 57,
+    "exp": 303703071,
+    "addexp": 8108872,
+    "addgold": 18237,
+    "costyuanbao": 100
+  },
+  "58": {
+    "id": 58,
+    "exp": 342492183,
+    "addexp": 9041794,
+    "addgold": 18467,
+    "costyuanbao": 100
+  },
+  "59": {
+    "id": 59,
+    "exp": 385325550,
+    "addexp": 10056997,
+    "addgold": 18697,
+    "costyuanbao": 100
+  },
+  "60": {
+    "id": 60,
+    "exp": 438693100,
+    "addexp": 2544420,
+    "addgold": 18927,
+    "costyuanbao": 100
+  },
+  "61": {
+    "id": 61,
+    "exp": 573301058,
+    "addexp": 3153156,
+    "addgold": 19157,
+    "costyuanbao": 100
+  },
+  "62": {
+    "id": 62,
+    "exp": 648442098,
+    "addexp": 16340741,
+    "addgold": 19387,
+    "costyuanbao": 100
+  },
+  "63": {
+    "id": 63,
+    "exp": 732151380,
+    "addexp": 18230570,
+    "addgold": 19617,
+    "costyuanbao": 100
+  },
+  "64": {
+    "id": 64,
+    "exp": 753362668,
+    "addexp": 18532722,
+    "addgold": 19847,
+    "costyuanbao": 100
+  },
+  "65": {
+    "id": 65,
+    "exp": 770543337,
+    "addexp": 18724204,
+    "addgold": 20077,
+    "costyuanbao": 100
+  },
+  "66": {
+    "id": 66,
+    "exp": 803874540,
+    "addexp": 19292989,
+    "addgold": 20307,
+    "costyuanbao": 100
+  },
+  "67": {
+    "id": 67,
+    "exp": 838356445,
+    "addexp": 19869048,
+    "addgold": 20537,
+    "costyuanbao": 100
+  },
+  "68": {
+    "id": 68,
+    "exp": 860216988,
+    "addexp": 20129078,
+    "addgold": 20767,
+    "costyuanbao": 100
+  },
+  "69": {
+    "id": 69,
+    "exp": 879641507,
+    "addexp": 20319719,
+    "addgold": 20997,
+    "costyuanbao": 100
+  },
+  "70": {
+    "id": 70,
+    "exp": 901963712,
+    "addexp": 20564773,
+    "addgold": 21227,
+    "costyuanbao": 100
+  },
+  "71": {
+    "id": 71,
+    "exp": 924644507,
+    "addexp": 20804502,
+    "addgold": 21457,
+    "costyuanbao": 100
+  },
+  "72": {
+    "id": 72,
+    "exp": 947692602,
+    "addexp": 21038776,
+    "addgold": 21687,
+    "costyuanbao": 100
+  },
+  "73": {
+    "id": 73,
+    "exp": 971116993,
+    "addexp": 21267463,
+    "addgold": 21917,
+    "costyuanbao": 100
+  },
+  "74": {
+    "id": 74,
+    "exp": 994926970,
+    "addexp": 21490423,
+    "addgold": 22147,
+    "costyuanbao": 100
+  },
+  "75": {
+    "id": 75,
+    "exp": 1019132133,
+    "addexp": 21707515,
+    "addgold": 22377,
+    "costyuanbao": 100
+  },
+  "76": {
+    "id": 76,
+    "exp": 1043742404,
+    "addexp": 21918591,
+    "addgold": 22607,
+    "costyuanbao": 100
+  },
+  "77": {
+    "id": 77,
+    "exp": 1068768038,
+    "addexp": 22123499,
+    "addgold": 22837,
+    "costyuanbao": 100
+  },
+  "78": {
+    "id": 78,
+    "exp": 1094219640,
+    "addexp": 22322081,
+    "addgold": 23067,
+    "costyuanbao": 100
+  },
+  "79": {
+    "id": 79,
+    "exp": 1120108180,
+    "addexp": 22514175,
+    "addgold": 23297,
+    "costyuanbao": 100
+  },
+  "80": {
+    "id": 80,
+    "exp": 1146445006,
+    "addexp": 22928901,
+    "addgold": 23527,
+    "costyuanbao": 100
+  },
+  "81": {
+    "id": 81,
+    "exp": 1173241864,
+    "addexp": 22291596,
+    "addgold": 23757,
+    "costyuanbao": 100
+  },
+  "82": {
+    "id": 82,
+    "exp": 1200510913,
+    "addexp": 21609197,
+    "addgold": 23987,
+    "costyuanbao": 100
+  },
+  "83": {
+    "id": 83,
+    "exp": 1228264746,
+    "addexp": 20880501,
+    "addgold": 24217,
+    "costyuanbao": 100
+  },
+  "84": {
+    "id": 84,
+    "exp": 1256516405,
+    "addexp": 20104263,
+    "addgold": 24447,
+    "costyuanbao": 100
+  },
+  "85": {
+    "id": 85,
+    "exp": 1285279406,
+    "addexp": 19279192,
+    "addgold": 24677,
+    "costyuanbao": 100
+  },
+  "86": {
+    "id": 86,
+    "exp": 1314567759,
+    "addexp": 18403949,
+    "addgold": 24907,
+    "costyuanbao": 100
+  },
+  "87": {
+    "id": 87,
+    "exp": 1344395989,
+    "addexp": 17477148,
+    "addgold": 25137,
+    "costyuanbao": 100
+  },
+  "88": {
+    "id": 88,
+    "exp": 1374779163,
+    "addexp": 16497350,
+    "addgold": 25367,
+    "costyuanbao": 100
+  },
+  "89": {
+    "id": 89,
+    "exp": 1405732913,
+    "addexp": 15463063,
+    "addgold": 25597,
+    "costyuanbao": 100
+  },
+  "90": {
+    "id": 90,
+    "exp": 1437273465,
+    "addexp": 14372735,
+    "addgold": 25827,
+    "costyuanbao": 100
+  }
+}

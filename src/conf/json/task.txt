@@ -1,0 +1,808 @@
+{
+  "1": {
+    "id": 1001,
+    "name": "提升等级",
+    "describe": "等级提升到10级",
+    "reward": [
+      100010,
+      50
+    ],
+    "type": 1,
+    "parameter1": 10
+  },
+  "2": {
+    "id": 1002,
+    "name": "提升战力",
+    "describe": "战力提升到1000",
+    "reward": [
+      103035,
+      3000
+    ],
+    "type": 5,
+    "parameter1": 1000
+  },
+  "3": {
+    "id": 1003,
+    "name": "强化装备",
+    "describe": "全身装备强化+3",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 7,
+    "parameter1": 3
+  },
+  "4": {
+    "id": 1004,
+    "name": "学习一个技能",
+    "describe": "学习一个1级技能",
+    "reward": [
+      103033,
+      5
+    ],
+    "type": 8,
+    "parameter1": 1
+  },
+  "5": {
+    "id": 1005,
+    "name": "杀鸡",
+    "describe": "前往[银杏村外]杀30只鸡",
+    "reward": [
+      104034,
+      10
+    ],
+    "type": 2,
+    "parameter1": 1001,
+    "parameter2": 30
+  },
+  "6": {
+    "id": 1006,
+    "name": "割鹿",
+    "describe": "前往[银杏村外]杀50只鹿",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 1002,
+    "parameter2": 50
+  },
+  "7": {
+    "id": 1007,
+    "name": "获得一件紫色装备",
+    "describe": "获得一件紫色装备",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 4,
+    "parameter1": 4,
+    "parameter2": 1
+  },
+  "8": {
+    "id": 1008,
+    "name": "勇闯森林",
+    "describe": "前往[沃玛森林]击杀100只半兽人",
+    "reward": [
+      103035,
+      5000
+    ],
+    "type": 2,
+    "parameter1": 1006,
+    "parameter2": 100
+  },
+  "9": {
+    "id": 1009,
+    "name": "击杀半兽人勇士",
+    "describe": "击杀BOSS：半兽勇士",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 2004,
+    "parameter2": 1
+  },
+  "10": {
+    "id": 1010,
+    "name": "完成第一章所有任务",
+    "describe": "完成第一章所有任务",
+    "reward": [
+      103037,
+      50
+    ],
+    "type": 10,
+    "parameter1": 1
+  },
+  "11": {
+    "id": 2001,
+    "name": "提升等级",
+    "describe": "等级提升到20级",
+    "reward": [
+      100010,
+      50
+    ],
+    "type": 1,
+    "parameter1": 20
+  },
+  "12": {
+    "id": 2002,
+    "name": "提升战力",
+    "describe": "战力提升到3000",
+    "reward": [
+      103035,
+      3000
+    ],
+    "type": 5,
+    "parameter1": 3000
+  },
+  "13": {
+    "id": 2003,
+    "name": "强化装备",
+    "describe": "全身装备强化+15",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 7,
+    "parameter1": 15
+  },
+  "14": {
+    "id": 2004,
+    "name": "进行一次洗练",
+    "describe": "进行10次洗练",
+    "reward": [
+      103033,
+      5
+    ],
+    "type": 11,
+    "parameter1": 10
+  },
+  "15": {
+    "id": 2005,
+    "name": "杀骷髅",
+    "describe": "前往[骷髅洞3层]杀50只大斧骷髅",
+    "reward": [
+      104034,
+      10
+    ],
+    "type": 2,
+    "parameter1": 1019,
+    "parameter2": 50
+  },
+  "16": {
+    "id": 2006,
+    "name": "山洞蝙蝠",
+    "describe": "[骷髅洞1层]杀50只山洞蝙蝠",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 1012,
+    "parameter2": 50
+  },
+  "17": {
+    "id": 2007,
+    "name": "获得一件紫色装备",
+    "describe": "获得一件橙色装备",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 4,
+    "parameter1": 5,
+    "parameter2": 1
+  },
+  "18": {
+    "id": 2008,
+    "name": "幸运之星",
+    "describe": "获得幸运+1属性",
+    "reward": [
+      103035,
+      3000
+    ],
+    "type": 9,
+    "parameter1": 1
+  },
+  "19": {
+    "id": 2009,
+    "name": "击杀BOSS：骷髅精灵",
+    "describe": "击杀BOSS：骷髅精灵",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 2001,
+    "parameter2": 1
+  },
+  "20": {
+    "id": 2010,
+    "name": "完成所有任务",
+    "describe": "完成第二章所有任务",
+    "reward": [
+      103037,
+      50
+    ],
+    "type": 10,
+    "parameter1": 2
+  },
+  "21": {
+    "id": 3001,
+    "name": "提升等级",
+    "describe": "等级提升到30级",
+    "reward": [
+      100010,
+      50
+    ],
+    "type": 1,
+    "parameter1": 30
+  },
+  "22": {
+    "id": 3002,
+    "name": "提升战力",
+    "describe": "战力提升到5000",
+    "reward": [
+      103035,
+      3000
+    ],
+    "type": 5,
+    "parameter1": 5000
+  },
+  "23": {
+    "id": 3003,
+    "name": "强化装备",
+    "describe": "全身装备强化+25",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 7,
+    "parameter1": 25
+  },
+  "24": {
+    "id": 3004,
+    "name": "进行一次洗练",
+    "describe": "进行100次洗练",
+    "reward": [
+      103033,
+      5
+    ],
+    "type": 11,
+    "parameter1": 100
+  },
+  "25": {
+    "id": 3005,
+    "name": "杀僵尸",
+    "describe": "杀50只僵尸",
+    "reward": [
+      104034,
+      10
+    ],
+    "type": 2,
+    "parameter1": 1028,
+    "parameter2": 50
+  },
+  "26": {
+    "id": 3006,
+    "name": "击杀：电僵尸boss",
+    "describe": "击杀：电僵尸boss",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 2002,
+    "parameter2": 1
+  },
+  "27": {
+    "id": 3007,
+    "name": "获得一件紫色装备",
+    "describe": "获得3件橙色装备",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 4,
+    "parameter1": 5,
+    "parameter2": 3
+  },
+  "28": {
+    "id": 3008,
+    "name": "骷髅洞挂机",
+    "describe": "击杀100只半兽人",
+    "reward": [
+      103035,
+      3000
+    ],
+    "type": 2,
+    "parameter1": 1006,
+    "parameter2": 100
+  },
+  "29": {
+    "id": 3009,
+    "name": "击杀尸王",
+    "describe": "击杀BOSS：尸王",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 2003,
+    "parameter2": 1
+  },
+  "30": {
+    "id": 3010,
+    "name": "完成所有任务",
+    "describe": "完成第三章所有任务",
+    "reward": [
+      103037,
+      100
+    ],
+    "type": 10,
+    "parameter1": 3
+  },
+  "31": {
+    "id": 4001,
+    "name": "提升等级",
+    "describe": "等级提升到40级",
+    "reward": [
+      100013,
+      200
+    ],
+    "type": 1,
+    "parameter1": 40
+  },
+  "32": {
+    "id": 4002,
+    "name": "提升战力",
+    "describe": "战力提升到6000",
+    "reward": [
+      103035,
+      50000
+    ],
+    "type": 5,
+    "parameter1": 6000
+  },
+  "33": {
+    "id": 4003,
+    "name": "强化装备",
+    "describe": "全身装备强化+35",
+    "reward": [
+      103034,
+      66
+    ],
+    "type": 7,
+    "parameter1": 35
+  },
+  "34": {
+    "id": 4004,
+    "name": "进行300次洗练",
+    "describe": "进行250次洗练",
+    "reward": [
+      103033,
+      50
+    ],
+    "type": 11,
+    "parameter1": 250
+  },
+  "35": {
+    "id": 4005,
+    "name": "消灭害虫",
+    "describe": "前往[传奇部落]杀死1000只剧毒蜈蚣",
+    "reward": [
+      103035,
+      30000
+    ],
+    "type": 2,
+    "parameter1": 1041,
+    "parameter2": 1000
+  },
+  "36": {
+    "id": 4006,
+    "name": "击杀：邪恶钳虫",
+    "describe": "前往[生死之间]击杀BOSS：邪恶钳虫10次",
+    "reward": [
+      103035,
+      50000
+    ],
+    "type": 2,
+    "parameter1": 2006,
+    "parameter2": 10
+  },
+  "37": {
+    "id": 4007,
+    "name": "获得5件紫色装备",
+    "describe": "获得5件橙色装备",
+    "reward": [
+      103034,
+      10
+    ],
+    "type": 4,
+    "parameter1": 5,
+    "parameter2": 5
+  },
+  "38": {
+    "id": 4008,
+    "name": "恐怖空间",
+    "describe": "前往[恐怖空间]击杀3000只腐化蠕虫",
+    "reward": [
+      103035,
+      30000
+    ],
+    "type": 2,
+    "parameter1": 1045,
+    "parameter2": 3000
+  },
+  "39": {
+    "id": 4009,
+    "name": "击杀触龙神",
+    "describe": "前往[死亡棺材]击杀BOSS：触龙神10次",
+    "reward": [
+      104034,
+      100
+    ],
+    "type": 2,
+    "parameter1": 2007,
+    "parameter2": 10
+  },
+  "40": {
+    "id": 4010,
+    "name": "完成所有任务",
+    "describe": "完成第四章所有任务",
+    "reward": [
+      103037,
+      150
+    ],
+    "type": 10,
+    "parameter1": 4
+  },
+  "41": {
+    "id": 5001,
+    "name": "提升等级",
+    "describe": "等级提升到50级",
+    "reward": [
+      103037,
+      150
+    ],
+    "type": 1,
+    "parameter1": 50
+  },
+  "42": {
+    "id": 5002,
+    "name": "提升战力",
+    "describe": "战力提升到8000",
+    "reward": [
+      103035,
+      10000
+    ],
+    "type": 5,
+    "parameter1": 8000
+  },
+  "43": {
+    "id": 5003,
+    "name": "强化装备",
+    "describe": "全身装备强化+40",
+    "reward": [
+      103034,
+      100
+    ],
+    "type": 7,
+    "parameter1": 40
+  },
+  "44": {
+    "id": 5004,
+    "name": "进行500次洗练",
+    "describe": "进行500次洗练",
+    "reward": [
+      103033,
+      100
+    ],
+    "type": 11,
+    "parameter1": 500
+  },
+  "45": {
+    "id": 5005,
+    "name": "击杀3000只粪虫",
+    "describe": "杀3000只粪虫",
+    "reward": [
+      104034,
+      100
+    ],
+    "type": 2,
+    "parameter1": 1046,
+    "parameter2": 3000
+  },
+  "46": {
+    "id": 5006,
+    "name": "击杀：电僵尸boss",
+    "describe": "击杀：电僵尸boss",
+    "reward": [
+      104034,
+      20
+    ],
+    "type": 2,
+    "parameter1": 2002,
+    "parameter2": 1
+  },
+  "47": {
+    "id": 5007,
+    "name": "获得一件紫色装备",
+    "describe": "获得10件橙色装备",
+    "reward": [
+      103035,
+      30000
+    ],
+    "type": 4,
+    "parameter1": 5,
+    "parameter2": 10
+  },
+  "48": {
+    "id": 5008,
+    "name": "沃玛卫士",
+    "describe": "击杀3000只沃玛贴身卫士",
+    "reward": [
+      103035,
+      50000
+    ],
+    "type": 2,
+    "parameter1": 1050,
+    "parameter2": 3000
+  },
+  "49": {
+    "id": 5009,
+    "name": "击杀沃玛教主",
+    "describe": "击杀BOSS：沃玛教主15次",
+    "reward": [
+      104034,
+      150
+    ],
+    "type": 2,
+    "parameter1": 2008,
+    "parameter2": 15
+  },
+  "50": {
+    "id": 5010,
+    "name": "完成所有任务",
+    "describe": "完成第五章所有任务",
+    "reward": [
+      103037,
+      200
+    ],
+    "type": 10,
+    "parameter1": 5
+  },
+  "51": {
+    "id": 6001,
+    "name": "提升等级",
+    "describe": "等级提升到60级",
+    "reward": [
+      103033,
+      200
+    ],
+    "type": 1,
+    "parameter1": 60
+  },
+  "52": {
+    "id": 6002,
+    "name": "提升战力",
+    "describe": "战力提升到11000",
+    "reward": [
+      100031,
+      1000
+    ],
+    "type": 5,
+    "parameter1": 11000
+  },
+  "53": {
+    "id": 6003,
+    "name": "强化装备",
+    "describe": "全身装备强化+50",
+    "reward": [
+      103034,
+      500
+    ],
+    "type": 7,
+    "parameter1": 50
+  },
+  "54": {
+    "id": 6004,
+    "name": "进行1000次洗练",
+    "describe": "进行1000次洗练",
+    "reward": [
+      103037,
+      100
+    ],
+    "type": 11,
+    "parameter1": 1000
+  },
+  "55": {
+    "id": 6005,
+    "name": "击杀黑野猪",
+    "describe": "前往[石墓2层]击杀5000只黑野猪",
+    "reward": [
+      103035,
+      400000
+    ],
+    "type": 2,
+    "parameter1": 1055,
+    "parameter2": 5000
+  },
+  "56": {
+    "id": 6006,
+    "name": "击杀白野猪"
+  },
+  "57": {
+    "id": 6007,
+    "name": "击杀石墓尸王",
+    "describe": "前往[石墓7层]击杀BOSS：石墓尸王50次",
+    "reward": [
+      104034,
+      400
+    ],
+    "type": 2,
+    "parameter1": 2010,
+    "parameter2": 50
+  },
+  "58": {
+    "id": 6008,
+    "name": "击杀祖玛勇士",
+    "describe": "前往[祖玛5层]击杀5000只祖玛勇士",
+    "reward": [
+      103035,
+      800000
+    ],
+    "type": 2,
+    "parameter1": 1076,
+    "parameter2": 5000
+  },
+  "59": {
+    "id": 6009,
+    "name": "击杀祖玛教主",
+    "describe": "前往[祖玛大殿]击杀BOSS：祖玛教主50次",
+    "reward": [
+      104034,
+      800
+    ],
+    "type": 2,
+    "parameter1": 2011,
+    "parameter2": 50
+  },
+  "60": {
+    "id": 6010,
+    "name": "绝品洗练",
+    "describe": "穿戴3件 三橙色词条橙装"
+  },
+  "61": {
+    "id": 6011,
+    "name": "经脉突破一阶"
+  },
+  "62": {
+    "id": 6012,
+    "name": "完成所有任务",
+    "describe": "完成第六章所有任务",
+    "reward": [
+      103037,
+      500
+    ],
+    "type": 10,
+    "parameter1": 6
+  },
+  "63": {
+    "id": 7001,
+    "name": "提升等级",
+    "describe": "等级提升到70级",
+    "reward": [
+      103033,
+      500
+    ],
+    "type": 1,
+    "parameter1": 70
+  },
+  "64": {
+    "id": 7002,
+    "name": "提升战力",
+    "describe": "战力提升到15000",
+    "reward": [
+      100032,
+      1000
+    ],
+    "type": 5,
+    "parameter1": 15000
+  },
+  "65": {
+    "id": 7003,
+    "name": "强化装备",
+    "describe": "全身装备强化+65",
+    "reward": [
+      103034,
+      1000
+    ],
+    "type": 7,
+    "parameter1": 65
+  },
+  "66": {
+    "id": 7004,
+    "name": "进行2000次洗练",
+    "describe": "进行2000次洗练",
+    "reward": [
+      103037,
+      300
+    ],
+    "type": 11,
+    "parameter1": 2000
+  },
+  "67": {
+    "id": 7005,
+    "name": "击杀幻影蜘蛛",
+    "describe": "前往[丛林迷宫]击杀10000只幻影蜘蛛",
+    "reward": [
+      103035,
+      1000000
+    ],
+    "type": 2,
+    "parameter1": 1115,
+    "parameter2": 10000
+  },
+  "68": {
+    "id": 7006,
+    "name": "击杀双头血魔",
+    "describe": "前往[峡谷广场]击杀BOSS：双头恶魔100次",
+    "reward": [
+      104034,
+      1000
+    ],
+    "type": 2,
+    "parameter1": 2012,
+    "parameter2": 100
+  },
+  "69": {
+    "id": 7007,
+    "name": "击杀血僵尸",
+    "describe": "前往[山谷密道]击杀10000只血僵尸",
+    "reward": [
+      103035,
+      2000000
+    ],
+    "type": 2,
+    "parameter1": 1121,
+    "parameter2": 10000
+  },
+  "70": {
+    "id": 7008,
+    "name": "击杀双头金刚"
+  },
+  "71": {
+    "id": 7009,
+    "name": "击杀赤月恶魔",
+    "describe": "前往[赤月巢穴]击杀BOSS：赤月恶魔100次",
+    "reward": [
+      104034,
+      2000
+    ],
+    "type": 2,
+    "parameter1": 2014,
+    "parameter2": 100
+  },
+  "72": {
+    "id": 7010,
+    "name": "绝品洗练",
+    "describe": "穿戴7件 三橙色词条橙装"
+  },
+  "73": {
+    "id": 7011,
+    "name": "经脉突破一阶"
+  },
+  "74": {
+    "id": 7012,
+    "name": "完成所有任务",
+    "describe": "完成第七章所有任务",
+    "reward": [
+      103037,
+      1000
+    ],
+    "type": 10,
+    "parameter1": 7
+  }
+}

@@ -1,0 +1,1222 @@
+package commander.c2s;
+syntax = "proto3";
+
+message gm_command { repeated string commands = 1; }
+
+message s2c_operation_result { int32 code = 1; }
+
+message s2c_heartbeat{
+  int64 serverTime = 1;
+}
+
+message c2s_test{
+  int64 t = 1;
+}
+message s2c_test_ack{
+  int64 t = 1;
+}
+
+message s2c_sys_error
+{
+  int32 code = 1;
+}
+
+message s2c_sys_notice
+{
+  int32 type = 1;//0 跑马灯  1：Alert弹框  2:战斗信息框
+  string msg = 2;
+}
+
+/** 打开面板 */
+message c2s_open_ui
+{
+  int32 uiId = 1;
+}
+
+// 登录
+message c2s_login {
+  string accountid = 1;
+  int64 roleid = 2;
+  string token = 3;
+}
+
+// 账号登录返回数据
+message s2c_login {
+  //返回结果
+  int32 code = 1;
+  //玩家信息
+  PlayerInfo info = 2;
+}
+
+//玩家信息
+message PlayerInfo {
+  // 帐号
+  int32 account = 1;
+  // 账号信息
+  string accountid = 2;
+  /**当前roleid */
+  int32 roleid = 3;
+  /**服务器标识 */
+  int32 serverid = 4;
+  // 玩家职业
+  int32 profession = 5;
+  // 玩家等级
+  int32 rolelevel = 6;
+  // 经验值
+  int32 roleexp = 7;
+  //所在地图
+  int32 mapid = 8;
+  // 昵称
+  string name = 9;
+  // 金币
+  int32 money = 10;
+  // 元宝
+  int32 yuanbao = 11;
+  // 进程标识
+  int64 uid = 12;
+  /** 图鉴 {monsterId:lv} */
+  string tujian = 13;
+  /** 杀怪数，图鉴专用 */
+  string killmonster = 14;
+  /** 杀怪总数 */
+  string killtotalmonster = 15;
+  /** 精脉 */
+  string jingmai = 16;
+  /**每日 */
+  string dayMap = 17;
+  /**刷新Boss信息 */
+  string boss = 18;
+  /**设置 */
+  string setting = 19;
+  /**商城 */
+  string shop = 20;
+  /**强化 */
+  string intensify = 21;
+  /** 签到  */
+  string qiandao = 22;
+  /**云游商城 */
+  string yyshop = 23;
+  /**地图解锁信息 */
+  string mapUnlock = 24;
+  /**首充状态 */
+  int32 shouchong = 25;
+  /**特权信息 */
+  string prerogative = 26;
+  /** 支付 */
+  string pay = 27;
+  /**新手引导 */
+  int32 guideStage = 28;
+  /**上次登录 */
+  int32 lastonline = 29;
+  /**领取历练奖励 */
+  repeated int32 taskReceived = 30;
+  /**洗练 */
+  int32 xilian = 31;
+  /**基金 */
+  string jijinVip = 32;
+  /**珍宝记录 */
+  repeated string zhenbaoId = 33;
+  /**创建 */
+  int64 createdate = 34;
+  /** 神器 */
+  string shenqi = 35;
+  /** 神器货币*/
+  int32 shenqiMoney = 36;
+  /**是否是支付玩家 */
+  bool isPay = 37;
+  /** 任务数据 */
+  string task = 38;
+}
+
+message s2c_sync_hero_attr
+{
+  repeated hero_attr_data list = 1;
+}
+
+message hero_attr_data
+{
+  int32 attrId = 1;
+  int32 value = 2;
+}
+
+// 背包拉取 拉取结果
+message c2s_bag_info {  
+}
+message s2c_bag_info {
+  //返回结果
+  int32 code = 1;
+  //背包信息
+  BagInfo baginfo = 2;
+}
+
+// 背包拓展
+message c2s_bag_expend{
+    int32 type = 1;
+}
+message s2c_bag_expend{
+  int32 code = 1;
+  int32 count = 2;
+  int32 exCnts = 3;
+}
+
+// 身上装备
+message c2s_equips_info{
+}
+
+message s2c_equips_info{
+    // 人物装备
+    repeated IItem equiplist = 1;  
+}
+
+message c2s_skills_info{
+}
+
+/**回收 */
+message c2s_equips_reclaim{
+  repeated int64 equipUids = 1;
+  int32 type = 2;
+}
+
+/**回收结果 */
+message s2c_equips_reclaim{
+  /**回收结果 */
+  int32 code = 1;
+  /**回收金币 */
+  int32 money = 2;
+  /**返还洗练石 */
+  int32 stone = 3;
+}
+
+message c2s_skill_upgrade{
+  int32 skillid = 1;
+}
+
+message s2c_skills_info{
+  repeated SkillData skills = 1;
+}
+
+message c2s_shop_config{
+}
+
+message s2c_shop_config{
+  repeated ShopData shops = 1;
+}
+
+/**商店数据 */
+message ShopData{
+  int64 uid = 1;
+  int32 itemId = 2;
+  int32 maxBuy = 3;
+  int32 localBuy = 4;
+  int32 type = 5;
+}
+
+message c2s_wear_equip{
+  int64 uuid = 1;
+}
+
+/**替换装备 */
+message c2s_equip_replace{
+  /**需要替换的uuid */
+  int64 uuid = 1;
+  /**被替换的部位 */
+  int32 part = 2;
+}
+
+/**脱下装备 */
+message c2s_takeoff_equip{
+  int64 uuid = 1;
+}
+
+/**装备上锁 */
+message c2s_lock_equip{
+  int64 uuid = 1;
+  /**1加锁 0解锁 */
+  int32 type = 2;
+}
+message s2c_lock_equip{
+  int64 uuid = 1;
+  int32 type = 2;
+}
+
+message s2c_equip_change{
+  int32 code = 1;
+  int32 type = 2;
+  string msg = 3;
+  IItem equip = 4;
+}
+
+/**洗练 */
+message c2s_equip_remake{
+  int64 uid = 1;
+  repeated int32 locks = 2;
+}
+/**洗练 */
+message s2c_equip_remake{
+  repeated IAffixAttr affixInfo = 1; // 附加词条属性
+  int32 combat = 2;
+  int32 costStone = 3;
+  int32 xilian = 4;
+}
+
+/**保存 */
+message c2s_equip_remake_save{
+  int64 uid = 1;
+}
+message s2c_equip_remake_save{
+  IItem item = 1;
+}
+
+/**献祭 */
+message c2s_equip_xianji{
+  int64 uid1 = 1;
+  int64 uid2 = 2;
+  int32 type = 3;
+  repeated int32 lock = 4;
+}
+
+/**献祭结果，变化 */
+message s2c_equip_xianji{
+  /**献祭的结果 */
+  repeated int32 xianji = 1; 
+}
+
+/**重新献祭 */
+message c2s_equip_xianji_refresh{
+  int64 uid1 = 1;
+  int64 uid2 = 2;
+  int32 type = 3;
+  repeated int32 lock = 4;
+}
+
+/**保存献祭 */
+message c2s_equip_xianji_save{
+    int64 uid = 1;
+}
+
+/**献祭保存结果 */
+message s2c_equip_xianji_save{
+    int64 uid = 1;
+    repeated int32 bestPoint = 2;
+}
+
+/**珍宝变化 */
+message s2c_zhenbao_change{
+  repeated string zhenbao = 1;
+}
+
+/**补充金币 
+* 1 看视频 2 元宝 3 十倍元宝
+*/
+message c2s_exchange_money{
+  int32 type = 1;
+}
+
+/**离线奖励 */
+message c2s_offline_awards{
+  int32 type = 1;
+}
+message s2c_offline_awards{
+  int32 code = 1;
+}
+
+/**经验 */
+message s2c_you_exp{
+  int32 exp = 1;
+}
+
+/**升级 */
+message s2c_you_upgrade{
+  int32 level = 1;
+}
+
+message s2c_you_money {
+  int32 nKind = 1;
+  int32 nNum = 2;
+  int32 nChange = 3;
+}
+
+message c2s_part_intensify{
+  int32 part = 1;
+}
+
+message s2c_part_intensify{
+  int32 code = 1;
+  int32 part = 2;
+  int32 intensify = 3;
+}
+
+message c2s_sync_mapunlock{
+    string mapunlock = 1;
+}
+
+message c2s_sync_guidestage{
+    int32 guideStage = 1;
+}
+
+// 背包返回数据
+message BagInfo {
+  // 背包格子 初始化50
+  int32 bagCnt = 1; 
+  // 背包最大上限 初始化400
+  int32 maxBagCnt = 2; 
+  // 背包内容 - 道具装备都在这 []
+  repeated IItem baglist = 3;  
+  // 背包拓展的总格子数 初始化350
+  int32 bagExCnt = 4;
+  // 拓展的次数
+  int32 exCnts = 5;
+  /**怪物计数 */
+  string equipRecord = 6;
+}
+
+// 道具
+message IItem {
+  int64 uuid = 1; //  物品唯一id
+  int32 itemId = 2; // 物品编号
+  int32 count = 3;  // 物品数量
+  string name = 4; //物品名称
+  int32 type = 5; // 物品类型
+  int32 quality = 6; // 品质
+  int32 cooling = 7; //冷却倒计时
+  int32 part = 8; // 装备位置
+  int32 affixCnt = 9; //附加词条数目
+  repeated IAffixAttr affixInfo = 10; // 附加词条属性
+  repeated int32 bestPoint = 11; // 极品点
+  int32 costStone = 12;  // 洗练石消耗
+  bool isLock = 13; // 锁定
+  int32 state = 14; // 道具状态
+  int32 isfixd = 15; // 是否不能洗练石
+  int32 combat = 16; // 
+}
+
+// 附加词缀
+message IAffixAttr {
+  int32 id = 1; // 词缀编号
+  int32 code = 2; /**属性编号 */
+  float minV = 3; /**词缀数值 */
+  float maxV = 4; /**词缀数值 */
+  int32 percent = 5; /**1：正常，2：百分比*/
+}
+
+/**技能数据 */
+message SkillData {
+  /**技能id */
+  int32 baseId = 1;
+  /**技能等级 */
+  int32 level = 2;
+  /**当前的熟练度 */
+  int32 curexp = 3;
+  /**激活状态 */
+  int32 state = 4;
+  /**自动释放 */
+  bool isauto = 5;
+  /**是否普攻 */
+  bool pugong = 6;
+  /**技能叠加等级 */
+  int32 equiplv = 7;
+}
+
+/**请求登录 */
+message c2s_relogin {
+  int32 accountid = 1;
+  int32 roleid = 2;
+  string token = 3;
+}
+message s2c_otherlogin {}
+
+message c2s_enter_game {
+  int32 accountid = 1;
+  int32 roleId = 2;
+}
+
+// 今日存档被清除
+message s2c_clear_day { string dayMap = 1; }
+
+message s2c_trace{
+  string msg = 1;
+}
+
+/**特权变更 */
+message s2c_prerogative_change{
+  string prerogative = 1;
+}
+/**免广告 */
+message s2c_prerogative_mgg{
+}
+/**特权 */
+message c2s_prerogative_receive{
+  /**1 战神100元宝 2 回收100元宝 3 免广告奖励 */
+  int32 type = 1;
+}
+
+/**每日重置 */
+message s2c_daymap_change{
+  string daymap = 1;
+}
+
+/**攻击 */
+message s2c_skill_start_fighting {
+}
+//------------------------------------------------------------------------------------------------
+// 场景
+message c2s_change_map {
+  /**切换地图 */
+  int32 mapid = 1;
+  /**切换类型 1正常切换 2传送*/
+  int32 type = 2;
+}
+
+// 切换结果
+message s2c_change_map {
+  int32 mapid = 1;
+}
+
+/**签到 */
+message c2s_qiandao_week{
+}
+message c2s_qiandao_month{
+    /**当前签到倍数*/
+    int32 multiple = 1;
+}
+
+message s2c_equipRecord_change{
+  string equipRecord = 1;
+}
+
+message s2c_qiandao_week{
+  /**返回 0 成功 */
+   int32 code = 1;
+   int32 weekCount = 2;
+   string weekDate = 3;
+}
+message s2c_qiandao_month{
+  /**返回 0 成功 */
+  int32 code = 1;
+  int32 monthCount = 2;
+  string monthDate = 3;
+}
+
+/**道具使用 */
+message c2s_use_bagitem {
+  /**道具id */
+  int32 itemId = 1;
+  /**使用数量 */
+  int32 count = 2;
+  /**使用目标 */
+  int32 skillId = 3;
+}
+
+/**道具使用结果 */
+message s2c_use_libao {
+  /**道具ID */
+  int32 itemId = 1;
+  /**使用数量 */
+  int32 count = 2;
+}
+
+/**背包改变 */
+message s2c_bagitem_change {
+  /**对应的uuid */
+  int64 uuid = 1;
+  /**变化类型 */
+  int32 type = 2;
+  /**数量 */
+  int32 value = 3;
+  /**新物品 */
+  IItem item = 4;  
+}
+
+/**分解 */
+message c2s_item_decompound {
+  /**道具id */
+  int32 itemId = 1;
+  /**使用数量 */
+  int32 count = 2;
+}
+
+/**自动释放 */
+message c2s_skill_auto{
+  int32 baseId = 1;
+  bool isauto = 2;
+}
+
+/**技能变化 */
+message s2c_skill_change {
+  SkillData skill = 1;
+}
+
+/**客户端准备好了 */
+message c2s_loadingmap_success{
+}
+
+message c2s_exchange_code{
+  string exCode = 1;
+}
+
+/**杀怪通知 */
+message s2c_killmonster_msg {
+  /**击杀的哪只怪物 */
+  int32 uEid = 1;
+  /**获得经验值 */
+  int32 exp = 2;
+  /**经验加成 */
+  int32 addExp = 3;
+  /**获取金币 */
+  int32 gold = 4;
+  /**金币加成 */
+  int32 addGold = 5;
+  /**掉落信息 */
+  repeated DropInfo droplist = 6;
+  /**自动回收信息 */
+  repeated DropInfo reclaimlist = 7;
+  /**回收金币 */
+  int32 reclaimgold = 8;
+  /**防成谜 */
+  int32 fangcm = 9;
+}
+
+/**掉落信息 */
+message DropInfo{
+  /**掉落物 */
+  int32 itemId = 1;
+  /**数量,当为装备的时候为品质 */
+  int32 value = 2;
+  /**品质 */ 
+  int32 quality = 3;
+  /**特权 */
+  bool tequan = 4;
+}
+
+message c2s_update_setting{
+  string setting = 1;
+}
+
+message c2s_blacksmith{
+}
+
+message s2c_blacksmith{
+  repeated IItem itemlist = 1;
+  repeated int64 buildlist = 2;
+}
+
+message c2s_blacksmith_req{
+  int64 uid = 1;
+}
+
+message s2c_blacksmith_req{
+  int64 uid = 1;
+}
+
+message c2s_refresh_blacksmith{
+  int32 type = 1;
+}
+
+/**云游商城 */
+message c2s_yyshop{
+}
+
+/**延长时间 */
+message c2s_delay_yyshop{
+}
+
+/**云游商城信息 */
+message s2c_yyshop{
+  /**倍数 */
+  int32 bet = 1;
+  /**时间 */
+  int64 refresh = 2;
+}
+/**刷新云游商城 */
+message c2s_refresh_yyshop{
+}
+
+/**历练 */
+message c2s_lilian_received{
+  int32 taskId = 1;
+  int32 lilianId = 2;
+}
+message s2c_lilian_received{
+  repeated int32 taskReceived = 1;
+}
+//------------------------------------------------------------------------------------------------
+// 战斗
+
+message c2s_hero_revive
+{
+  /**1 元宝 2 视频 */
+  int32 type = 1;
+}
+
+/** 
+  uEid;
+  ownerEid;
+  bufflist;("可选")
+  BAT_HP;
+  BAT_MP;
+  HP;
+  MP;
+  x;
+  y;
+*/
+message s2c_fighting_sync_animal
+{
+  repeated FightingAnimalInfo animalList = 1;
+}
+
+message FightingAnimalInfo
+{
+  int32 uEid = 1;
+  int32 ownerEid = 2;
+  repeated FightingSkillBuffInfo bufflist = 3;
+  int32 hp = 4;
+  int32 maxhp = 5;
+  int32 mp = 6;
+  int32 maxmp = 7;
+  int32 x = 8;
+  int32 y = 9;
+  int32 monsterId = 10;
+  int32 quality = 11;
+}
+
+message FightingSkillBuffInfo
+{
+  int32 uEid = 1;
+  int32 buffId = 2;
+}
+
+message s2c_fighting_fire_skill_ack
+{
+  int32 uEid = 1;// 怪实体ID
+  int32 skillId = 2;
+  repeated int32 hitEidList = 3;
+}
+
+/** 创建主角 */
+message s2c_fighting_add_hero
+{
+  int32 hp = 1;
+  int32 mp = 2;
+  int32 x = 3;
+  int32 y = 4;
+}
+
+/** 创建玩家 */
+message s2c_fighting_add_player
+{
+  int32 uEid = 1;
+  int32 profession = 2;
+  string name = 3;
+  int32 level = 4;
+  int32 hp = 5;
+  int32 mp = 6;
+  int32 x = 7;
+  int32 y = 8;
+}
+
+/** 创建怪 */
+message s2c_fighting_add_monster
+{
+  int32 uEid = 1;// 怪实体ID
+  int32 ownerEid = 2; // 主人实体ID
+  int32 monsterId = 3;// Monster表中ID
+  int32 quality = 4;// 怪物品质
+  int32 hp = 5; // 怪物血量
+  int32 maxhp = 6; // 怪物最大血量
+  int32 x = 7;
+  int32 y = 8;
+}
+
+/** 怪死亡 */
+message s2c_fighting_remove_monster
+{
+  int32 uEid = 1;// 怪实体ID
+}
+
+/** 怪移动 */
+message s2c_fighting_animal_move
+{
+  // 怪实体ID
+  int32 uEid = 1;
+  // 怪X
+  int32 x = 2;
+  // 怪Y
+  int32 y = 3;
+}
+
+/** 增加Buff */
+message s2c_fighting_add_buff
+{
+  int32 uEid = 1;//  怪或角色 实体ID
+  int32 buffEid = 2;// 生成的Buff实体ID
+  int32 buffId = 3;// Buff表中ID
+}
+/** 删除Buff */
+message s2c_fighting_remove_buff
+{
+  int32 uEid = 1;// 怪或角色 实体ID
+  int32 buffEid = 2;// Buff实体ID
+}
+/** 属性变化  */
+message s2c_fighting_change_attr
+{
+  int32 uEid = 1;// 怪或角色 实体ID
+  int32 attrId = 2;// 属性ID 
+  int32 value = 3;// 变化后的值 
+}
+message s2c_fighting_change_hp
+{
+  int32 uEid = 1;// 怪或角色 实体ID
+  int32 type = 2;// EFightingHurtType 0:正常  1：Buff流血或加血  2：释法给自己，回血
+  int32 changeValue = 3;// 变化值  
+  int32 newValue = 4;// 最终的值  
+}
+
+message s2c_fighting_sync_hero_hpmp
+{
+  int32 hp = 1;
+  int32 maxhp = 2;
+  int32 mp = 3;
+  int32 maxmp = 4;
+}
+
+/** 触发被动 */
+message s2c_fighting_trigger_pass
+{
+  int32 uEid = 1;
+  int32 type = 2;//EFightingPassType type ==1 攻杀  ==2 法术精通   
+  int32 skillId = 3;
+  int32 hitEid = 4;
+}
+/** 物品掉落 */
+message s2c_fighting_drop
+{
+  int32 uEid = 1; // 死亡的怪
+  string itemObj = 2; // 掉落的物品列表 {itemId:number, value:number}[]
+}
+/** 同步杀怪数 */
+message s2c_sync_kill_monster_count
+{
+  int32 monsterId = 1;
+  int32 count = 2;
+  int32 totalcount = 3;
+}
+/** 主角死亡 */
+message s2c_fighting_hero_die
+{
+  int32 uEid = 1;
+}
+/** 主角复活 */
+message s2c_hero_revive
+{
+  int32 code = 1;
+  int32 uEid = 2;
+  int32 hp = 3;
+  int32 mp = 4;
+}
+
+message s2c_fighting_boss_die
+{
+  int32 bossId = 1;
+  int32 time = 2;
+}
+
+message s2c_fighting_boss_revive
+{
+  int32 bossId = 1;
+}
+
+message s2c_fighting_result
+{
+  // 自己赢  为true
+  bool isWin = 1;
+}
+
+message s2c_notice{
+  int32 code = 1;
+  int32 value = 2;
+}
+//------------------------------------------------------------------------------------------------
+// 图鉴
+message c2s_role_tujian_upgrade
+{
+  int32 monsterId = 1;// 进阶的怪ID
+}
+
+message s2c_role_tujian_upgrade
+{
+  int32 code = 1; // 0：成功 
+  int32 monsterId = 2; // 进阶怪ID
+  int32 monsterLv = 3;  // 进阶后怪等级
+}
+
+//------------------------------------------------------------------------------------------------
+// 经脉 
+message c2s_role_jingmai_upgrade{
+}
+
+message s2c_role_jingmai_upgrade{
+  int32 code = 1;// == 0 成功  1：材料不足
+  int32 lv = 2;//  升级后的等级
+  int32 xueweiId = 3;// 升级后穴位
+}
+
+//------------------------------------------
+// 基金
+message c2s_receive_jijin{
+  int32 lvl = 1;
+  int32 type = 2;
+}
+message c2s_buy_jijinvip{
+}
+
+message s2c_jijin_change{
+  string jijin = 1;
+}
+
+//------------------------------------------------------------------------------------------------
+// 商城
+message c2s_shop_buy
+{
+  int32 shopId = 1;
+  int32 itemId = 2;
+  int32 count = 3;
+}
+
+message s2c_shop_buy{
+  int32 code = 1;
+  string buyId = 2;
+  int32 count = 3;
+}
+
+/**------------------------------------------------------------------------------------------------*/
+/**合成 */
+message c2s_item_fuse{
+  int64 itemId = 1;
+  int32 count = 2;
+}
+message s2c_item_fuse{
+
+}
+//------------------------------------------------------------------------------------------------
+// 邮件
+/** 设置只读 */
+message c2s_mail_set_read{
+  int64 mailId = 1;
+}
+/** 领取奖励 */
+message c2s_mail_get_reward{
+  int64 mailId = 1;
+}
+/** 删除邮件 */
+message c2s_mail_delete{
+  int64 mailId = 1;
+}
+/** 同步邮件列表 */
+message s2c_mail_async_list{
+  repeated DBMailData mailList = 1;
+}
+/** 领取返回 */
+message s2c_mail_get_reward{
+  int32 code = 1; // 0 成功
+  int64 mailId = 2;
+}
+/**  删除返回 */
+message s2c_mail_delete{
+  int32 code = 1; // 0 成功
+  int64 mailId = 2;
+}
+
+message DBMailData {
+  int64 mailId = 1;
+  int64 toRoleId = 2;
+  int32 serverId = 3;
+  int32 state = 4;
+  int64 fromRoleId = 5;
+  string fromRoleName = 6;
+  int32 date = 7;
+  string title = 8;
+  string content = 9;
+  string rewards = 10;
+}
+
+//------------------------------------------------------------------------------------------------
+// 支付
+message c2s_pay_req{
+  int32 chongzhiId = 1;
+}
+
+message s2c_pay_req_ack{
+  int32 code = 1;
+  int64 orderId = 2;
+  int32 chongzhiId = 3;
+}
+
+message s2c_pay_succeed
+{
+  int64 orderId = 1;
+  int32 chongzhiId = 2;
+  int32 count = 3;
+}
+
+// 领取首充
+message c2s_shouchong_receive{
+}
+message s2c_shouchong_receive{
+  int32 code = 1;
+}
+
+//------------------------------------------------------------------------------------------------
+// 离线托管
+message c2s_req_off_trust
+{
+  int32 flag = 1;//0 托管  1 去消托管
+  OffTrustSetInfo info = 2;
+}
+
+message s2c_req_off_trust_ack
+{
+  int32 code = 1;// 0 成功
+  int32 rte = 2; // 结束时间
+}
+
+message OffTrustSetInfo 
+{
+  repeated int32 mapIdList = 1;
+  bool autoBuyHp = 2;
+  bool autoBuyMp = 3;
+}
+
+/**  
+  初始化托管信息
+  收到此信息表示玩家设置托管   rts=0 表示弹出超过最大最长，弹框结算，关闭弹框后需要请求后台取消托管
+*/
+message s2c_off_trust_init
+{
+  int32 rts = 1; // 托管剩余时间 秒
+  int32 rte = 2; // 结束时间
+  string info = 3; // {gainlist:OffTrustRewardInfo[], gold:number, exp:number, itemlist:{itemId:number, quality:number, count:number}[], killlist:number[]} 字符串形式
+  string setting = 4; // {mapIdList:number[], defaultMapId:number, autoBuyHp:boolean, autoBuyMp:boolean}
+}
+
+message OffTrustRewardInfo
+{
+  int32 monsterId = 1;
+  int32 quality = 2;
+  int32 gold = 3;
+  int32 exp = 4;
+  int32 time = 5; // 获取时间 秒
+  repeated string itemObjList = 6;//{itemId:number, count:number, quality:number}[]
+}
+
+//------------------------------------------------------------------------------------------------
+// 排行榜
+/** 
+    type:number;
+    serverId:number;
+    roleId:number;
+    profession:number;
+    roleName:string;
+    roleLevel:number;
+    rolePower:number;
+*/
+message RankInfo
+{
+  int32 type = 1;
+  int32 serverId = 2;
+  int32 roleId = 3;
+  string roleName = 4;
+  int32 roleLevel = 5;
+  int32 levelExp = 6;
+  int32 rolePower = 7;
+}
+
+message s2c_rank_req_ack
+{
+  repeated RankInfo level = 1;
+  repeated RankInfo power = 2;
+}
+message s2c_rank_req_level
+{
+  repeated RankInfo level = 1;
+}
+message s2c_rank_req_power
+{
+  repeated RankInfo power = 2;
+}
+message s2c_rank_shenqing_mobai
+{
+  int32 code = 1;
+}
+message s2c_rank_sync_mobai
+{
+  RankInfo zhanshi = 1;
+  RankInfo fashi = 2;
+  RankInfo daoshi = 3;
+}
+//------------------------------------------------------------------------------------------------
+/**矿区 */
+message c2s_minearea_info{
+}
+
+message s2c_minearea_info{
+  string mineinfo = 1;
+  /**我的体力 */
+  int32 energy = 2;
+  /**挖矿间隔 */
+  int32 cd = 3;
+}
+
+/**矿洞 */
+message c2s_minepit_info{
+    int32 quality = 1;
+}
+
+message s2c_minepit_info{
+  string mineinfo = 1;
+}
+
+/**占领 */
+message c2s_mine_occupy{
+  int32 index = 1;
+}
+
+message s2c_mine_occupy{
+  int32 code = 1;
+  string pit = 2;
+}
+
+/**矿坑消息 true 发*/
+message c2c_mintpit_msg{
+  bool type = 1;
+}
+
+message s2c_mintpit_msg{
+  string info = 1;
+}
+
+/**放弃矿洞 */
+message c2s_mine_giveup{
+    int32 id = 1;
+}
+
+/**查询角色信息 */
+message c2s_minepit_player{
+  int32 id = 1;
+}
+
+/**矿坑信息 */
+message s2c_minepit_player{
+  int32 id = 1;
+  int32 protect = 2;
+  minepit_player role = 3;
+}
+
+/**矿洞玩家 */
+message minepit_player{
+  /**角色ID */
+  int32 roleid = 1;
+  /**角色昵称 */
+  string rolename = 2;
+  /**角色等级 */
+  int32 rolelevel = 3;
+  /**角色职业 */
+  int32 profession = 4;
+  /**角色战力 */
+  int32 combat = 5;
+  /**角色开采 */
+  string awards = 6;
+  /**角色体力 */
+  int32 energy = 7;
+  /**角色占领时间 */
+  int64 occupytime = 8;
+}
+
+message s2c_energy_change{
+  int32 value = 1;
+}
+//------------------------------------------------------------------------------------------------
+// 神器
+message c2s_shenqi_upgrade
+{
+  // 1:狂风项链
+  int32 type = 1;
+}
+
+message s2c_shenqi_upgrade
+{
+  int32 code = 1;
+  // 1:狂风项链
+  int32 type = 2;
+  // 神器ID
+  int32 shenQiId = 3;
+  // 神器技能ID
+  int32 skillLv = 4;
+}
+
+message c2s_shenqi_skill_upgrade
+{
+  // 1:狂风项链
+  int32 type = 1;
+}
+
+message s2c_shenqi_skill_upgrade
+{
+  int32 code = 1;
+  // 1:狂风项链
+  int32 type = 2;
+  // 神器ID
+  int32 shenQiId = 3;
+  // 神器技能ID
+  int32 skillLv = 4;
+}
+//------------------------------------------------------------------------------------------------
+/**擂台 */
+message s2c_arena {
+  int32 mapId = 1;
+}
+
+/**实名认证 */
+message c2s_author_notice {
+  int64 pid = 1;
+  string name = 2;
+  string idcard = 3;
+}
+message s2c_author_notice {
+   int32 state = 1;
+}
+
+/**第二天登录通知 */
+message s2c_reprot_day {
+  
+}
+//------------------------------------------------------------------------------------------------
+// 任务
+message c2s_task_done
+{
+  int32 taskId = 1;
+}
+
+message s2c_task_open
+{
+  int32 taskId = 1;
+  string extra = 2;
+}
+
+message s2c_task_done
+{
+  int32 taskId = 1;
+}
+
+message s2c_task_done_ack
+{
+  int32 taskId = 1;
+}
+
+message s2c_task_update_extra
+{
+  int32 taskId = 1;
+  string extra = 2;
+}
+
+//------------------------------------------------------------------------------------------------

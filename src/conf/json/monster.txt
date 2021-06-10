@@ -1,0 +1,9127 @@
+{
+  "1": {
+    "id": 1001,
+    "name": "鸡",
+    "map": "新手村外",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 28,
+    "hp": 46,
+    "ac": 1,
+    "mac": 0,
+    "zs": 1,
+    "zs2": 4,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100101,
+      400101
+    ],
+    "dorp2": [
+      100102,
+      400101
+    ],
+    "dorp3": [
+      100103,
+      400101
+    ],
+    "dorp4": [
+      100104,
+      400101
+    ],
+    "sound_atk": "monster_1001_atk",
+    "sound_hit": "monster_1001_hit",
+    "sound_die": "monster_1001_die",
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "生长或游荡在比奇城居民区附近，如物品商店、银杏树谷和边界村等处的空地下面的群居性生物。"
+  },
+  "2": {
+    "id": 1002,
+    "name": "鹿",
+    "map": "新手村外",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 30,
+    "hp": 50,
+    "ac": 3,
+    "mac": 0,
+    "zs": 2,
+    "zs2": 5,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100101
+    ],
+    "dorp2": [
+      100102
+    ],
+    "dorp3": [
+      100103
+    ],
+    "dorp4": [
+      100104
+    ],
+    "sound_atk": "monster_1002_atk",
+    "sound_hit": "monster_1002_hit",
+    "sound_die": "monster_1002_die",
+    "model": "mdl_mst_1002",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "江湖传闻鹿茸对男性某方面功能有显著的提升，[新手村外]突然出现了大批通宵挂机杀鹿的男性玩家"
+  },
+  "3": {
+    "id": 1003,
+    "name": "多钩猫",
+    "map": "比奇城南",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 44,
+    "hp": 74,
+    "ac": 12,
+    "mac": 0,
+    "zs": 14,
+    "zs2": 17,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "sound_atk": "monster_1003_atk",
+    "sound_hit": "monster_1003_hit",
+    "sound_die": "monster_1003_die",
+    "model": "mdl_mst_1003",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一种大多生活在荒野中的猫，能够步行，并会在邪恶和未知的力量驱使下变大。它偷窃人们的钩子用来做武器，出现在地牢、北门之间的森林与河边，及矿山和南门之间的树林里。"
+  },
+  "4": {
+    "id": 1004,
+    "name": "钉耙猫",
+    "map": "比奇城南",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 44,
+    "hp": 74,
+    "ac": 12,
+    "mac": 0,
+    "zs": 14,
+    "zs2": 17,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "sound_atk": "monster_1003_atk",
+    "sound_hit": "monster_1003_hit",
+    "sound_die": "monster_1003_die",
+    "model": "mdl_mst_1004",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "与钩子猫类似，它一般生活在荒野中，能站立和行走，并会在邪恶和未知的力量驱使下长大。它偷窃人们的耙子用来做武器，出没在地牢、北门之间的森林与河边，及矿山和南门之间的树林里。"
+  },
+  "5": {
+    "id": 1005,
+    "name": "稻草人",
+    "map": "比奇城南",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 44,
+    "hp": 74,
+    "ac": 12,
+    "mac": 0,
+    "zs": 14,
+    "zs2": 17,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "sound_atk": "monster_1005_atk",
+    "sound_hit": "monster_1005_hit",
+    "sound_die": "monster_1005_die",
+    "model": "mdl_mst_1005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在森林或北门和地牢之间的荒原，你会遇到这种生物。一般说来，人们用他们保护庄稼不受害鸟的袭击。但是稻草人会在邪恶的、未知的力量驱使下逐渐变异，死亡时会爆炸出火焰，某些时候还会丢下宝剑来。"
+  },
+  "6": {
+    "id": 1006,
+    "name": "半兽人",
+    "lvl": 7,
+    "viewrange": 3,
+    "exp": 63,
+    "hp": 108,
+    "ac": 15,
+    "mac": 0,
+    "zs": 18,
+    "zs2": 25,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "sound_atk": "monster_1006_atk",
+    "sound_hit": "monster_1006_hit",
+    "sound_die": "monster_1006_die",
+    "model": "mdl_mst_1006",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "到第七级时你将经常猎取这种生物，危险之处在于它们常常结群行动。通常它会丢下很多宝物。"
+  },
+  "7": {
+    "id": 1007,
+    "name": "森林雪人",
+    "lvl": 6,
+    "viewrange": 3,
+    "exp": 54,
+    "hp": 92,
+    "ac": 13,
+    "mac": 0,
+    "zs": 16,
+    "zs2": 20,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "sound_atk": "monster_1007_atk",
+    "sound_hit": "monster_1007_hit",
+    "sound_die": "monster_1007_die",
+    "model": "mdl_mst_1007",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它通常称生活在西部森林，有时在南部森林也能见到它。它整个的身体覆盖着长毛，鼻子也很长。森林雪人用它锋利的爪子进攻，尽管攻击力强大，但由于战力弱而很容易被杀死。"
+  },
+  "8": {
+    "id": 1008,
+    "name": "半兽战士",
+    "lvl": 8,
+    "viewrange": 3,
+    "exp": 67,
+    "hp": 114,
+    "ac": 18,
+    "mac": 1,
+    "zs": 22,
+    "zs2": 30,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "model": "mdl_mst_1008",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一般半兽人有30年的寿命，但有一种半兽人的生命可长达50-200年。如果半兽人活过50年的话，它的皮肤会变成墨绿色（没有人知道为什么）。半兽战士已经生存了相当长的时间，因此有着更丰富的战斗经验和更强大的战斗力。"
+  },
+  "9": {
+    "id": 1009,
+    "name": "毒蜘蛛",
+    "lvl": 8,
+    "viewrange": 3,
+    "exp": 67,
+    "hp": 114,
+    "ac": 18,
+    "mac": 1,
+    "zs": 22,
+    "zs2": 30,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "model": "mdl_mst_1009",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "毒蜘蛛几乎出现在比奇城、沃玛森林和毒蛇谷的各个角落。它甚至能够隔着拐角向目标进攻和喷射毒液。一旦被它击中，一段时间内你的身体会变绿并丧失能量。"
+  },
+  "10": {
+    "id": 1010,
+    "name": "蛤蟆",
+    "lvl": 6,
+    "viewrange": 3,
+    "exp": 54,
+    "hp": 92,
+    "ac": 13,
+    "mac": 0,
+    "zs": 16,
+    "zs2": 20,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "model": "mdl_mst_1010",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "如果你达到第四级，你能很容易地杀死这个怪物。它们出没在北、南和东门附近的河边。"
+  },
+  "11": {
+    "id": 1011,
+    "name": "食人花",
+    "lvl": 7,
+    "viewrange": 3,
+    "exp": 63,
+    "hp": 108,
+    "ac": 15,
+    "mac": 0,
+    "zs": 18,
+    "zs2": 25,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100201
+    ],
+    "dorp2": [
+      100202
+    ],
+    "dorp3": [
+      100203
+    ],
+    "dorp4": [
+      100204
+    ],
+    "model": "mdl_mst_1011",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "生长在北部、西部和南部森林里的以人为食的植物，不能移动并隐藏在地下。人们接近时它会跃起来发动攻击。食人植物攻击力很强，但最大的弱点是很容易被远距离的进攻所消灭。"
+  },
+  "12": {
+    "id": 1012,
+    "name": "山洞蝙蝠",
+    "lvl": 11,
+    "viewrange": 3,
+    "exp": 173,
+    "hp": 303,
+    "ac": 24,
+    "mac": 0,
+    "zs": 30,
+    "zs2": 51,
+    "fixeddamage": 4,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 2,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100301
+    ],
+    "dorp2": [
+      100302
+    ],
+    "dorp3": [
+      100303
+    ],
+    "dorp4": [
+      100304
+    ],
+    "sound_hit": "monster_1012_hit",
+    "sound_die": "monster_1012_die",
+    "model": "mdl_mst_1012",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在地牢里到处都是这种飞翔的生物。尽管他们的攻击力不强，但它们群起进攻时还是躲远些为好。"
+  },
+  "13": {
+    "id": 1013,
+    "name": "骷髅",
+    "lvl": 12,
+    "viewrange": 3,
+    "exp": 191,
+    "hp": 336,
+    "ac": 25,
+    "mac": 0,
+    "zs": 34,
+    "zs2": 57,
+    "fixeddamage": 4,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 2,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100301
+    ],
+    "dorp2": [
+      100302
+    ],
+    "dorp3": [
+      100303
+    ],
+    "dorp4": [
+      100304
+    ],
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_1013",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "死去的半兽人复苏而成为骷髅，它们出现在地牢里，以石斧做武器，有比半兽人更强的力量。他们死去时会在火焰中化为灰烬。"
+  },
+  "14": {
+    "id": 1014,
+    "name": "掷斧骷髅",
+    "lvl": 13,
+    "viewrange": 3,
+    "exp": 212,
+    "hp": 375,
+    "ac": 27,
+    "mac": 0,
+    "zs": 40,
+    "zs2": 64,
+    "fixeddamage": 4,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 2,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100301
+    ],
+    "dorp2": [
+      100302
+    ],
+    "dorp3": [
+      100303
+    ],
+    "dorp4": [
+      100304
+    ],
+    "sound_atk": "monster_1014_atk",
+    "sound_hit": "monster_1014_hit",
+    "sound_die": "monster_1014_die",
+    "model": "mdl_mst_1014",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "死去的半兽人复苏的另一种形式，也出现在地牢里。它们挥舞并投掷沉重的斧头。他们一起进攻时通常掷出斧头后就离开，所以很难杀掉他们。"
+  },
+  "15": {
+    "id": 1015,
+    "name": "飞斧骷髅",
+    "lvl": 15,
+    "viewrange": 3,
+    "exp": 265,
+    "hp": 474,
+    "ac": 33,
+    "mac": 0,
+    "zs": 48,
+    "zs2": 79,
+    "fixeddamage": 5,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1015",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "同样会在地牢里出现，但与掷斧骷髅不同的是，他们对自己的斧头极为爱惜，飞出斧头后还会捡回来，你甚至可以在飞过来的斧子周围布陷阱击杀他们。"
+  },
+  "16": {
+    "id": 1016,
+    "name": "骷髅战士",
+    "lvl": 16,
+    "viewrange": 3,
+    "exp": 297,
+    "hp": 534,
+    "ac": 36,
+    "mac": 0,
+    "zs": 53,
+    "zs2": 85,
+    "fixeddamage": 6,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1016",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在地牢里，骷髅战士双手挥舞着大斧，有强大的攻击力和能量，所以很难被杀死。"
+  },
+  "17": {
+    "id": 1017,
+    "name": "骷髅勇士",
+    "lvl": 17,
+    "viewrange": 3,
+    "exp": 332,
+    "hp": 600,
+    "ac": 38,
+    "mac": 1,
+    "zs": 57,
+    "zs2": 92,
+    "fixeddamage": 6,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1017",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "手持大刀的骷髅勇士，有着超强的攻击欲望，总是冲在最前面。"
+  },
+  "18": {
+    "id": 1018,
+    "name": "蝎子",
+    "lvl": 18,
+    "viewrange": 3,
+    "exp": 364,
+    "hp": 663,
+    "ac": 40,
+    "mac": 0,
+    "zs": 62,
+    "zs2": 98,
+    "fixeddamage": 6,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1018",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们仅现于地牢里，当你达到15级时可以猎捕它们。不过要是一下子碰到4、5蝎子的话还是赶快逃跑。"
+  },
+  "19": {
+    "id": 1019,
+    "name": "大斧骷髅",
+    "lvl": 18,
+    "viewrange": 3,
+    "exp": 364,
+    "hp": 663,
+    "ac": 40,
+    "mac": 0,
+    "zs": 62,
+    "zs2": 98,
+    "fixeddamage": 6,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1019",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在地牢里大斧骷髅是特别的存在，手持巨大铁斧，攻击时是会旋转一周。不仅是冒险者，就连骷髅同僚都敬而远之。"
+  },
+  "20": {
+    "id": 1020,
+    "name": "骷髅狂战士",
+    "lvl": 19,
+    "viewrange": 3,
+    "exp": 387,
+    "hp": 708,
+    "ac": 43,
+    "mac": 0,
+    "zs": 69,
+    "zs2": 105,
+    "fixeddamage": 7,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1020",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "百里挑一的骷髅勇士，会成长为手持双刀的骷髅狂战士，不但强大，而且有一定的统领意识。"
+  },
+  "21": {
+    "id": 1021,
+    "name": "骷髅战将",
+    "lvl": 19,
+    "viewrange": 3,
+    "exp": 387,
+    "hp": 708,
+    "ac": 43,
+    "mac": 1,
+    "zs": 69,
+    "zs2": 105,
+    "fixeddamage": 7,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100401
+    ],
+    "dorp2": [
+      100402
+    ],
+    "dorp3": [
+      100403
+    ],
+    "dorp4": [
+      100404
+    ],
+    "model": "mdl_mst_1021",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "你会在半兽人坟墓的第二层和天然洞穴发现他们。在所有的骷髅类角色中他们有相对强大的攻击力和能量。尽管它们难以被独力杀掉，但在群起进攻时却要比你想象得容易些。"
+  },
+  "22": {
+    "id": 1022,
+    "name": "洞蛆",
+    "lvl": 21,
+    "viewrange": 3,
+    "exp": 533,
+    "hp": 987,
+    "ac": 44,
+    "mac": 0,
+    "zs": 81,
+    "zs2": 128,
+    "fixeddamage": 8,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100501
+    ],
+    "dorp2": [
+      100502
+    ],
+    "dorp3": [
+      100503
+    ],
+    "dorp4": [
+      100504
+    ],
+    "model": "mdl_mst_1022",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在地牢里他们蠕动着，并通过喷射气体向你进攻。他们体力较差但喷射的气体能使你瘫痪。一旦瘫痪的话你不能行动，只能使用药瓶。它们的尸体是一种\"蛆丸\"。"
+  },
+  "23": {
+    "id": 1023,
+    "name": "僵尸",
+    "lvl": 21,
+    "viewrange": 3,
+    "exp": 533,
+    "hp": 987,
+    "ac": 44,
+    "mac": 0,
+    "zs": 81,
+    "zs2": 128,
+    "fixeddamage": 8,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100501
+    ],
+    "dorp2": [
+      100502
+    ],
+    "dorp3": [
+      100503
+    ],
+    "dorp4": [
+      100504
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1023",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "僵尸原先是一个矿山中的矿工。矿山在奇怪力量导致的地震中坍塌，他们被困其中。他们死去后重生为僵尸。他们有再生的力量，最终消亡前可以再生数次。"
+  },
+  "24": {
+    "id": 1024,
+    "name": "爬行僵尸",
+    "lvl": 21,
+    "viewrange": 3,
+    "exp": 533,
+    "hp": 987,
+    "ac": 44,
+    "mac": 0,
+    "zs": 81,
+    "zs2": 128,
+    "fixeddamage": 8,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100501
+    ],
+    "dorp2": [
+      100502
+    ],
+    "dorp3": [
+      100503
+    ],
+    "dorp4": [
+      100504
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1024",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一些僵尸会在人们接近时从地下迸出来，还有一些会发出强大的电光。在僵尸的地牢里要格外谨慎，你可能会在毫无警觉的情况被它们包围。"
+  },
+  "25": {
+    "id": 1025,
+    "name": "红蛇",
+    "lvl": 22,
+    "viewrange": 3,
+    "exp": 549,
+    "hp": 1022,
+    "ac": 47,
+    "mac": 2,
+    "zs": 87,
+    "zs2": 139,
+    "fixeddamage": 8,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100501
+    ],
+    "dorp2": [
+      100502
+    ],
+    "dorp3": [
+      100503
+    ],
+    "dorp4": [
+      100504
+    ],
+    "model": "mdl_mst_1025",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "自比奇城向南走你会经过红蛇出没的毒蛇谷。它没有毒液，但是因为成群结队而比较难以对付。它锋利的牙齿能很容易地将盔甲咬出一个窟窿。"
+  },
+  "26": {
+    "id": 1026,
+    "name": "虎蛇",
+    "lvl": 23,
+    "viewrange": 3,
+    "exp": 550,
+    "hp": 1029,
+    "ac": 52,
+    "mac": 2,
+    "zs": 94,
+    "zs2": 150,
+    "fixeddamage": 9,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100501
+    ],
+    "dorp2": [
+      100502
+    ],
+    "dorp3": [
+      100503
+    ],
+    "dorp4": [
+      100504
+    ],
+    "model": "mdl_mst_1026",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这是出没在毒蛇谷西南部的大蛇，虽然没有毒液，但因为成群结队行动而难以被杀掉。它身上长着黄色的斑纹，它锋利的牙齿足以在你的盔甲上咬出洞来。"
+  },
+  "27": {
+    "id": 1027,
+    "name": "猎鹰",
+    "lvl": 22,
+    "viewrange": 3,
+    "exp": 549,
+    "hp": 1022,
+    "ac": 47,
+    "mac": 0,
+    "zs": 87,
+    "zs2": 139,
+    "fixeddamage": 8,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100501
+    ],
+    "dorp2": [
+      100502
+    ],
+    "dorp3": [
+      100503
+    ],
+    "dorp4": [
+      100504
+    ],
+    "model": "mdl_mst_1027",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一种出现在盟重省周围的空中掠夺者。这种鸟飞翔在空中，猛地俯冲向它的猎物。它有力的翅膀、钢铁般的爪子、敏锐的视觉和强大的战力，使它甚至能猎取大的羊。"
+  },
+  "28": {
+    "id": 1028,
+    "name": "破碎的僵尸",
+    "map": "矿石储存所",
+    "lvl": 25,
+    "viewrange": 3,
+    "exp": 609,
+    "hp": 1152,
+    "ac": 57,
+    "mac": 0,
+    "zs": 111,
+    "zs2": 176,
+    "fixeddamage": 10,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100601
+    ],
+    "dorp2": [
+      100602
+    ],
+    "dorp3": [
+      100603
+    ],
+    "dorp4": [
+      100604
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1023",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "出现在矿区的僵尸，虽然有点残破，但是更加难缠，你永远不知道下一个扑上来的是一只手还是一条腿。"
+  },
+  "29": {
+    "id": 1029,
+    "name": "无脑僵尸",
+    "map": "矿石储存所",
+    "lvl": 26,
+    "viewrange": 3,
+    "exp": 633,
+    "hp": 1204,
+    "ac": 60,
+    "mac": 0,
+    "zs": 117,
+    "zs2": 186,
+    "fixeddamage": 10,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100601
+    ],
+    "dorp2": [
+      100602
+    ],
+    "dorp3": [
+      100603
+    ],
+    "dorp4": [
+      100604
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1024",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "脑子大概是被僵尸吃了吧，话说你不就是个僵尸吗。可能是因为皮肤坚如钢铁让同僚无法下嘴，这就是遇上一帮吃货的下场。"
+  },
+  "30": {
+    "id": 1030,
+    "name": "闪电僵尸",
+    "map": "矿石储存所",
+    "lvl": 25,
+    "viewrange": 3,
+    "exp": 609,
+    "hp": 1152,
+    "ac": 57,
+    "mac": 0,
+    "zs": 111,
+    "zs2": 176,
+    "fixeddamage": 10,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100601
+    ],
+    "dorp2": [
+      100602
+    ],
+    "dorp3": [
+      100603
+    ],
+    "dorp4": [
+      100604
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1023",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "普通的僵尸，吸收了矿山中奇怪的力量，浑身带着闪电，还会招引雷电，也能当避雷针使用。"
+  },
+  "31": {
+    "id": 1031,
+    "name": "复活的僵尸",
+    "map": "矿石储存所2",
+    "lvl": 27,
+    "viewrange": 3,
+    "exp": 679,
+    "hp": 1299,
+    "ac": 62,
+    "mac": 0,
+    "zs": 123,
+    "zs2": 196,
+    "fixeddamage": 15,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100601
+    ],
+    "dorp2": [
+      100602
+    ],
+    "dorp3": [
+      100603
+    ],
+    "dorp4": [
+      100604
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1023",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "僵尸死后利用再生的力量复活的僵尸，变得更强的同时，还让人好奇他还能再复活几次。"
+  },
+  "32": {
+    "id": 1032,
+    "name": "钻地僵尸",
+    "map": "矿石储存所2",
+    "lvl": 28,
+    "viewrange": 3,
+    "exp": 711,
+    "hp": 1369,
+    "ac": 65,
+    "mac": 0,
+    "zs": 131,
+    "zs2": 208,
+    "fixeddamage": 15,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100601
+    ],
+    "dorp2": [
+      100602
+    ],
+    "dorp3": [
+      100603
+    ],
+    "dorp4": [
+      100604
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1032",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "吸收了矿山中奇怪的力量，变得能与地面融为一体，会在地底突然跳出袭击冒险者，不过经验丰富的冒险者会提前发现并闪避，还能第一时间进行反制。"
+  },
+  "33": {
+    "id": 1033,
+    "name": "电僵尸",
+    "map": "矿石储存所2",
+    "lvl": 29,
+    "viewrange": 3,
+    "exp": 737,
+    "hp": 1428,
+    "ac": 72,
+    "mac": 0,
+    "zs": 138,
+    "zs2": 220,
+    "fixeddamage": 16,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100601
+    ],
+    "dorp2": [
+      100602
+    ],
+    "dorp3": [
+      100603
+    ],
+    "dorp4": [
+      100604
+    ],
+    "sound_atk": "monster_1023_atk",
+    "sound_hit": "monster_1023_hit",
+    "sound_die": "monster_1023_die",
+    "model": "mdl_mst_1033",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "不断招引雷电的闪电僵尸终于进化成了电僵尸，浑身闪烁者电光，而且能自由控制电的力量来攻击冒险者。"
+  },
+  "34": {
+    "id": 1034,
+    "name": "神鹰",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 0,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "model": "mdl_mst_1027",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "传闻击杀神鹰会掉落金条，也有传闻说击杀神鹰有概率可以通往boss之家"
+  },
+  "35": {
+    "id": 1035,
+    "name": "多角虫",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 0,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "model": "mdl_mst_1035",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一种生活在牧场的飞行昆虫，它用长在前额的坚硬的角攻击你。如果你的攻击软弱无力的话是不能杀死它们的，因为它们身上有层硬壳。不过，你能够从硬壳与硬壳间的裂缝或空隙很容易地杀掉它们。"
+  },
+  "36": {
+    "id": 1036,
+    "name": "狼",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 0,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "sound_atk": "monster_1036_atk",
+    "sound_hit": "monster_1036_hit",
+    "sound_die": "monster_1036_die",
+    "model": "mdl_mst_1036",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "狼是生活在盟重省周围的的荒漠和牧场的肉食类动物。它一般以猎羊为食，但当人们冒险靠近其居住地时也可能会遭到它的攻击。他们常常群体行动，动作很快攻击力强并持久，所以你遇到它们时要当心点。"
+  },
+  "37": {
+    "id": 1037,
+    "name": "蜈蚣",
+    "lvl": 31,
+    "viewrange": 3,
+    "exp": 996,
+    "hp": 1952,
+    "ac": 77,
+    "mac": 5,
+    "zs": 154,
+    "zs2": 245,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "sound_atk": "monster_1037_atk",
+    "sound_hit": "monster_1037_hit",
+    "sound_die": "monster_1037_die",
+    "model": "mdl_mst_1037",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们居住在洞穴深处，尽管没有很强的力量，但快速的行动和攻击却能使你防不胜防。"
+  },
+  "38": {
+    "id": 1038,
+    "name": "钳虫",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 7,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "model": "mdl_mst_1038",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这是一种用长在前额的巨大的、锋利的钳子进攻的，强有力的昆虫类生物。它们有坚硬的外壳保护身体，进攻敌人时会以六条腿快速移动。一定要当心被它坚硬的表皮伤害。由于长期生活在黑暗的洞穴中，它们已经丧失了视力，但它们敏锐的触角可以通过气味或湿度来感知敌人的威胁。你应该用强有力的武器攻击它们，而不是用剑。"
+  },
+  "39": {
+    "id": 1039,
+    "name": "跳跳蜂",
+    "lvl": 33,
+    "viewrange": 3,
+    "exp": 1092,
+    "hp": 2165,
+    "ac": 85,
+    "mac": 3,
+    "zs": 172,
+    "zs2": 270,
+    "fixeddamage": 24,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "model": "mdl_mst_1039",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这是一种长着翅膀的昆虫。相比它巨大的身体那翅膀显得很小，所以它们无法飞翔，而是通过快速跳跃而行动。这种行动方式就像是蹦蹦跳跳的小孩子，所以名为跳跳蜂。但是你如果认为很容易杀死它们就错了，当心，他们动作很快，又成群结队，缠上你可不是玩儿的。"
+  },
+  "40": {
+    "id": 1040,
+    "name": "巨型蠕虫",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 3,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100701
+    ],
+    "dorp2": [
+      100702
+    ],
+    "dorp3": [
+      100703
+    ],
+    "dorp4": [
+      100704
+    ],
+    "sound_die": "monster_1040_die",
+    "model": "mdl_mst_1040",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "和蜈蚣相似，也居住在洞穴深处，尽管没有很强的力量，但快速的行动和攻击却能使你防不胜防。"
+  },
+  "41": {
+    "id": 1041,
+    "name": "剧毒蜈蚣",
+    "lvl": 34,
+    "viewrange": 3,
+    "exp": 1149,
+    "hp": 2292,
+    "ac": 88,
+    "mac": 5,
+    "zs": 179,
+    "zs2": 281,
+    "fixeddamage": 24,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100801
+    ],
+    "dorp2": [
+      100802
+    ],
+    "dorp3": [
+      100803
+    ],
+    "dorp4": [
+      100804
+    ],
+    "sound_atk": "monster_1037_atk",
+    "sound_hit": "monster_1037_hit",
+    "sound_die": "monster_1037_die",
+    "model": "mdl_mst_1037",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一种含有剧毒的蜈蚣，常常被道士们拿来炼毒"
+  },
+  "42": {
+    "id": 1042,
+    "name": "杀人蜂",
+    "lvl": 35,
+    "viewrange": 3,
+    "exp": 1183,
+    "hp": 2374,
+    "ac": 93,
+    "mac": 3,
+    "zs": 194,
+    "zs2": 300,
+    "fixeddamage": 28,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100801
+    ],
+    "dorp2": [
+      100802
+    ],
+    "dorp3": [
+      100803
+    ],
+    "dorp4": [
+      100804
+    ],
+    "model": "mdl_mst_1039",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "尾部的蜂针足以杀死一个成年人，勇士们往往忽视了他们毒刺，不知道多少冤魂死在这只奇怪的昆虫手里"
+  },
+  "43": {
+    "id": 1043,
+    "name": "恶蛆",
+    "lvl": 37,
+    "viewrange": 3,
+    "exp": 1265,
+    "hp": 2571,
+    "ac": 100,
+    "mac": 7,
+    "zs": 213,
+    "zs2": 325,
+    "fixeddamage": 28,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100801
+    ],
+    "dorp2": [
+      100802
+    ],
+    "dorp3": [
+      100803
+    ],
+    "dorp4": [
+      100804
+    ],
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们由蛆的尸体变异而来，以高速旋转的身体为武器向人们进攻。它们会对所有靠近的人发起攻击，由于他们这样快的速度，使被攻击的人很难逃开。"
+  },
+  "44": {
+    "id": 1044,
+    "name": "大型钳虫",
+    "lvl": 38,
+    "viewrange": 3,
+    "exp": 1306,
+    "hp": 2670,
+    "ac": 104,
+    "mac": 7,
+    "zs": 226,
+    "zs2": 341,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100801
+    ],
+    "dorp2": [
+      100802
+    ],
+    "dorp3": [
+      100803
+    ],
+    "dorp4": [
+      100804
+    ],
+    "sound_atk": "monster_1044_atk",
+    "sound_hit": "monster_1044_hit",
+    "sound_die": "monster_1044_die",
+    "model": "mdl_mst_1038",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "只是比普通的钳虫大一点而已"
+  },
+  "45": {
+    "id": 1045,
+    "name": "腐化蠕虫",
+    "lvl": 39,
+    "viewrange": 3,
+    "exp": 1346,
+    "hp": 2768,
+    "ac": 108,
+    "mac": 3,
+    "zs": 239,
+    "zs2": 361,
+    "fixeddamage": 32,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100801
+    ],
+    "dorp2": [
+      100802
+    ],
+    "dorp3": [
+      100803
+    ],
+    "dorp4": [
+      100804
+    ],
+    "sound_die": "monster_1040_die",
+    "model": "mdl_mst_1040",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "已经被腐化的蠕虫"
+  },
+  "46": {
+    "id": 1046,
+    "name": "粪虫",
+    "lvl": 41,
+    "viewrange": 3,
+    "exp": 1693,
+    "hp": 3526,
+    "ac": 114,
+    "mac": 2,
+    "zs": 275,
+    "zs2": 413,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100901
+    ],
+    "dorp2": [
+      100902
+    ],
+    "dorp3": [
+      100903
+    ],
+    "dorp4": [
+      100904
+    ],
+    "model": "mdl_mst_1046",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们出现在沃玛神殿。它们本来是沃玛教众，但在沃玛教主召唤时被邪恶可怕的力量变成奇怪的动物。它们具有人的某些特征，智商低下并残忍无情。有时侯它们死后会被以原先的人名来命名。"
+  },
+  "47": {
+    "id": 1047,
+    "name": "暗黑战士",
+    "lvl": 43,
+    "viewrange": 3,
+    "exp": 1774,
+    "hp": 3741,
+    "ac": 120,
+    "mac": 2,
+    "zs": 294,
+    "zs2": 437,
+    "fixeddamage": 45,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100901
+    ],
+    "dorp2": [
+      100902
+    ],
+    "dorp3": [
+      100903
+    ],
+    "dorp4": [
+      100904
+    ],
+    "sound_atk": "monster_1047_atk",
+    "sound_hit": "monster_1047_hit",
+    "sound_die": "monster_1047_die",
+    "model": "mdl_mst_1047",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "黑暗出现在沃玛神殿。它曾是沃玛教的成员，但在沃玛教主复活后被邪恶和有害的力量变成奇怪的生物。它失掉人类的自然特征而成为低智商的残忍的动物。它通过射出背部的针发起攻击，这种针速度很快。它也很胆小，你接近时它会迅速跃开。"
+  },
+  "48": {
+    "id": 1048,
+    "name": "沃玛卫士",
+    "lvl": 41,
+    "viewrange": 3,
+    "exp": 1693,
+    "hp": 3526,
+    "ac": 114,
+    "mac": 8,
+    "zs": 275,
+    "zs2": 413,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      100901
+    ],
+    "dorp2": [
+      100902
+    ],
+    "dorp3": [
+      100903
+    ],
+    "dorp4": [
+      100904
+    ],
+    "sound_atk": "monster_1048_atk",
+    "sound_hit": "monster_1048_hit",
+    "sound_die": "monster_1048_die",
+    "model": "mdl_mst_1048",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们保卫着沃玛神殿。他们曾是沃玛教的成员，沃玛教主复活后他们被杀死，死后的尸体变成沃玛战士。沃玛战士残忍地攻击敢于进入神殿的人。它们没有武器，但如果你会被它强有力的拳头击中而发昏。因为沃玛教还比较虚弱，沃玛战士还不能走出沃玛神殿，尽管它们在神殿里很强大。"
+  },
+  "49": {
+    "id": 1049,
+    "name": "黑暗战士",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 2,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1049_atk",
+    "sound_hit": "monster_1049_hit",
+    "sound_die": "monster_1049_die",
+    "model": "mdl_mst_1047",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们要比暗黑战士更强一些，不过要说有什么特别之处的话，黑暗战士更黑。"
+  },
+  "50": {
+    "id": 1050,
+    "name": "沃玛贴身卫士",
+    "lvl": 46,
+    "viewrange": 3,
+    "exp": 1944,
+    "hp": 4180,
+    "ac": 132,
+    "mac": 8,
+    "zs": 321,
+    "zs2": 477,
+    "fixeddamage": 51,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1050_atk",
+    "sound_hit": "monster_1050_hit",
+    "sound_die": "monster_1050_die",
+    "model": "mdl_mst_1048",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们死前是沃玛的贴身卫士，死后仍是。作为卫士中最精英的存在，一步不离的护卫神殿，击退一切试图闯入的冒险者。"
+  },
+  "51": {
+    "id": 1051,
+    "name": "沃玛勇士",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 2,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1051_atk",
+    "sound_hit": "monster_1051_hit",
+    "sound_die": "monster_1051_die",
+    "model": "mdl_mst_1049",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沃玛勇士同样保卫着神殿，他们曾是沃玛教的成员，沃玛教主复活后他们被杀死，死后的尸体变成沃玛勇士。它们主动向敢于进入神殿的人发起攻击。它们用海魂做武器，比沃玛战士更强大。"
+  },
+  "52": {
+    "id": 1052,
+    "name": "沃玛战将",
+    "lvl": 47,
+    "viewrange": 3,
+    "exp": 2007,
+    "hp": 4343,
+    "ac": 135,
+    "mac": 2,
+    "zs": 330,
+    "zs2": 491,
+    "fixeddamage": 53,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1052_atk",
+    "sound_hit": "monster_1052_hit",
+    "sound_die": "monster_1052_die",
+    "model": "mdl_mst_1052",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沃玛神殿的保卫者，在这里他们很强大，但同样不能走出神殿外。"
+  },
+  "53": {
+    "id": 1053,
+    "name": "黑色恶蛆",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 0,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1053_atk",
+    "sound_hit": "monster_1053_hit",
+    "sound_die": "monster_1053_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们由蛆的尸体变异而来，以高速旋转的身体为武器向人们进攻。它们会对所有靠近的人发起攻击，由于他们这样快的速度，使被攻击的人很难逃开。"
+  },
+  "54": {
+    "id": 1054,
+    "name": "红野猪",
+    "lvl": 46,
+    "viewrange": 3,
+    "exp": 1944,
+    "hp": 4180,
+    "ac": 132,
+    "mac": 10,
+    "zs": 321,
+    "zs2": 477,
+    "fixeddamage": 51,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1058_atk",
+    "sound_hit": "monster_1058_hit",
+    "sound_die": "monster_1058_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们挥舞巨大的棒子攻击入侵者。一旦发现敌人，它们会跑起来并残忍地抡起大棒进攻。它们近乎荒谬的力量可能会使你受到伤害。"
+  },
+  "55": {
+    "id": 1055,
+    "name": "黑野猪",
+    "lvl": 47,
+    "viewrange": 3,
+    "exp": 2007,
+    "hp": 4343,
+    "ac": 135,
+    "mac": 5,
+    "zs": 330,
+    "zs2": 491,
+    "fixeddamage": 53,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1059_atk",
+    "sound_hit": "monster_1059_hit",
+    "sound_die": "monster_1059_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "红色恶猪变异而来，比他们的祖先更加迅速和灵活。不仅保持了巨大的可怕力量，更快的动作会给任何对手造成麻烦。"
+  },
+  "56": {
+    "id": 1056,
+    "name": "角蝇",
+    "lvl": 48,
+    "viewrange": 3,
+    "exp": 2057,
+    "hp": 4481,
+    "ac": 138,
+    "mac": 5,
+    "zs": 336,
+    "zs2": 502,
+    "fixeddamage": 55,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1066_atk",
+    "sound_hit": "monster_1066_hit",
+    "sound_die": "monster_1066_die",
+    "model": "mdl_mst_1056",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们令人不快地飞在洞窟中，以喷出毒液和产卵使其它生物窒息。它们全身常常淌下绿色的毒液而污染了周围的环境。"
+  },
+  "57": {
+    "id": 1057,
+    "name": "狂躁恶蛆",
+    "lvl": 49,
+    "viewrange": 3,
+    "exp": 2099,
+    "hp": 4601,
+    "ac": 143,
+    "mac": 0,
+    "zs": 349,
+    "zs2": 516,
+    "fixeddamage": 57,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1057_atk",
+    "sound_hit": "monster_1057_hit",
+    "sound_die": "monster_1057_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们由蛆的尸体变异而来，以高速旋转的身体为武器向人们进攻。它们会对所有靠近的人发起攻击，由于他们这样快的速度，使被攻击的人很难逃开。"
+  },
+  "58": {
+    "id": 1058,
+    "name": "变异野猪",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 2177,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 10,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 62,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1058_atk",
+    "sound_hit": "monster_1058_hit",
+    "sound_die": "monster_1058_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们挥舞巨大的棒子攻击入侵者。一旦发现敌人，它们会跑起来并残忍地抡起大棒进攻。它们近乎荒谬的力量可能会使你受到伤害。"
+  },
+  "59": {
+    "id": 1059,
+    "name": "杂毛野猪",
+    "lvl": 51,
+    "viewrange": 3,
+    "exp": 2390,
+    "hp": 5310,
+    "ac": 149,
+    "mac": 5,
+    "zs": 382,
+    "zs2": 569,
+    "fixeddamage": 65,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1059_atk",
+    "sound_hit": "monster_1059_hit",
+    "sound_die": "monster_1059_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "红色恶猪变异而来，比他们的祖先更加迅速和灵活。不仅保持了巨大的可怕力量，更快的动作会给任何对手造成麻烦。"
+  },
+  "60": {
+    "id": 1060,
+    "name": "蝎蛇",
+    "lvl": 52,
+    "viewrange": 3,
+    "exp": 2442,
+    "hp": 5463,
+    "ac": 153,
+    "mac": 3,
+    "zs": 391,
+    "zs2": 583,
+    "fixeddamage": 69,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1060_atk",
+    "sound_hit": "monster_1060_hit",
+    "sound_die": "monster_1060_die",
+    "model": "mdl_mst_1018",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这是一种令人不快的，穿着盔甲的蛇。它那悬着的巨大的眼睛可以望向任何方向。除了钳子，它长长的、锋利的牙齿也会造成致命的威胁。它们周身覆盖着坚硬的外壳，但你可以从腹部的软壳容易地杀死它们。一个经验丰富的勇士更容易杀掉它们。"
+  },
+  "61": {
+    "id": 1061,
+    "name": "暗黑战士",
+    "lvl": 49,
+    "viewrange": 3,
+    "exp": 2099,
+    "hp": 4601,
+    "ac": 143,
+    "mac": 2,
+    "zs": 349,
+    "zs2": 516,
+    "fixeddamage": 57,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1061_atk",
+    "sound_hit": "monster_1061_hit",
+    "sound_die": "monster_1061_die",
+    "model": "mdl_mst_1047",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "黑暗出现在沃玛神殿。它曾是沃玛教的成员，但在沃玛教主复活后被邪恶和有害的力量变成奇怪的生物。它失掉人类的自然特征而成为低智商的残忍的动物。它通过射出背部的针发起攻击，这种针速度很快。它也很胆小，你接近时它会迅速跃开。"
+  },
+  "62": {
+    "id": 1062,
+    "name": "火焰沃玛",
+    "lvl": 49,
+    "viewrange": 3,
+    "exp": 2099,
+    "hp": 4601,
+    "ac": 143,
+    "mac": 0,
+    "zs": 349,
+    "zs2": 516,
+    "fixeddamage": 57,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1062_atk",
+    "sound_hit": "monster_1062_hit",
+    "sound_die": "monster_1062_die",
+    "model": "mdl_mst_1062",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "火焰沃玛也不能离开神殿。没有武器但能喷射出强有力的火焰。作为沃玛中最高的等级，它们还长有翅膀。"
+  },
+  "63": {
+    "id": 1063,
+    "name": "沃玛护卫",
+    "lvl": 49,
+    "viewrange": 3,
+    "exp": 2099,
+    "hp": 4601,
+    "ac": 143,
+    "mac": 8,
+    "zs": 349,
+    "zs2": 516,
+    "fixeddamage": 57,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1063_atk",
+    "sound_hit": "monster_1063_hit",
+    "sound_die": "monster_1063_die",
+    "model": "mdl_mst_1052",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沃玛护卫在神殿中保卫沃玛教主，并因为重生的缘故而竭尽全力。他们是邪恶世界的生物，有着强大的魔法力量，该力量来自他们操纵的两种武器。一种是\"焰魔剑\"，含有黑暗的魔法，\"黑雪刀\"则有强大的破坏力量。它们能难战胜，但要杀掉沃玛教主就必须先解决掉它们。"
+  },
+  "64": {
+    "id": 1064,
+    "name": "沃玛战将",
+    "lvl": 49,
+    "viewrange": 3,
+    "exp": 2099,
+    "hp": 4601,
+    "ac": 143,
+    "mac": 2,
+    "zs": 349,
+    "zs2": 516,
+    "fixeddamage": 57,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101001
+    ],
+    "dorp2": [
+      101002
+    ],
+    "dorp3": [
+      101003
+    ],
+    "dorp4": [
+      101004
+    ],
+    "sound_atk": "monster_1064_atk",
+    "sound_hit": "monster_1064_hit",
+    "sound_die": "monster_1064_die",
+    "model": "mdl_mst_1049",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沃玛神殿的保卫者，在这里他们很强大，但同样不能走出神殿外。"
+  },
+  "65": {
+    "id": 1065,
+    "name": "大老鼠",
+    "lvl": 51,
+    "viewrange": 3,
+    "exp": 2390,
+    "hp": 5310,
+    "ac": 149,
+    "mac": 5,
+    "zs": 382,
+    "zs2": 569,
+    "fixeddamage": 65,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1065_atk",
+    "sound_hit": "monster_1065_hit",
+    "sound_die": "monster_1065_die",
+    "model": "mdl_mst_1065",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "出没于祖玛神殿，并用发达的前脚、尾巴和锋利的牙齿进攻。它不是很强有力的生物，但他迅速的行动会带来麻烦。"
+  },
+  "66": {
+    "id": 1066,
+    "name": "楔蛾",
+    "lvl": 51,
+    "viewrange": 3,
+    "exp": 2390,
+    "hp": 5310,
+    "ac": 149,
+    "mac": 5,
+    "zs": 382,
+    "zs2": 569,
+    "fixeddamage": 65,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1066_atk",
+    "sound_hit": "monster_1066_hit",
+    "sound_die": "monster_1066_die",
+    "model": "mdl_mst_1056",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们令人不快地飞在洞窟中，以喷出毒液和产卵使其它生物窒息。它们全身常常淌下绿色的毒液而污染了周围的环境。"
+  },
+  "67": {
+    "id": 1067,
+    "name": "祖玛射手",
+    "lvl": 51,
+    "viewrange": 3,
+    "exp": 2390,
+    "hp": 5310,
+    "ac": 149,
+    "mac": 10,
+    "zs": 382,
+    "zs2": 569,
+    "fixeddamage": 65,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1067_atk",
+    "sound_hit": "monster_1067_hit",
+    "sound_die": "monster_1067_die",
+    "model": "mdl_mst_1067",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "经过训练的祖玛射手，能够就地取材制做弓与箭，一旦被它们盯上，就会受到拉扯消耗陷入危险。"
+  },
+  "68": {
+    "id": 1068,
+    "name": "祖玛战士",
+    "lvl": 51,
+    "viewrange": 3,
+    "exp": 2390,
+    "hp": 5310,
+    "ac": 149,
+    "mac": 12,
+    "zs": 382,
+    "zs2": 569,
+    "fixeddamage": 65,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1068_atk",
+    "sound_hit": "monster_1068_hit",
+    "sound_die": "monster_1068_die",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "手持长矛的祖玛战士，会集合起来一同抵御侵略者，是祖玛寺庙的中坚力量。"
+  },
+  "69": {
+    "id": 1069,
+    "name": "獠牙猪卫",
+    "lvl": 52,
+    "viewrange": 3,
+    "exp": 2442,
+    "hp": 5463,
+    "ac": 153,
+    "mac": 10,
+    "zs": 391,
+    "zs2": 583,
+    "fixeddamage": 69,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1058_atk",
+    "sound_hit": "monster_1058_hit",
+    "sound_die": "monster_1058_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们挥舞巨大的棒子攻击入侵者。一旦发现敌人，它们会跑起来并残忍地抡起大棒进攻。它们近乎荒谬的力量可能会使你受到伤害。"
+  },
+  "70": {
+    "id": 1070,
+    "name": "黑野猪",
+    "lvl": 52,
+    "viewrange": 3,
+    "exp": 2442,
+    "hp": 5463,
+    "ac": 153,
+    "mac": 5,
+    "zs": 391,
+    "zs2": 583,
+    "fixeddamage": 69,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1059_atk",
+    "sound_hit": "monster_1059_hit",
+    "sound_die": "monster_1059_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "红色恶猪变异而来，比他们的祖先更加迅速和灵活。不仅保持了巨大的可怕力量，更快的动作会给任何对手造成麻烦。"
+  },
+  "71": {
+    "id": 1071,
+    "name": "蝎蛇",
+    "lvl": 53,
+    "viewrange": 3,
+    "exp": 2498,
+    "hp": 5625,
+    "ac": 158,
+    "mac": 3,
+    "zs": 403,
+    "zs2": 604,
+    "fixeddamage": 74,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1071_atk",
+    "sound_hit": "monster_1071_hit",
+    "sound_die": "monster_1071_die",
+    "model": "mdl_mst_1018",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这是一种令人不快的，穿着盔甲的蛇。它那悬着的巨大的眼睛可以望向任何方向。除了钳子，它长长的、锋利的牙齿也会造成致命的威胁。它们周身覆盖着坚硬的外壳，但你可以从腹部的软壳容易地杀死它们。一个经验丰富的勇士更容易杀掉它们。"
+  },
+  "72": {
+    "id": 1072,
+    "name": "尖牙战士",
+    "lvl": 53,
+    "viewrange": 3,
+    "exp": 2498,
+    "hp": 5625,
+    "ac": 158,
+    "mac": 3,
+    "zs": 403,
+    "zs2": 604,
+    "fixeddamage": 74,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1072_atk",
+    "sound_hit": "monster_1072_hit",
+    "sound_die": "monster_1072_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们是红色恶猪的领头者，不知道它们已活了多久。由于更长的寿命，他们比红色恶猪更大的体形和更强的破坏力。此外，它们的行动速度可以和黑色恶猪相比。"
+  },
+  "73": {
+    "id": 1073,
+    "name": "邪恶蝎蛇",
+    "lvl": 54,
+    "viewrange": 3,
+    "exp": 2571,
+    "hp": 5828,
+    "ac": 162,
+    "mac": 3,
+    "zs": 412,
+    "zs2": 622,
+    "fixeddamage": 76,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101101
+    ],
+    "dorp2": [
+      101102
+    ],
+    "dorp3": [
+      101103
+    ],
+    "dorp4": [
+      101104
+    ],
+    "sound_atk": "monster_1073_atk",
+    "sound_hit": "monster_1073_hit",
+    "sound_die": "monster_1073_die",
+    "model": "mdl_mst_1018",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种巨大的蝎蛇在相当长的时期里已经起了变异，不能与普通的蝎蛇相比。它们几乎能够毫无怜悯地杀掉任何敌人。它们的外壳非常坚硬，使大多数敌人的攻击都不起作用。"
+  },
+  "74": {
+    "id": 1074,
+    "name": "祖玛弓箭手",
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 2616,
+    "hp": 5972,
+    "ac": 171,
+    "mac": 10,
+    "zs": 422,
+    "zs2": 648,
+    "fixeddamage": 80,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201
+    ],
+    "dorp2": [
+      101202
+    ],
+    "dorp3": [
+      101203
+    ],
+    "dorp4": [
+      101204
+    ],
+    "sound_atk": "monster_1067_atk",
+    "sound_hit": "monster_1067_hit",
+    "sound_die": "monster_1067_die",
+    "model": "mdl_mst_1067",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们使用弓箭以准确地攻击远距离的入侵者。它们力量并不强大，但动作迅速，能远距离攻击。如果你被它们瞄准，将处于十分危险的境地。"
+  },
+  "75": {
+    "id": 1075,
+    "name": "祖玛雕像",
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 2616,
+    "hp": 5972,
+    "ac": 171,
+    "mac": 12,
+    "zs": 422,
+    "zs2": 648,
+    "fixeddamage": 80,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201
+    ],
+    "dorp2": [
+      101202
+    ],
+    "dorp3": [
+      101203
+    ],
+    "dorp4": [
+      101204
+    ],
+    "sound_atk": "monster_1068_atk",
+    "sound_hit": "monster_1068_hit",
+    "sound_die": "monster_1068_die",
+    "model": "mdl_mst_1075",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "羊被祖玛教作为祭品而成了神的象征。这种石头雕像在祖玛神殿里随处可见，当入侵者靠得足够近时，他们那以羊血构成的化身会从雕像中出来发动攻击。杀掉入侵者后化身又会回到雕像中，这时你将无法伤到他们。"
+  },
+  "76": {
+    "id": 1076,
+    "name": "祖玛勇士",
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 2616,
+    "hp": 5972,
+    "ac": 171,
+    "mac": 15,
+    "zs": 422,
+    "zs2": 648,
+    "fixeddamage": 80,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201
+    ],
+    "dorp2": [
+      101202
+    ],
+    "dorp3": [
+      101203
+    ],
+    "dorp4": [
+      101204
+    ],
+    "sound_atk": "monster_1076_atk",
+    "sound_hit": "monster_1076_hit",
+    "sound_die": "monster_1076_die",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "祖玛战士经过成长会变为祖玛勇士，祖玛勇士会率领祖玛战士一同作战，有一定的战术应用，会给入侵者造成极大的麻烦。"
+  },
+  "77": {
+    "id": 1077,
+    "name": "祖玛神箭手",
+    "lvl": 59,
+    "viewrange": 3,
+    "exp": 2845,
+    "hp": 6678,
+    "ac": 192,
+    "mac": 10,
+    "zs": 455,
+    "zs2": 711,
+    "fixeddamage": 88,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201
+    ],
+    "dorp2": [
+      101202
+    ],
+    "dorp3": [
+      101203
+    ],
+    "dorp4": [
+      101204
+    ],
+    "sound_atk": "monster_1067_atk",
+    "sound_hit": "monster_1067_hit",
+    "sound_die": "monster_1067_die",
+    "model": "mdl_mst_1077",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "祖玛弓箭手中的精英会被称为祖玛神射手，力量不弱都同时，射箭的距离和精度也都在祖玛弓箭手之上，比祖玛弓箭手更为难缠。"
+  },
+  "78": {
+    "id": 1078,
+    "name": "祖玛战将",
+    "lvl": 59,
+    "viewrange": 3,
+    "exp": 2845,
+    "hp": 6678,
+    "ac": 192,
+    "mac": 12,
+    "zs": 455,
+    "zs2": 711,
+    "fixeddamage": 88,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201
+    ],
+    "dorp2": [
+      101202
+    ],
+    "dorp3": [
+      101203
+    ],
+    "dorp4": [
+      101204
+    ],
+    "sound_atk": "monster_1068_atk",
+    "sound_hit": "monster_1068_hit",
+    "sound_die": "monster_1068_die",
+    "model": "mdl_mst_1078",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "祖玛神殿的保卫者，祖玛寺庙里极为强大的存在，利用手持的大戟不断驱逐入侵者。"
+  },
+  "79": {
+    "id": 1079,
+    "name": "极品卫士",
+    "lvl": 59,
+    "viewrange": 3,
+    "exp": 2845,
+    "hp": 6678,
+    "ac": 192,
+    "mac": 15,
+    "zs": 455,
+    "zs2": 711,
+    "fixeddamage": 88,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201
+    ],
+    "dorp2": [
+      101202
+    ],
+    "dorp3": [
+      101203
+    ],
+    "dorp4": [
+      101204
+    ],
+    "sound_atk": "monster_1076_atk",
+    "sound_hit": "monster_1076_hit",
+    "sound_die": "monster_1076_die",
+    "model": "mdl_mst_1079",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们是祖玛教的保卫者，也具有隐藏在雕像中的羊血化身。所以当入侵者靠近时，他们的化身会挥舞着象祖玛雕像那样的巨大锤子。它们分布在祖玛神殿的各个角落，而且当他们的化身隐藏在雕像中时，你不能伤到它。"
+  },
+  "80": {
+    "id": 1080,
+    "name": "沃玛战士",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 2,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们保卫着沃玛神殿。他们曾是沃玛教的成员，沃玛教主复活后他们被杀死，死后的尸体变成沃玛战士。沃玛战士残忍地攻击敢于进入神殿的人。它们没有武器，但你会被它强有力的拳头击昏。因为沃玛教还比较虚弱，沃玛战士还不能走出沃玛神殿，尽管它们在神殿里很强大。"
+  },
+  "81": {
+    "id": 1081,
+    "name": "沃玛勇士",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 2,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沃玛勇士同样保卫着神殿，他们曾是沃玛教的成员，沃玛教主复活后他们被杀死，死后的尸体变成沃玛勇士。它们主动向敢于进入神殿的人发起攻击。它们用海魂做武器，比沃玛战士更强大。"
+  },
+  "82": {
+    "id": 1082,
+    "name": "沃玛战将",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 2,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沃玛神殿的保卫者，在这里他们很强大，但同样不能走出神殿外。"
+  },
+  "83": {
+    "id": 1083,
+    "name": "暗黑战士",
+    "lvl": 41,
+    "viewrange": 3,
+    "exp": 1693,
+    "hp": 3526,
+    "ac": 114,
+    "mac": 2,
+    "zs": 275,
+    "zs2": 413,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "黑暗出现在沃玛神殿。它曾是沃玛教的成员，但在沃玛教主复活后被邪恶和有害的力量变成奇怪的生物。它失掉人类的自然特征而成为低智商的残忍的动物。它通过射出背部的针发起攻击，这种针速度很快。它也很胆小，你接近时它会迅速跃开。"
+  },
+  "84": {
+    "id": 1084,
+    "name": "粪虫",
+    "lvl": 41,
+    "viewrange": 3,
+    "exp": 1693,
+    "hp": 3526,
+    "ac": 114,
+    "mac": 2,
+    "zs": 275,
+    "zs2": 413,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们出现在沃玛神殿。它们本来是沃玛教众，但在沃玛教主召唤时被邪恶可怕的力量变成奇怪的动物。它们具有人的某些特征，智商低下并残忍无情。有时侯它们死后会被以原先的人名来命名。"
+  },
+  "85": {
+    "id": 1085,
+    "name": "蜜蜂",
+    "lvl": 26,
+    "viewrange": 3,
+    "exp": 633,
+    "hp": 1204,
+    "ac": 60,
+    "mac": 3,
+    "zs": 117,
+    "zs2": 186,
+    "fixeddamage": 10,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "躯体较小，身形灵活. 尾部的刺没有毒液但能造成不少疼痛。非常灵活以至于很难杀掉，追重要的是提防他们群体围攻。"
+  },
+  "86": {
+    "id": 1086,
+    "name": "黑色恶蛆",
+    "lvl": 28,
+    "viewrange": 3,
+    "exp": 711,
+    "hp": 1369,
+    "ac": 65,
+    "mac": 0,
+    "zs": 131,
+    "zs2": 208,
+    "fixeddamage": 15,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们由蛆的尸体变异而来，以高速旋转的身体为武器向人们进攻。它们会对所有靠近的人发起攻击，由于他们这样快的速度，使被攻击的人很难逃开。"
+  },
+  "87": {
+    "id": 1087,
+    "name": "恶灵僵尸",
+    "lvl": 28,
+    "viewrange": 3,
+    "exp": 711,
+    "hp": 1369,
+    "ac": 65,
+    "mac": 3,
+    "zs": 131,
+    "zs2": 208,
+    "fixeddamage": 15,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "来自遥远国度的具有神秘力量的人类，死后被黄泉教主以无上魔力召唤至苍月岛。失去了思考能力的它们只听从黄泉教主的命令。"
+  },
+  "88": {
+    "id": 1088,
+    "name": "角蝇",
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 773,
+    "hp": 1505,
+    "ac": 75,
+    "mac": 6,
+    "zs": 148,
+    "zs2": 236,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "一些蝙蝠集合成角蝇，象是大块的泥巴，当周围有敌人时角蝇就会放出蝙蝠发起攻击。"
+  },
+  "89": {
+    "id": 1089,
+    "name": "火焰沃玛",
+    "lvl": 31,
+    "viewrange": 3,
+    "exp": 996,
+    "hp": 1952,
+    "ac": 77,
+    "mac": 0,
+    "zs": 154,
+    "zs2": 245,
+    "fixeddamage": 19,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "火焰沃玛也不能离开神殿。没有武器但能喷射出强有力的火焰。作为沃玛中最高的等级，它们还长有翅膀。"
+  },
+  "90": {
+    "id": 1090,
+    "name": "楔蛾",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 5,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们令人不快地飞在洞窟中，以喷出毒液和产卵使其它生物窒息。它们全身常常淌下绿色的毒液而污染了周围的环境。"
+  },
+  "91": {
+    "id": 1091,
+    "name": "神兽",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 6,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "92": {
+    "id": 1092,
+    "name": "雕",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 6,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种鸟飞翔在空中，视力非常好，一旦锁定猎物，就会猛地俯冲。有力的翅膀、钢铁般的爪子、敏锐的视觉让它成为这一带的空中领主。"
+  },
+  "93": {
+    "id": 1093,
+    "name": "恶灵尸王",
+    "lvl": 35,
+    "viewrange": 3,
+    "exp": 1183,
+    "hp": 2374,
+    "ac": 93,
+    "mac": 8,
+    "zs": 194,
+    "zs2": 300,
+    "fixeddamage": 28,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "来自遥远国度的具有神秘力量的人类，死后被黄泉教主召唤至苍月岛，由于生前的力量特别强大而成为恶灵僵尸的首领——恶灵尸王。"
+  },
+  "94": {
+    "id": 1094,
+    "name": "骷髅锤兵",
+    "lvl": 35,
+    "viewrange": 3,
+    "exp": 1183,
+    "hp": 2374,
+    "ac": 93,
+    "mac": 9,
+    "zs": 194,
+    "zs2": 300,
+    "fixeddamage": 28,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在苍月岛骷髅界每年举行的“铁匠大赛”中脱颖而出前100名优胜者都会被黄泉教主网罗至手下成为骷髅锤兵，当没有战事的时候他们也兼职修理武器。（注：他们只能修理骷髅的各类武器）"
+  },
+  "95": {
+    "id": 1095,
+    "name": "骷髅刀斧手",
+    "lvl": 35,
+    "viewrange": 3,
+    "exp": 1183,
+    "hp": 2374,
+    "ac": 93,
+    "mac": 0,
+    "zs": 194,
+    "zs2": 300,
+    "fixeddamage": 28,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在苍月岛骷髅界每年举行的“砍树大赛”中最先砍倒100棵大树并且能够同时保持武器持久度下降最低的优秀骷髅将成为骷髅刀斧手，地位较骷髅锤兵及骷髅长枪兵略高，待遇同骷髅弓箭手。"
+  },
+  "96": {
+    "id": 1096,
+    "name": "宝箱",
+    "lvl": 35,
+    "viewrange": 3,
+    "exp": 1183,
+    "hp": 2374,
+    "ac": 93,
+    "mac": 10,
+    "zs": 194,
+    "zs2": 300,
+    "fixeddamage": 28,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "“碧海出苍月，宝箱现屠龙”是玛法大陆上流传已久的诗句，却没有人知道它到底指的是什么，直到……苍月岛出现的那一天，人们惊奇的发现岛上遍布着宝箱，它们看起来一模一样，爆出的东西却差别很大……而据说曾经有一位幸运的勇士，曾经在牛魔王身边的宝箱中得到了梦寐以求的神兵--屠龙！"
+  },
+  "97": {
+    "id": 1097,
+    "name": "骷髅长枪兵",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 12,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在苍月岛骷髅界每年举行的“捕鱼大赛”中，凡是能做到一枪捕获的骷髅均可进入骷髅长枪兵的预备役阶段，在六个月的训练期之后可成为现役骷髅长枪兵。"
+  },
+  "98": {
+    "id": 1098,
+    "name": "骷髅弓箭手",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 0,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "在苍月岛骷髅界每年举行的“眼力大考验”全岛联赛中，最有潜质的新人才能被训练为弓箭手。据说曾经有一名骷髅弓箭手亲眼目睹牛魔王来到苍月岛的全过程，但向黄泉教主禀告此事后不久便神秘失踪……骷髅界舆论普遍认为是牛魔王杀骷髅灭口。"
+  },
+  "99": {
+    "id": 1099,
+    "name": "牛魔斗士",
+    "lvl": 40,
+    "viewrange": 3,
+    "exp": 1383,
+    "hp": 2862,
+    "ac": 111,
+    "mac": 10,
+    "zs": 250,
+    "zs2": 376,
+    "fixeddamage": 34,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔王对自己的身世来历讳莫如深，但据苍月岛上的土著怪物——眼力最好的骷髅弓箭手说，某一天清晨看见巨大火球自东方天空坠落在海面，而后便见到牛魔王率领牛魔群从那个方向现身苍月岛，与原有势力黄泉教主一派进行了天昏地暗的厮杀。"
+  },
+  "100": {
+    "id": 1100,
+    "name": "牛魔侍卫",
+    "lvl": 40,
+    "viewrange": 3,
+    "exp": 1383,
+    "hp": 2862,
+    "ac": 111,
+    "mac": 18,
+    "zs": 250,
+    "zs2": 376,
+    "fixeddamage": 34,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔战士中的出类拔萃者，对牛魔王有着无比的忠诚心与信仰。格言是：“从我的尸体上踩过去，才能见到我的王！”"
+  },
+  "101": {
+    "id": 1101,
+    "name": "牛魔法师",
+    "lvl": 40,
+    "viewrange": 3,
+    "exp": 1383,
+    "hp": 2862,
+    "ac": 111,
+    "mac": 15,
+    "zs": 250,
+    "zs2": 376,
+    "fixeddamage": 34,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔群中少见的天才，以强壮的体魄和过人的智慧达到了“魔武双修”的境界，既有高深的魔力，又有高超的格斗技巧，是牛魔王的得力助手。同时兼任“牛魔学院”院长一职。"
+  },
+  "102": {
+    "id": 1102,
+    "name": "天狼蜘蛛",
+    "lvl": 43,
+    "viewrange": 3,
+    "exp": 1774,
+    "hp": 3741,
+    "ac": 120,
+    "mac": 20,
+    "zs": 294,
+    "zs2": 437,
+    "fixeddamage": 45,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "同样是曾经很美丽的蜘蛛，如今它也受到了赤月恶魔强大魔力的影响。它的身体里充满着红色的滚烫液体，让它时时刻刻都十分痛苦。可是如果遇到了它，痛苦恐怕要转移到你身上来了。一旦它靠近了敌人，它就会将它的毒牙发挥出最大威力！"
+  },
+  "103": {
+    "id": 1103,
+    "name": "暴牙蜘蛛",
+    "lvl": 43,
+    "viewrange": 3,
+    "exp": 1774,
+    "hp": 3741,
+    "ac": 120,
+    "mac": 30,
+    "zs": 294,
+    "zs2": 437,
+    "fixeddamage": 45,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "被赤月恶魔改造过的蜘蛛，不要以为蜘蛛有暴牙很喜感，这可是他们极强的攻击手段，能轻易咬碎钢铁。"
+  },
+  "104": {
+    "id": 1104,
+    "name": "牛头魔",
+    "lvl": 32,
+    "viewrange": 3,
+    "exp": 1057,
+    "hp": 2083,
+    "ac": 81,
+    "mac": 8,
+    "zs": 163,
+    "zs2": 257,
+    "fixeddamage": 21,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔群中最普通的存在，无论是体质、智力、敏捷度还是刻苦度方面均在中等之下，但却是唯一能被人类法师诱惑的牛魔怪物。"
+  },
+  "105": {
+    "id": 1105,
+    "name": "蜘蛛雷",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 15,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "106": {
+    "id": 1106,
+    "name": "牛魔将军",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 21,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "具有军事头脑和策略运用能力的一部分牛魔战士，将被选送进牛魔学院，在四年的系统再教育课程之后，如果战功显赫，可晋升为牛魔将军。"
+  },
+  "107": {
+    "id": 1107,
+    "name": "牛魔祭司",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 16,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "虽然比大部分人类强健，但是在牛魔群中属于体质较弱者，幼年时代常因此而自卑。故拼命钻研精神力魔法，力争上游。曾连续三年获得牛魔学院“闻鸡起舞”奖。"
+  },
+  "108": {
+    "id": 1108,
+    "name": "暗之魔龙教主",
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 1890,
+    "hp": 4038,
+    "ac": 129,
+    "mac": 40,
+    "zs": 314,
+    "zs2": 467,
+    "fixeddamage": 49,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "109": {
+    "id": 1109,
+    "name": "血僵尸",
+    "lvl": 47,
+    "viewrange": 3,
+    "exp": 2007,
+    "hp": 4343,
+    "ac": 135,
+    "mac": 30,
+    "zs": 330,
+    "zs2": 491,
+    "fixeddamage": 53,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "受赤月的奇怪力量影响在死去后复生为血僵尸。身躯坚硬如钢铁，闪烁红光，而且有再生的力量，可以复生数次。"
+  },
+  "110": {
+    "id": 1110,
+    "name": "牛魔战士",
+    "lvl": 33,
+    "viewrange": 3,
+    "exp": 1092,
+    "hp": 2165,
+    "ac": 85,
+    "mac": 8,
+    "zs": 172,
+    "zs2": 270,
+    "fixeddamage": 24,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔王的手下之一，据说曾在家乡拜著名武术家——程咬金为师，习得“砍、劈、斩”三招，凭借天生神力，冲锋陷阵，勇猛无比。业余爱好是为苍月岛上因长肉而身上发痒的骷髅们解除烦恼，因此深得骷髅界人士的好评，并正式向其发出了死后加入骷髅界军团的邀请。"
+  },
+  "111": {
+    "id": 1111,
+    "name": "邪恶毒蛇",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 2177,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 62,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种巨大的毒蛇在相当长的时期里已经起了变异，不能与普通的毒蛇相比。它们几乎能够毫无怜悯地杀掉任何敌人。它们的鳞甲非常滑腻，使大多数敌人的攻击都不起作用。"
+  },
+  "112": {
+    "id": 1112,
+    "name": "钢牙蜘蛛",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201,
+      101301
+    ],
+    "dorp2": [
+      101202,
+      101302
+    ],
+    "dorp3": [
+      101203,
+      101303
+    ],
+    "dorp4": [
+      101204,
+      101304
+    ],
+    "model": "mdl_mst_1112",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "同样也是被赤月恶魔改造过的怪物。它有坚硬强壮的身体和剃刀一样锋利的牙齿，一旦发现猎物，它就会迅速靠近并让撕裂它们。"
+  },
+  "113": {
+    "id": 1113,
+    "name": "黑颚蜘蛛",
+    "lvl": 61,
+    "viewrange": 3,
+    "exp": 3465,
+    "hp": 8250,
+    "ac": 239,
+    "mac": 30,
+    "zs": 466,
+    "zs2": 729,
+    "fixeddamage": 93,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201,
+      101301
+    ],
+    "dorp2": [
+      101202,
+      101302
+    ],
+    "dorp3": [
+      101203,
+      101303
+    ],
+    "dorp4": [
+      101204,
+      101304
+    ],
+    "model": "mdl_mst_1113",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "如果看到巨型蜘蛛这样的怪物向你冲过来，多数情况下你都会惊骇得夺路而逃。它的身上长满权杖一样的巨刺，身体也被赤月恶魔的腐化力量染成暗红色。但是最恐怖的还是它那对巨钳，任何敌人都会被它轻易撕裂。"
+  },
+  "114": {
+    "id": 1114,
+    "name": "花吻蜘蛛",
+    "lvl": 62,
+    "viewrange": 3,
+    "exp": 3522,
+    "hp": 8445,
+    "ac": 245,
+    "mac": 28,
+    "zs": 475,
+    "zs2": 747,
+    "fixeddamage": 97,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201,
+      101301
+    ],
+    "dorp2": [
+      101202,
+      101302
+    ],
+    "dorp3": [
+      101203,
+      101303
+    ],
+    "dorp4": [
+      101204,
+      101304
+    ],
+    "model": "mdl_mst_1114",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种蜘蛛看起来就像一朵美丽的花。赤月恶魔把这种巨大的怪物变成了一种用外表诱惑猎物，再用毒液毒死它们的魔鬼。毫无疑问，它的毒液是致命的。"
+  },
+  "115": {
+    "id": 1115,
+    "name": "幻影蜘蛛",
+    "lvl": 63,
+    "viewrange": 3,
+    "exp": 3584,
+    "hp": 8655,
+    "ac": 251,
+    "mac": 0,
+    "zs": 482,
+    "zs2": 761,
+    "fixeddamage": 101,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201,
+      101301
+    ],
+    "dorp2": [
+      101202,
+      101302
+    ],
+    "dorp3": [
+      101203,
+      101303
+    ],
+    "dorp4": [
+      101204,
+      101304
+    ],
+    "model": "mdl_mst_1115",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种蜘蛛的幼虫寄生在老树的根部或者一些动物的体内，从寄主身上获取营养。一旦找到合适的新居所，幼虫就会很快孵化为成熟的幻影蜘蛛。在忽隐忽现中，它们恐怖的攻击力和远程攻击方式、让人无法逃脱！"
+  },
+  "116": {
+    "id": 1116,
+    "name": "天狼蜘蛛",
+    "lvl": 64,
+    "viewrange": 3,
+    "exp": 3648,
+    "hp": 8875,
+    "ac": 255,
+    "mac": 30,
+    "zs": 491,
+    "zs2": 771,
+    "fixeddamage": 103,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101201,
+      101301
+    ],
+    "dorp2": [
+      101202,
+      101302
+    ],
+    "dorp3": [
+      101203,
+      101303
+    ],
+    "dorp4": [
+      101204,
+      101304
+    ],
+    "model": "mdl_mst_1116",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "同样是曾经很美丽的蜘蛛，如今它也受到了赤月恶魔强大魔力的影响。它的身体里充满着红色的滚烫液体，让它时时刻刻都十分痛苦。可是如果遇到了它，痛苦恐怕要转移到你身上来了。一旦它靠近了敌人，它就会将它的毒牙发挥出最大威力！"
+  },
+  "117": {
+    "id": 1117,
+    "name": "月魔蜘蛛",
+    "lvl": 65,
+    "viewrange": 3,
+    "exp": 3697,
+    "hp": 9060,
+    "ac": 264,
+    "mac": 33,
+    "zs": 505,
+    "zs2": 794,
+    "fixeddamage": 107,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101401
+    ],
+    "dorp2": [
+      101402
+    ],
+    "dorp3": [
+      101403
+    ],
+    "dorp4": [
+      101404
+    ],
+    "model": "mdl_mst_1117",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "赤月恶魔的腐化力量把一种曾经高贵的昆虫同蝙蝠合为一体，产生了这种新的怪物：月魔蜘蛛。它有蜘蛛的身体和蝙蝠的翅膀，可以在飞行中攻击。"
+  },
+  "118": {
+    "id": 1118,
+    "name": "暴牙蜘蛛",
+    "lvl": 66,
+    "viewrange": 3,
+    "exp": 3820,
+    "hp": 9430,
+    "ac": 271,
+    "mac": 23,
+    "zs": 513,
+    "zs2": 810,
+    "fixeddamage": 108,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101401
+    ],
+    "dorp2": [
+      101402
+    ],
+    "dorp3": [
+      101403
+    ],
+    "dorp4": [
+      101404
+    ],
+    "model": "mdl_mst_1116",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "被赤月恶魔改造过的蜘蛛，不要以为蜘蛛有暴牙很喜感，这可是他们极强的攻击手段，能轻易咬碎钢铁。"
+  },
+  "119": {
+    "id": 1119,
+    "name": "爆裂蜘蛛",
+    "lvl": 67,
+    "viewrange": 3,
+    "exp": 3942,
+    "hp": 9805,
+    "ac": 278,
+    "mac": 27,
+    "zs": 524,
+    "zs2": 829,
+    "fixeddamage": 110,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101401
+    ],
+    "dorp2": [
+      101402
+    ],
+    "dorp3": [
+      101403
+    ],
+    "dorp4": [
+      101404
+    ],
+    "model": "mdl_mst_1112",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "爆裂蜘蛛浑身长满了尖刺，一旦收到惊扰或攻击就会爆裂身上的尖刺来攻击敌人。密集的攻击让敌人很难逃脱。"
+  },
+  "120": {
+    "id": 1120,
+    "name": "血巨人",
+    "lvl": 68,
+    "viewrange": 3,
+    "exp": 4004,
+    "hp": 10035,
+    "ac": 283,
+    "mac": 30,
+    "zs": 534,
+    "zs2": 840,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101401
+    ],
+    "dorp2": [
+      101402
+    ],
+    "dorp3": [
+      101403
+    ],
+    "dorp4": [
+      101404
+    ],
+    "model": "mdl_mst_1120",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们习惯停留在赤月峡谷不见天日的地方, 一旦受到打扰就会依靠它们强悍的肌肉和锋利的牙进行攻击，直到目标死亡。它本是很正常的猴子, 但是赤月恶魔的影响使他的性格变的残暴，躯体也变的更加强壮有力。"
+  },
+  "121": {
+    "id": 1121,
+    "name": "血僵尸",
+    "lvl": 69,
+    "viewrange": 3,
+    "exp": 4058,
+    "hp": 10245,
+    "ac": 292,
+    "mac": 30,
+    "zs": 543,
+    "zs2": 862,
+    "fixeddamage": 113,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "dorp1": [
+      101401
+    ],
+    "dorp2": [
+      101402
+    ],
+    "dorp3": [
+      101403
+    ],
+    "dorp4": [
+      101404
+    ],
+    "model": "mdl_mst_1121",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "受赤月的奇怪力量影响在死去后复生为血僵尸。身躯坚硬如钢铁，闪烁红光，而且有再生的力量，可以复生数次。"
+  },
+  "122": {
+    "id": 1122,
+    "name": "暗之触龙神",
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 2616,
+    "hp": 5972,
+    "ac": 171,
+    "mac": 40,
+    "zs": 422,
+    "zs2": 648,
+    "fixeddamage": 80,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "123": {
+    "id": 1123,
+    "name": "赤血恶魔",
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 2616,
+    "hp": 5972,
+    "ac": 171,
+    "mac": 16,
+    "zs": 422,
+    "zs2": 648,
+    "fixeddamage": 80,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "124": {
+    "id": 1124,
+    "name": "灰血恶魔",
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 2616,
+    "hp": 5972,
+    "ac": 171,
+    "mac": 16,
+    "zs": 422,
+    "zs2": 648,
+    "fixeddamage": 80,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "125": {
+    "id": 1125,
+    "name": "血金刚",
+    "lvl": 56,
+    "viewrange": 3,
+    "exp": 2682,
+    "hp": 6165,
+    "ac": 175,
+    "mac": 16,
+    "zs": 429,
+    "zs2": 659,
+    "fixeddamage": 82,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "126": {
+    "id": 1126,
+    "name": "魔龙邪眼",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "127": {
+    "id": 1127,
+    "name": "魔龙血蛙",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "128": {
+    "id": 1128,
+    "name": "魔龙刺蛙",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "129": {
+    "id": 1129,
+    "name": "魔龙刀兵",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "130": {
+    "id": 1130,
+    "name": "魔龙破甲兵",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "131": {
+    "id": 1131,
+    "name": "魔龙射手",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "132": {
+    "id": 1132,
+    "name": "魔龙巨蛾",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "133": {
+    "id": 1133,
+    "name": "魔龙力士",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "134": {
+    "id": 1134,
+    "name": "魔龙战将",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "135": {
+    "id": 1135,
+    "name": "魔龙教主",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "136": {
+    "id": 1136,
+    "name": "暗之祖玛教主",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 100,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "137": {
+    "id": 1137,
+    "name": "黄帝",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "138": {
+    "id": 1138,
+    "name": "武器店",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "139": {
+    "id": 1139,
+    "name": "书店",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "140": {
+    "id": 1140,
+    "name": "药店",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "141": {
+    "id": 1141,
+    "name": "神秘商店",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 3325,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 12,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 92,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "142": {
+    "id": 1142,
+    "name": "暗之魔龙力士",
+    "lvl": 70,
+    "viewrange": 3,
+    "exp": 4113,
+    "hp": 10465,
+    "ac": 298,
+    "mac": 30,
+    "zs": 552,
+    "zs2": 884,
+    "fixeddamage": 115,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 14,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "143": {
+    "id": 1143,
+    "name": "暗之魔龙巨蛾",
+    "lvl": 70,
+    "viewrange": 3,
+    "exp": 4113,
+    "hp": 10465,
+    "ac": 298,
+    "mac": 65,
+    "zs": 552,
+    "zs2": 884,
+    "fixeddamage": 115,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 14,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "144": {
+    "id": 1144,
+    "name": "暗之魔龙战将",
+    "lvl": 80,
+    "viewrange": 3,
+    "exp": 2936,
+    "hp": 6560,
+    "ac": 287,
+    "mac": 35,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 135,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 16,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "145": {
+    "id": 1145,
+    "name": "练功师",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 0,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "146": {
+    "id": 1146,
+    "name": "弓箭手",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 20,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "147": {
+    "id": 1147,
+    "name": "护卫",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 15,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "148": {
+    "id": 1148,
+    "name": "沙巴克城门",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 20,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "149": {
+    "id": 1149,
+    "name": "沙巴克左城墙",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 99,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "150": {
+    "id": 1150,
+    "name": "沙巴克右城墙",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 99,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "151": {
+    "id": 1151,
+    "name": "沙巴克中城墙",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 99,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "152": {
+    "id": 1152,
+    "name": "弓箭护卫",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 15,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "153": {
+    "id": 1153,
+    "name": "带刀卫士",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 200,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "154": {
+    "id": 1154,
+    "name": "恶魔弓箭手",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 15,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "155": {
+    "id": 1155,
+    "name": "恶魔卫士",
+    "lvl": 99,
+    "viewrange": 3,
+    "exp": 3462,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 15,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 155,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 19,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "156": {
+    "id": 1156,
+    "name": "魔影巨人",
+    "viewrange": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "157": {
+    "id": 2001,
+    "name": "骷髅精灵",
+    "map": "骷髅洞3层",
+    "boss": true,
+    "lvl": 18,
+    "viewrange": 3,
+    "exp": 2984,
+    "hp": 9945,
+    "ac": 60,
+    "mac": 0,
+    "zs": 69,
+    "zs2": 108,
+    "fixeddamage": 8,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 1800,
+    "dorp4": [
+      200101,
+      200102,
+      200103,
+      200104,
+      200105,
+      200106,
+      200107
+    ],
+    "sound_atk": "monster_2001_atk",
+    "sound_hit": "monster_2001_hit",
+    "sound_die": "monster_2001_die",
+    "model": "mdl_mst_2001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "也出现在地牢里，并可以肯定是骷髅精灵死去后的重生，有着恶魔般的红色外表。不象其它骷髅类，它们行动迅速。不是重复简单模式的攻击，而是用一种叫做\"骨刺\"的武器，同时进行进攻和防御的组合式的复杂攻击。这是一种可怕的生物，具有强大的能量、敏捷的动作和致命的破坏力量。"
+  },
+  "158": {
+    "id": 2002,
+    "name": "电僵尸",
+    "map": "僵尸洞1层",
+    "boss": true,
+    "lvl": 25,
+    "viewrange": 3,
+    "exp": 8640,
+    "hp": 28800,
+    "ac": 86,
+    "mac": 4,
+    "zs": 123,
+    "zs2": 194,
+    "fixeddamage": 12,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 1800,
+    "dorp4": [
+      200201,
+      200202,
+      200203,
+      200204,
+      200205,
+      200206,
+      200207,
+      500106
+    ],
+    "sound_atk": "monster_2002_atk",
+    "sound_hit": "monster_2002_hit",
+    "sound_die": "monster_2002_die",
+    "model": "mdl_mst_2002",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "不断招引雷电的闪电僵尸终于进化成了电僵尸，浑身闪烁者电光，而且能自由控制电的力量来攻击冒险者。"
+  },
+  "159": {
+    "id": 2003,
+    "name": "尸王",
+    "map": "尸王殿",
+    "boss": true,
+    "lvl": 30,
+    "viewrange": 3,
+    "exp": 15803,
+    "hp": 52675,
+    "ac": 113,
+    "mac": 3,
+    "zs": 163,
+    "zs2": 260,
+    "fixeddamage": 23,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 1800,
+    "dorp4": [
+      200301,
+      200302,
+      200303,
+      200304,
+      200305,
+      200306,
+      200307,
+      500106
+    ],
+    "sound_atk": "monster_2003_atk",
+    "sound_hit": "monster_2003_hit",
+    "sound_die": "monster_2003_die",
+    "model": "mdl_mst_2003",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "尸王是僵尸之王，生活在死矿中。它能在死尸中注入奇怪的气体使他们成为僵尸。原先他拥有这种制造僵尸的魔力，但现在他正试图找回这种力量。如果人们经过死亡矿区，它会用缠绕在身体上的铁链杀死他们。"
+  },
+  "160": {
+    "id": 2004,
+    "name": "半兽人勇士",
+    "map": "沃玛森林深处",
+    "boss": true,
+    "lvl": 10,
+    "viewrange": 3,
+    "exp": 960,
+    "hp": 3200,
+    "ac": 33,
+    "mac": 3,
+    "zs": 30,
+    "zs2": 51,
+    "fixeddamage": 4,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 2,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 1800,
+    "dorp4": [
+      200401,
+      200402,
+      200403,
+      200404,
+      200405,
+      200406,
+      200407
+    ],
+    "sound_atk": "monster_2004_atk",
+    "sound_hit": "monster_2004_hit",
+    "sound_die": "monster_2004_die",
+    "model": "mdl_mst_2004",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "半兽人部落的领袖。它在绵延百年的战争中领导半兽人进行侵略，是具有杰出智慧和战斗力的半兽人。如果它死了，新的半兽勇士又会被选出来继续血腥的战争。它穿着盔甲和从上一代半兽勇士继承来的武器，有强大的攻击力和防御力。"
+  },
+  "161": {
+    "id": 2005,
+    "name": "巨型多角虫",
+    "map": "盟重郊外",
+    "boss": true,
+    "lvl": 31,
+    "viewrange": 3,
+    "exp": 17568,
+    "hp": 58560,
+    "ac": 116,
+    "mac": 0,
+    "zs": 170,
+    "zs2": 270,
+    "fixeddamage": 23,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 1800,
+    "dorp4": [
+      200501,
+      200502,
+      200503,
+      200504,
+      200505,
+      200506,
+      200507,
+      500106
+    ],
+    "sound_atk": "monster_2005_atk",
+    "sound_hit": "monster_2005_hit",
+    "sound_die": "monster_2005_die",
+    "model": "mdl_mst_2005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它的角变异后更大也更锋利。发现敌人时，它会竖起角来用头猛撞上去。当心！它厚厚的坚固的外壳相当难以击破。"
+  },
+  "162": {
+    "id": 2006,
+    "name": "邪恶钳虫",
+    "map": "生死之间",
+    "boss": true,
+    "lvl": 35,
+    "viewrange": 3,
+    "exp": 32049,
+    "hp": 106830,
+    "ac": 140,
+    "mac": 10,
+    "zs": 214,
+    "zs2": 330,
+    "fixeddamage": 34,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 7,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 1800,
+    "dorp4": [
+      200601,
+      200602,
+      200603,
+      200604,
+      200605,
+      200606,
+      200607,
+      500106
+    ],
+    "sound_atk": "monster_2006_atk",
+    "sound_hit": "monster_2006_hit",
+    "sound_die": "monster_2006_die",
+    "model": "mdl_mst_1038",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种巨大的钳虫在相当长的时期里已经起了变异，不能与普通的钳虫相比。它们几乎能够毫无怜悯地杀掉任何敌人。它们坚硬的外壳由于不断地锻造而十分强大，使大多数敌人的攻击都不起作用。它们的弱点在于经不起魔法的攻击，所以你应当以魔法杀掉它们。"
+  },
+  "163": {
+    "id": 2007,
+    "name": "触龙神",
+    "map": "死亡棺材",
+    "boss": true,
+    "lvl": 40,
+    "viewrange": 3,
+    "exp": 42930,
+    "hp": 143100,
+    "ac": 167,
+    "mac": 15,
+    "zs": 275,
+    "zs2": 414,
+    "fixeddamage": 41,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 8,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      200701,
+      200702,
+      200703,
+      200704,
+      200705,
+      200706,
+      200707,
+      500106
+    ],
+    "sound_atk": "monster_2007_atk",
+    "sound_hit": "monster_2007_hit",
+    "sound_die": "monster_2007_die",
+    "model": "mdl_mst_2007",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "触龙神是虫子之王，生活在蜈蚣洞穴的深处。他们的脚经过无数岁月的演化锋利得超越刀刃，甚至长出龙角和鳞片，再给他们一段时间说不定真的可以..."
+  },
+  "164": {
+    "id": 2008,
+    "name": "沃玛教主",
+    "map": "沃玛寺庙3层",
+    "boss": true,
+    "lvl": 45,
+    "viewrange": 3,
+    "exp": 60570,
+    "hp": 201900,
+    "ac": 194,
+    "mac": 17,
+    "zs": 346,
+    "zs2": 514,
+    "fixeddamage": 59,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 9,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      200801,
+      200802,
+      200803,
+      200804,
+      200805,
+      200806,
+      200807,
+      500106
+    ],
+    "sound_atk": "monster_2008_atk",
+    "sound_hit": "monster_2008_hit",
+    "sound_die": "monster_2008_die",
+    "model": "mdl_mst_2008",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它是个强大的魔鬼，被沃玛教众奉为神明而被追随。当他们试图知道如何重生沃玛教主的时候曾用1万沃玛教众做牲品。尽管沃玛教主不能走出神殿，但如果有机会重聚力量，它能摧毁人类世界。尽管它无法凝聚全力，你也不能轻视它，从它手中发出的电光能很轻易地将你置于死地。"
+  },
+  "165": {
+    "id": 2009,
+    "name": "白野猪",
+    "map": "石墓3层",
+    "boss": true,
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 64854,
+    "hp": 216180,
+    "ac": 219,
+    "mac": 15,
+    "zs": 414,
+    "zs2": 614,
+    "fixeddamage": 75,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      200901,
+      200902,
+      200903,
+      200904,
+      200905,
+      200906,
+      200907,
+      500106
+    ],
+    "sound_atk": "monster_2009_atk",
+    "sound_hit": "monster_2009_hit",
+    "sound_die": "monster_2009_die",
+    "model": "mdl_mst_1054",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它们是红色恶猪的领头者，不知道它们已活了多久。由于更长的寿命，他们比红色恶猪更大的体形和更强的破坏力。此外，它们的行动速度可以和黑色恶猪相比。"
+  },
+  "166": {
+    "id": 2010,
+    "name": "石墓尸王",
+    "map": "石墓7层",
+    "boss": true,
+    "lvl": 55,
+    "viewrange": 3,
+    "exp": 80622,
+    "hp": 268740,
+    "ac": 257,
+    "mac": 18,
+    "zs": 465,
+    "zs2": 713,
+    "fixeddamage": 96,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 11,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      201001,
+      201002,
+      201003,
+      201004,
+      201005,
+      201006,
+      201007,
+      500106
+    ],
+    "sound_atk": "monster_2010_atk",
+    "sound_hit": "monster_2010_hit",
+    "sound_die": "monster_2010_die",
+    "model": "mdl_mst_2003",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "沉睡在石墓的最低层，直到受到入侵者侵扰到他的美梦，准备接受石墓之王的起床气吧！"
+  },
+  "167": {
+    "id": 2011,
+    "name": "祖玛教主",
+    "map": "祖玛教主大厅",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 117900,
+    "hp": 393000,
+    "ac": 302,
+    "mac": 20,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      201101,
+      201102,
+      201103,
+      201104,
+      201105,
+      201106,
+      201107,
+      500106
+    ],
+    "sound_atk": "monster_2011_atk",
+    "sound_hit": "monster_2011_hit",
+    "sound_die": "monster_2011_die",
+    "model": "mdl_mst_2011",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "祖玛教众把恶魔的石像供奉为它们的神。它是一尊站立在祖玛神殿深处的神像，当入侵者靠近时它就会苏醒。一旦醒来，它会发出巨大的火焰攻击它的敌人。它在石像中时你也不能攻击到它。"
+  },
+  "168": {
+    "id": 2012,
+    "name": "双头血魔",
+    "map": "峡谷广场",
+    "boss": true,
+    "lvl": 65,
+    "viewrange": 3,
+    "exp": 163080,
+    "hp": 543600,
+    "ac": 396,
+    "mac": 50,
+    "zs": 556,
+    "zs2": 874,
+    "fixeddamage": 129,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 13,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      201201,
+      201202,
+      201203,
+      201204,
+      201205,
+      201206,
+      201207,
+      500106
+    ],
+    "model": "mdl_mst_2012",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "它更为强大和凶悍。它也是拥有两只头的怪物。与双头金钢相反，它总为残忍而兴奋，强大的精神力使它不怕魔法攻击。作为赤月恶魔的忠实随从，它最喜欢残杀魔法师，它喜欢魔法之血的味道。"
+  },
+  "169": {
+    "id": 2013,
+    "name": "双头金刚",
+    "map": "恶魔祭坛",
+    "boss": true,
+    "lvl": 68,
+    "viewrange": 3,
+    "exp": 213746,
+    "hp": 712485,
+    "ac": 425,
+    "mac": 50,
+    "zs": 588,
+    "zs2": 924,
+    "fixeddamage": 134,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 13,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      201301,
+      201302,
+      201303,
+      201304,
+      201305,
+      201306,
+      201307,
+      500106
+    ],
+    "model": "mdl_mst_2012",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这个可怜的生物在受到赤月恶魔影响前只是一只普通的猴子。现在它的身体开始发生变化，两个头颅的融合带来了超凡的力量，强壮的肌肉甚至冲破皮肤的包围而凸现出来。它摧毁眼前看到的一切物体，只为了抵抗那无尽的痛楚。"
+  },
+  "170": {
+    "id": 2014,
+    "name": "赤月恶魔",
+    "map": "赤月巢穴",
+    "boss": true,
+    "lvl": 70,
+    "viewrange": 3,
+    "exp": 251160,
+    "hp": 837200,
+    "ac": 447,
+    "mac": 30,
+    "zs": 608,
+    "zs2": 973,
+    "fixeddamage": 138,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 14,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "dorp4": [
+      201401,
+      201402,
+      201403,
+      201404,
+      201405,
+      201406,
+      201407,
+      500106
+    ],
+    "model": "mdl_mst_2013",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "赤月恶魔长期潜伏在山谷深处，代表着传奇世界最邪恶、最强大的势力。它们是一切罪恶的根源。它们最为可怕的能力来自非凡的黑暗智慧。从赤月峡谷侥幸逃生的人们这样描述它：\"在赤红色的月亮的照耀下，死亡伴随着恶魔的阴影，在毫无声息的袭击中突然来到。\""
+  },
+  "171": {
+    "id": 2015,
+    "name": "虹魔猪卫",
+    "map": "烈焰殿",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 20,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "曾经作为一个英雄的贴身护卫，他一直默默的为自己的主人建立信誉，地位以及权利，直至那名英雄堕入了黑暗的深渊，他依然忠心的跟随着堕入黑暗的英雄，继续为了自己的主人奉献着一切，诅咒使他成为了面目丑陋的怪物，黑暗力量的侵蚀使他丧失了记忆和人性，黑暗势力的来临，教主的回归，手持巨斧猪卫亦将成为玛法大陆的噩梦。"
+  },
+  "172": {
+    "id": 2016,
+    "name": "虹魔蝎卫",
+    "map": "霸者大厅",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 25,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "邪恶蝎蛇的头领，藏匿于封魔谷地下的封魔神殿内，与虹魔猪卫一起跟随虹魔教主，进入封魔谷的勇士大多死在它那巨大的双钳之下，而蝎卫真正的恐怖却是那致命的闪电，连同它无惧疼痛的意志，由于受到虹魔教主复活的影响，蝎卫的能力变得更加强大，做为虹魔教主的忠实护卫，封魔神殿内将会增加更多擅自闯入者的尸骨。"
+  },
+  "173": {
+    "id": 2017,
+    "name": "邪恶毒蛇",
+    "map": "魔魂殿",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 25,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "这种巨大的毒蛇在相当长的时期里已经起了变异，不能与普通的毒蛇相比。它们几乎能够毫无怜悯地杀掉任何敌人。它们的鳞甲非常滑腻，使大多数敌人的攻击都不起作用。"
+  },
+  "174": {
+    "id": 2018,
+    "name": "虹魔教主",
+    "map": "封魔殿",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 30,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "曾经是名震玛法的英雄人物，但却受到黑暗力量的诱惑，成为了让整个大陆为之恐惧的恶魔，并创立了比沃玛以及祖玛教更早的虹魔教派，一千年的一场英雄圣战使强大的虹魔教主成为了存在于虚无空间的邪恶幽魂，无法再危害人间，而它却留下了做为它自身邪恶的存续：沃玛、祖玛、以及虹魔教主身体的碎片所产生的虹魔套装，时间的流逝岁月的增长，虹魔教主的邪恶势力在潜移默化的恢复，随着虹魔套装不断的被世人发现，虹魔教主再次回到玛法大陆……"
+  },
+  "175": {
+    "id": 2019,
+    "name": "千年树妖",
+    "map": "封魔谷深处",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 10,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "自封魔谷的出现以来，这颗树妖就诞生了，随着英雄圣战的结束，虹魔教主的消亡，树妖亦然伫立在沙漠之中，静静的等待邪恶的再次来临，一千年过去了，树妖感受到了地壳的变动，预见到了虹魔以及虹魔势力的恢复，它知道封魔谷的辉煌历史又将来临，它又将成为记录这一切的古老见证，记录下大陆上恐惧的象征再次归来。"
+  },
+  "176": {
+    "id": 2020,
+    "name": "魔龙巨蛾-魔龙旧寨",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 28,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "177": {
+    "id": 2021,
+    "name": "魔龙战将",
+    "map": "魔龙岭",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 28,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "178": {
+    "id": 2022,
+    "name": "魔龙力士",
+    "map": "魔龙谷",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 28,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "179": {
+    "id": 2023,
+    "name": "魔龙教主",
+    "map": "魔龙血域",
+    "boss": true,
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 94320,
+    "hp": 314400,
+    "ac": 302,
+    "mac": 28,
+    "zs": 509,
+    "zs2": 794,
+    "fixeddamage": 111,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3600,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "180": {
+    "id": 2024,
+    "name": "牛魔王",
+    "viewrange": 3,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔王对自己的身世来历讳莫如深，但据苍月岛上的土著怪物——眼力最好的骷髅弓箭手说，某一天清晨看见巨大火球自东方天空坠落在海面，而后便见到牛魔王率领牛魔群从那个方向现身苍月岛，与原有势力黄泉教主一派进行了天昏地暗的厮杀。"
+  },
+  "181": {
+    "id": 2025,
+    "name": "暗之牛魔王",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 200,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "182": {
+    "id": 2026,
+    "name": "暗之双头血魔",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "183": {
+    "id": 2027,
+    "name": "暗之双头金刚",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 40,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "184": {
+    "id": 2028,
+    "name": "暗之黄泉教主",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 50,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "185": {
+    "id": 2029,
+    "name": "暗之骷髅精灵",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "186": {
+    "id": 2030,
+    "name": "暗之沃玛教主",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 35,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "187": {
+    "id": 2031,
+    "name": "暗之虹魔教主",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 45,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "188": {
+    "id": 2032,
+    "name": "圣域蝙蝠",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 10,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "189": {
+    "id": 2033,
+    "name": "圣域勇士",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 10,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "190": {
+    "id": 2034,
+    "name": "圣域魔蝎",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 50,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "191": {
+    "id": 2035,
+    "name": "圣域精灵",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "192": {
+    "id": 2036,
+    "name": "圣域稻草人",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "193": {
+    "id": 2037,
+    "name": "圣域护法",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 15,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "194": {
+    "id": 2038,
+    "name": "圣域蛇王",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "195": {
+    "id": 2039,
+    "name": "圣域炎兽",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "196": {
+    "id": 2040,
+    "name": "圣域尸王",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 15,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "197": {
+    "id": 2041,
+    "name": "圣域神鹰",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "198": {
+    "id": 2042,
+    "name": "圣域冥狼",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "199": {
+    "id": 2043,
+    "name": "圣域卫士",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "200": {
+    "id": 2044,
+    "name": "圣域弓箭手",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "201": {
+    "id": 2045,
+    "name": "圣域牛魔",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 15,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "202": {
+    "id": 2046,
+    "name": "圣域侍卫",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 15,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "203": {
+    "id": 2047,
+    "name": "圣域骷髅",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "204": {
+    "id": 2048,
+    "name": "圣域楔蛾",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "205": {
+    "id": 2049,
+    "name": "圣域刀斧手",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 15,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "206": {
+    "id": 2050,
+    "name": "圣域将军",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "207": {
+    "id": 2051,
+    "name": "圣域祭司",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "208": {
+    "id": 2052,
+    "name": "圣域杀手",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "209": {
+    "id": 2053,
+    "name": "圣域力士",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "210": {
+    "id": 2054,
+    "name": "圣域钳虫",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "211": {
+    "id": 2055,
+    "name": "圣域雕像",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "212": {
+    "id": 2056,
+    "name": "圣域巨虫",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "213": {
+    "id": 2057,
+    "name": "圣域天狼",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "214": {
+    "id": 2058,
+    "name": "圣域月魔",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "215": {
+    "id": 2059,
+    "name": "圣域花吻",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "216": {
+    "id": 2060,
+    "name": "圣域多钩猫",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 15,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "217": {
+    "id": 2061,
+    "name": "圣域蝎卫",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "218": {
+    "id": 2062,
+    "name": "圣域猪卫",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "219": {
+    "id": 2063,
+    "name": "圣域神龙",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "220": {
+    "id": 2064,
+    "name": "圣域教主",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "221": {
+    "id": 2065,
+    "name": "圣域修罗",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "222": {
+    "id": 2066,
+    "name": "圣域魔魂",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 30,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "223": {
+    "id": 2067,
+    "name": "圣域血魔",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 40,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "224": {
+    "id": 2068,
+    "name": "圣域金刚",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 40,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "225": {
+    "id": 2069,
+    "name": "圣域牛魔王",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 20,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "226": {
+    "id": 2070,
+    "name": "重装使者",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 25,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "227": {
+    "id": 2071,
+    "name": "地藏王",
+    "lvl": 60,
+    "viewrange": 3,
+    "exp": 5502,
+    "hp": 7860,
+    "ac": 201,
+    "mac": 38,
+    "zs": 462,
+    "zs2": 721,
+    "fixeddamage": 36,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 12,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "228": {
+    "id": 2072,
+    "name": "多钩猫王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "229": {
+    "id": 2073,
+    "name": "钉耙猫王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "230": {
+    "id": 2074,
+    "name": "雪人王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "231": {
+    "id": 2075,
+    "name": "剧毒蜘蛛",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 10,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "232": {
+    "id": 2076,
+    "name": "地狱犬",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "233": {
+    "id": 2077,
+    "name": "神鹰",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 17,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "234": {
+    "id": 2078,
+    "name": "红蛇王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "235": {
+    "id": 2079,
+    "name": "虎蛇王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "236": {
+    "id": 2080,
+    "name": "变异史莱姆",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "237": {
+    "id": 2081,
+    "name": "蜈蚣王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "238": {
+    "id": 2082,
+    "name": "蝎子王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 10,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "239": {
+    "id": 2083,
+    "name": "雪蚕王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "240": {
+    "id": 2084,
+    "name": "蛤蟆王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "241": {
+    "id": 2085,
+    "name": "电僵王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "242": {
+    "id": 2086,
+    "name": "楔蛾王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "243": {
+    "id": 2087,
+    "name": "半兽统领",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "244": {
+    "id": 2088,
+    "name": "黄泉教主",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 22,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0,
+    "describe": "牛魔王出现之前，苍月岛唯一的霸主。天性深沉，喜怒不形于色，即使心里对牛魔王恨之入骨，表面仍然称兄道弟，亲热非常。对属下恩威并施，善于利用各种手段笼络人心。每年在岛上开展各项综艺娱乐类竞技活动，借机吸纳各类优秀人材进入自己的卫队，不断壮大自己力量。"
+  },
+  "245": {
+    "id": 2089,
+    "name": "多钩猫王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "246": {
+    "id": 2090,
+    "name": "钉耙猫王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "247": {
+    "id": 2091,
+    "name": "雪人王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "248": {
+    "id": 2092,
+    "name": "地狱犬",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "249": {
+    "id": 2093,
+    "name": "神鹰",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 17,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "250": {
+    "id": 2094,
+    "name": "红蛇王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "251": {
+    "id": 2095,
+    "name": "虎蛇王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "252": {
+    "id": 2096,
+    "name": "蜈蚣王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "253": {
+    "id": 2097,
+    "name": "蝎子王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 10,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "254": {
+    "id": 2098,
+    "name": "雪蚕王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "255": {
+    "id": 2099,
+    "name": "蛤蟆王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 25,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "256": {
+    "id": 2100,
+    "name": "电僵王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 15,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "257": {
+    "id": 2101,
+    "name": "楔蛾王",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 20,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "258": {
+    "id": 2102,
+    "name": "魔龙树妖",
+    "lvl": 50,
+    "viewrange": 3,
+    "exp": 3363,
+    "hp": 4804,
+    "ac": 146,
+    "mac": 5,
+    "zs": 376,
+    "zs2": 558,
+    "fixeddamage": 30,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 10,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "259": {
+    "id": 2103,
+    "name": "魔影巨人",
+    "lvl": 255,
+    "viewrange": 3,
+    "exp": 4592,
+    "hp": 6560,
+    "ac": 360,
+    "mac": 50,
+    "zs": 579,
+    "zs2": 950,
+    "fixeddamage": 153,
+    "fixedac": 0,
+    "hit": 0,
+    "evade": 0,
+    "critical": 51,
+    "tenacity": 0,
+    "walkwait": 2.0,
+    "rebirth": 3,
+    "model": "mdl_mst_1001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2500.0
+  },
+  "260": {
+    "id": 3001,
+    "name": "回收",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "261": {
+    "id": 3002,
+    "name": "药店",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "262": {
+    "id": 3003,
+    "name": "铁匠",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "263": {
+    "id": 3004,
+    "name": "书店",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "264": {
+    "id": 3005,
+    "name": "鉴定",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "265": {
+    "id": 3006,
+    "name": "仓库",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "266": {
+    "id": 3007,
+    "name": "膜拜",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "267": {
+    "id": 3008,
+    "name": "排行榜",
+    "viewrange": 3,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "skilllist": [
+      4001
+    ]
+  },
+  "268": {
+    "id": 300101,
+    "name": "变异骷髅1级",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 300,
+    "ac": 20,
+    "mac": 15,
+    "zs": 10,
+    "zs2": 30,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "269": {
+    "id": 300102,
+    "name": "变异骷髅2级",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 450,
+    "ac": 40,
+    "mac": 25,
+    "zs": 25,
+    "zs2": 50,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "270": {
+    "id": 300103,
+    "name": "变异骷髅3级",
+    "lvl": 3,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 600,
+    "ac": 60,
+    "mac": 35,
+    "zs": 40,
+    "zs2": 70,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "271": {
+    "id": 300104,
+    "name": "变异骷髅4级",
+    "lvl": 4,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 750,
+    "ac": 80,
+    "mac": 45,
+    "zs": 55,
+    "zs2": 90,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "272": {
+    "id": 300105,
+    "name": "变异骷髅5级",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 900,
+    "ac": 100,
+    "mac": 55,
+    "zs": 70,
+    "zs2": 110,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "273": {
+    "id": 300106,
+    "name": "变异骷髅6级",
+    "lvl": 6,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1050,
+    "ac": 120,
+    "mac": 55,
+    "zs": 85,
+    "zs2": 130,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "274": {
+    "id": 300107,
+    "name": "变异骷髅7级",
+    "lvl": 7,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1200,
+    "ac": 140,
+    "mac": 55,
+    "zs": 100,
+    "zs2": 150,
+    "fixeddamage": 4,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 1,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3001",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 1500.0
+  },
+  "275": {
+    "id": 300201,
+    "name": "神兽1级",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1300,
+    "ac": 160,
+    "mac": 65,
+    "zs": 150,
+    "zs2": 200,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "276": {
+    "id": 300202,
+    "name": "神兽2级",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1500,
+    "ac": 180,
+    "mac": 65,
+    "zs": 170,
+    "zs2": 240,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "277": {
+    "id": 300203,
+    "name": "神兽3级",
+    "lvl": 3,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1700,
+    "ac": 200,
+    "mac": 65,
+    "zs": 190,
+    "zs2": 280,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "278": {
+    "id": 300204,
+    "name": "神兽4级",
+    "lvl": 4,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1900,
+    "ac": 220,
+    "mac": 65,
+    "zs": 210,
+    "zs2": 320,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "279": {
+    "id": 300205,
+    "name": "神兽5级",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2100,
+    "ac": 240,
+    "mac": 65,
+    "zs": 230,
+    "zs2": 360,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "280": {
+    "id": 300206,
+    "name": "神兽6级",
+    "lvl": 6,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2300,
+    "ac": 260,
+    "mac": 65,
+    "zs": 250,
+    "zs2": 400,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "281": {
+    "id": 300207,
+    "name": "神兽7级",
+    "lvl": 7,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2500,
+    "ac": 280,
+    "mac": 65,
+    "zs": 270,
+    "zs2": 440,
+    "fixeddamage": 4,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3002",
+    "skilllist": [
+      4002
+    ],
+    "attack_spd": 1500.0
+  },
+  "282": {
+    "id": 300301,
+    "name": "白虎",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 3200,
+    "ac": 300,
+    "mac": 75,
+    "zs": 350,
+    "zs2": 600,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 4,
+    "tenacity": 0,
+    "walkwait": 1.0,
+    "sound_cre": "mp3_s3005_hit",
+    "sound_atk": "monster_1013_atk",
+    "sound_hit": "monster_1013_hit",
+    "sound_die": "monster_1013_die",
+    "model": "mdl_mst_3003",
+    "skilllist": [
+      4003
+    ],
+    "attack_spd": 1500.0
+  },
+  "283": {
+    "id": 301001,
+    "name": "兽人勇士1级",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 300,
+    "ac": 15,
+    "mac": 15,
+    "zs": 10,
+    "zs2": 22,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2004_atk",
+    "sound_hit": "monster_2004_hit",
+    "sound_die": "monster_2004_die",
+    "model": "mdl_mst_2004",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "284": {
+    "id": 301002,
+    "name": "兽人勇士2级",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 450,
+    "ac": 25,
+    "mac": 25,
+    "zs": 25,
+    "zs2": 38,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2004_atk",
+    "sound_hit": "monster_2004_hit",
+    "sound_die": "monster_2004_die",
+    "model": "mdl_mst_2004",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "285": {
+    "id": 301003,
+    "name": "兽人勇士3级",
+    "lvl": 3,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 600,
+    "ac": 35,
+    "mac": 35,
+    "zs": 40,
+    "zs2": 54,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2004_atk",
+    "sound_hit": "monster_2004_hit",
+    "sound_die": "monster_2004_die",
+    "model": "mdl_mst_2004",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "286": {
+    "id": 301004,
+    "name": "兽人勇士4级",
+    "lvl": 4,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 750,
+    "ac": 45,
+    "mac": 45,
+    "zs": 55,
+    "zs2": 70,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2004_atk",
+    "sound_hit": "monster_2004_hit",
+    "sound_die": "monster_2004_die",
+    "model": "mdl_mst_2004",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "287": {
+    "id": 301005,
+    "name": "黑色恶蛆1级",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 900,
+    "ac": 55,
+    "mac": 55,
+    "zs": 70,
+    "zs2": 86,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1053_atk",
+    "sound_hit": "monster_1053_hit",
+    "sound_die": "monster_1053_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "288": {
+    "id": 301006,
+    "name": "黑色恶蛆2级",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1050,
+    "ac": 65,
+    "mac": 65,
+    "zs": 85,
+    "zs2": 102,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1053_atk",
+    "sound_hit": "monster_1053_hit",
+    "sound_die": "monster_1053_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "289": {
+    "id": 301007,
+    "name": "黑色恶蛆3级",
+    "lvl": 3,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1200,
+    "ac": 75,
+    "mac": 75,
+    "zs": 100,
+    "zs2": 118,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1053_atk",
+    "sound_hit": "monster_1053_hit",
+    "sound_die": "monster_1053_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "290": {
+    "id": 301008,
+    "name": "黑色恶蛆4级",
+    "lvl": 4,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1350,
+    "ac": 85,
+    "mac": 85,
+    "zs": 115,
+    "zs2": 134,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1053_atk",
+    "sound_hit": "monster_1053_hit",
+    "sound_die": "monster_1053_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "291": {
+    "id": 301009,
+    "name": "黑色恶蛆5级",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1500,
+    "ac": 95,
+    "mac": 95,
+    "zs": 130,
+    "zs2": 150,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1053_atk",
+    "sound_hit": "monster_1053_hit",
+    "sound_die": "monster_1053_die",
+    "model": "mdl_mst_1053",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "292": {
+    "id": 301010,
+    "name": "巨型多角虫1级",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1650,
+    "ac": 105,
+    "mac": 105,
+    "zs": 145,
+    "zs2": 166,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2005_atk",
+    "sound_hit": "monster_2005_hit",
+    "sound_die": "monster_2005_die",
+    "model": "mdl_mst_2005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "293": {
+    "id": 301011,
+    "name": "巨型多角虫2级",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1800,
+    "ac": 115,
+    "mac": 115,
+    "zs": 160,
+    "zs2": 182,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2005_atk",
+    "sound_hit": "monster_2005_hit",
+    "sound_die": "monster_2005_die",
+    "model": "mdl_mst_2005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "294": {
+    "id": 301012,
+    "name": "巨型多角虫3级",
+    "lvl": 3,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 1950,
+    "ac": 125,
+    "mac": 125,
+    "zs": 175,
+    "zs2": 198,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2005_atk",
+    "sound_hit": "monster_2005_hit",
+    "sound_die": "monster_2005_die",
+    "model": "mdl_mst_2005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "295": {
+    "id": 301013,
+    "name": "巨型多角虫4级",
+    "lvl": 4,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2100,
+    "ac": 135,
+    "mac": 135,
+    "zs": 190,
+    "zs2": 214,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2005_atk",
+    "sound_hit": "monster_2005_hit",
+    "sound_die": "monster_2005_die",
+    "model": "mdl_mst_2005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "296": {
+    "id": 301014,
+    "name": "巨型多角虫5级",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2250,
+    "ac": 145,
+    "mac": 145,
+    "zs": 205,
+    "zs2": 230,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 3,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_2005_atk",
+    "sound_hit": "monster_2005_hit",
+    "sound_die": "monster_2005_die",
+    "model": "mdl_mst_2005",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "297": {
+    "id": 301015,
+    "name": "虎卫1级",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2400,
+    "ac": 155,
+    "mac": 155,
+    "zs": 220,
+    "zs2": 246,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1048_atk",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "298": {
+    "id": 301016,
+    "name": "虎卫2级",
+    "lvl": 2,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2550,
+    "ac": 165,
+    "mac": 165,
+    "zs": 235,
+    "zs2": 262,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1048_atk",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "299": {
+    "id": 301017,
+    "name": "虎卫3级",
+    "lvl": 3,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2700,
+    "ac": 175,
+    "mac": 175,
+    "zs": 250,
+    "zs2": 278,
+    "fixeddamage": 1,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1048_atk",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "300": {
+    "id": 301018,
+    "name": "虎卫4级",
+    "lvl": 4,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 2850,
+    "ac": 185,
+    "mac": 185,
+    "zs": 265,
+    "zs2": 294,
+    "fixeddamage": 2,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1048_atk",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "301": {
+    "id": 301019,
+    "name": "虎卫5级",
+    "lvl": 5,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 3000,
+    "ac": 195,
+    "mac": 195,
+    "zs": 280,
+    "zs2": 310,
+    "fixeddamage": 3,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 5,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1048_atk",
+    "model": "mdl_mst_1068",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  },
+  "302": {
+    "id": 301020,
+    "name": "鹰卫",
+    "lvl": 1,
+    "viewrange": 3,
+    "exp": 1,
+    "hp": 3150,
+    "ac": 205,
+    "mac": 205,
+    "zs": 295,
+    "zs2": 530,
+    "fixeddamage": 0,
+    "fixedac": 0,
+    "hit": 10,
+    "evade": 0,
+    "critical": 6,
+    "tenacity": 0,
+    "walkwait": 1.5,
+    "sound_atk": "monster_1048_atk",
+    "model": "mdl_mst_1067",
+    "skilllist": [
+      4001
+    ],
+    "attack_spd": 2000.0
+  }
+}
